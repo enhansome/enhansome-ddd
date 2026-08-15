@@ -14,7 +14,7 @@
             "last_commit": "2023-11-15T22:27:17Z",
             "owner": "dotnet-architecture",
             "repo": "eShopOnContainers",
-            "stars": 24330
+            "stars": 24328
           }
         },
         {
@@ -143,7 +143,7 @@
             "last_commit": "2025-11-03T10:49:41Z",
             "owner": "ThreeDotsLabs",
             "repo": "wild-workouts-go-ddd-example",
-            "stars": 6409
+            "stars": 6411
           }
         },
         {
@@ -171,7 +171,7 @@
             "last_commit": "2026-08-14T12:00:02Z",
             "owner": "sklinkert",
             "repo": "go-ddd",
-            "stars": 798
+            "stars": 799
           }
         },
         {
@@ -499,7 +499,7 @@
             "last_commit": "2023-01-08T23:00:16Z",
             "owner": "charlessolar",
             "repo": "TodoMVC-DDD-CQRS-EventSourcing",
-            "stars": 256
+            "stars": 257
           }
         },
         {
@@ -861,7 +861,7 @@
             "last_commit": "2026-08-02T20:47:56Z",
             "owner": "eclipse-ee4j",
             "repo": "cargotracker",
-            "stars": 391
+            "stars": 390
           }
         },
         {
@@ -1102,7 +1102,7 @@
             "last_commit": "2026-08-10T22:18:47Z",
             "owner": "onsi",
             "repo": "ginkgo",
-            "stars": 9041
+            "stars": 9042
           }
         },
         {
@@ -1164,7 +1164,7 @@
             "last_commit": "2026-07-02T13:51:06Z",
             "owner": "LuckyPennySoftware",
             "repo": "MediatR",
-            "stars": 11855
+            "stars": 11853
           }
         },
         {
@@ -1178,7 +1178,7 @@
             "last_commit": "2026-06-04T18:06:31Z",
             "owner": "MassTransit",
             "repo": "MassTransit",
-            "stars": 7796
+            "stars": 7797
           }
         },
         {
@@ -1189,10 +1189,10 @@
           "repo_info": {
             "archived": false,
             "language": "C#",
-            "last_commit": "2026-08-11T19:57:10Z",
+            "last_commit": "2026-08-15T19:00:23Z",
             "owner": "JasperFx",
             "repo": "marten",
-            "stars": 3441
+            "stars": 3442
           }
         },
         {
@@ -1220,7 +1220,7 @@
             "last_commit": "2026-08-14T16:15:51Z",
             "owner": "Particular",
             "repo": "NServiceBus",
-            "stars": 2167
+            "stars": 2168
           }
         },
         {
@@ -1645,7 +1645,7 @@
           "repo_info": {
             "archived": false,
             "language": "Kotlin",
-            "last_commit": "2026-08-14T07:23:56Z",
+            "last_commit": "2026-08-15T05:23:17Z",
             "owner": "Ahoo-Wang",
             "repo": "Wow",
             "stars": 303
@@ -1791,7 +1791,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-14T19:36:08.642Z",
+    "last_updated": "2026-08-15T19:01:34.066Z",
     "original_repository": "heynickc/awesome-ddd",
     "original_repository_sha": "b6a05f661b3217b0380b54fa3e4c5f01f2e83e34",
     "enhanced_repository": "enhansome/enhansome-ddd",

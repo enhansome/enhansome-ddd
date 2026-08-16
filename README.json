@@ -76,7 +76,7 @@
             "last_commit": "2023-06-08T16:56:38Z",
             "owner": "valignatev",
             "repo": "ddd-dynamic",
-            "stars": 1401
+            "stars": 1400
           }
         },
         {
@@ -143,7 +143,7 @@
             "last_commit": "2025-11-03T10:49:41Z",
             "owner": "ThreeDotsLabs",
             "repo": "wild-workouts-go-ddd-example",
-            "stars": 6411
+            "stars": 6412
           }
         },
         {
@@ -275,7 +275,7 @@
             "last_commit": "2024-06-04T17:51:26Z",
             "owner": "kgrzybek",
             "repo": "modular-monolith-with-ddd",
-            "stars": 13939
+            "stars": 13940
           }
         },
         {
@@ -317,7 +317,7 @@
             "last_commit": "2026-05-18T06:03:55Z",
             "owner": "oskardudycz",
             "repo": "EventSourcing.NetCore",
-            "stars": 3676
+            "stars": 3677
           }
         },
         {
@@ -583,7 +583,7 @@
             "last_commit": "2014-05-01T00:31:58Z",
             "owner": "dcomartin",
             "repo": "DDD-CQRS-ES-Example",
-            "stars": 133
+            "stars": 134
           }
         },
         {
@@ -639,7 +639,7 @@
             "last_commit": "2026-08-12T19:58:03Z",
             "owner": "bravodev-hub",
             "repo": "appointme",
-            "stars": 40
+            "stars": 41
           }
         },
         {
@@ -706,7 +706,7 @@
           "repo_info": {
             "archived": false,
             "language": "C#",
-            "last_commit": "2026-06-10T04:37:07Z",
+            "last_commit": "2026-08-16T04:53:34Z",
             "owner": "tung-le-lv",
             "repo": "OpenMind.DDD.Patterns",
             "stars": 5
@@ -777,7 +777,7 @@
             "last_commit": "2023-07-07T21:43:17Z",
             "owner": "ddd-by-examples",
             "repo": "library",
-            "stars": 5839
+            "stars": 5838
           }
         },
         {
@@ -805,7 +805,7 @@
             "last_commit": "2023-09-09T17:02:35Z",
             "owner": "VaughnVernon",
             "repo": "IDDD_Samples",
-            "stars": 3944
+            "stars": 3943
           }
         },
         {
@@ -847,7 +847,7 @@
             "last_commit": "2018-05-22T22:15:14Z",
             "owner": "ddd-by-examples",
             "repo": "event-source-cqrs-sample",
-            "stars": 475
+            "stars": 474
           }
         },
         {
@@ -973,7 +973,7 @@
             "last_commit": "2026-08-14T06:36:31Z",
             "owner": "nekzabirov",
             "repo": "IGaming-Game-Engine",
-            "stars": 19
+            "stars": 20
           }
         }
       ],
@@ -993,7 +993,7 @@
             "last_commit": "2026-08-09T20:30:44Z",
             "owner": "jorge07",
             "repo": "symfony-7-es-cqrs-boilerplate",
-            "stars": 1089
+            "stars": 1088
           }
         },
         {
@@ -1007,7 +1007,7 @@
             "last_commit": "2018-11-06T22:31:30Z",
             "owner": "codeliner",
             "repo": "php-ddd-cargo-sample",
-            "stars": 789
+            "stars": 788
           }
         },
         {
@@ -1178,7 +1178,7 @@
             "last_commit": "2026-06-04T18:06:31Z",
             "owner": "MassTransit",
             "repo": "MassTransit",
-            "stars": 7797
+            "stars": 7798
           }
         },
         {
@@ -1189,10 +1189,10 @@
           "repo_info": {
             "archived": false,
             "language": "C#",
-            "last_commit": "2026-08-15T19:00:23Z",
+            "last_commit": "2026-08-16T16:23:24Z",
             "owner": "JasperFx",
             "repo": "marten",
-            "stars": 3442
+            "stars": 3444
           }
         },
         {
@@ -1206,7 +1206,7 @@
             "last_commit": "2026-07-31T10:37:33Z",
             "owner": "eventflow",
             "repo": "EventFlow",
-            "stars": 2564
+            "stars": 2565
           }
         },
         {
@@ -1455,7 +1455,7 @@
           "repo_info": {
             "archived": false,
             "language": "C#",
-            "last_commit": "2026-08-08T20:06:26Z",
+            "last_commit": "2026-08-16T16:37:13Z",
             "owner": "deveel",
             "repo": "kista",
             "stars": 3
@@ -1645,7 +1645,7 @@
           "repo_info": {
             "archived": false,
             "language": "Kotlin",
-            "last_commit": "2026-08-15T05:23:17Z",
+            "last_commit": "2026-08-16T15:01:48Z",
             "owner": "Ahoo-Wang",
             "repo": "Wow",
             "stars": 303
@@ -1696,7 +1696,7 @@
             "last_commit": "2026-08-09T19:20:52Z",
             "owner": "broadway",
             "repo": "broadway",
-            "stars": 1510
+            "stars": 1509
           }
         },
         {
@@ -1727,7 +1727,7 @@
           "repo_info": {
             "archived": false,
             "language": "Python",
-            "last_commit": "2026-07-27T18:14:42Z",
+            "last_commit": "2026-08-16T01:15:28Z",
             "owner": "pyeventsourcing",
             "repo": "eventsourcing",
             "stars": 1681
@@ -1791,7 +1791,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-15T19:01:34.066Z",
+    "last_updated": "2026-08-16T19:01:01.661Z",
     "original_repository": "heynickc/awesome-ddd",
     "original_repository_sha": "b6a05f661b3217b0380b54fa3e4c5f01f2e83e34",
     "enhanced_repository": "enhansome/enhansome-ddd",

@@ -14,7 +14,7 @@
             "last_commit": "2023-11-15T22:27:17Z",
             "owner": "dotnet-architecture",
             "repo": "eShopOnContainers",
-            "stars": 24328
+            "stars": 24329
           }
         },
         {
@@ -28,7 +28,7 @@
             "last_commit": "2025-01-13T20:55:37Z",
             "owner": "dotnet-architecture",
             "repo": "eShopOnWeb",
-            "stars": 10693
+            "stars": 10694
           }
         }
       ],
@@ -171,7 +171,7 @@
             "last_commit": "2026-08-14T12:00:02Z",
             "owner": "sklinkert",
             "repo": "go-ddd",
-            "stars": 799
+            "stars": 800
           }
         },
         {
@@ -275,7 +275,7 @@
             "last_commit": "2024-06-04T17:51:26Z",
             "owner": "kgrzybek",
             "repo": "modular-monolith-with-ddd",
-            "stars": 13940
+            "stars": 13944
           }
         },
         {
@@ -289,7 +289,7 @@
             "last_commit": "2025-01-13T20:55:37Z",
             "owner": "dotnet-architecture",
             "repo": "eShopOnWeb",
-            "stars": 10693
+            "stars": 10694
           }
         },
         {
@@ -317,7 +317,7 @@
             "last_commit": "2026-05-18T06:03:55Z",
             "owner": "oskardudycz",
             "repo": "EventSourcing.NetCore",
-            "stars": 3677
+            "stars": 3676
           }
         },
         {
@@ -331,7 +331,7 @@
             "last_commit": "2024-02-27T17:46:16Z",
             "owner": "kgrzybek",
             "repo": "sample-dotnet-core-cqrs-api",
-            "stars": 3062
+            "stars": 3061
           }
         },
         {
@@ -777,7 +777,7 @@
             "last_commit": "2023-07-07T21:43:17Z",
             "owner": "ddd-by-examples",
             "repo": "library",
-            "stars": 5838
+            "stars": 5840
           }
         },
         {
@@ -1102,7 +1102,7 @@
             "last_commit": "2026-08-10T22:18:47Z",
             "owner": "onsi",
             "repo": "ginkgo",
-            "stars": 9042
+            "stars": 9041
           }
         },
         {
@@ -1127,7 +1127,7 @@
           "repo_info": {
             "archived": false,
             "language": "Go",
-            "last_commit": "2026-08-13T20:55:15Z",
+            "last_commit": "2026-08-17T15:48:36Z",
             "owner": "cucumber",
             "repo": "godog",
             "stars": 2659
@@ -1164,7 +1164,7 @@
             "last_commit": "2026-07-02T13:51:06Z",
             "owner": "LuckyPennySoftware",
             "repo": "MediatR",
-            "stars": 11853
+            "stars": 11852
           }
         },
         {
@@ -1189,7 +1189,7 @@
           "repo_info": {
             "archived": false,
             "language": "C#",
-            "last_commit": "2026-08-16T16:23:24Z",
+            "last_commit": "2026-08-17T11:46:21Z",
             "owner": "JasperFx",
             "repo": "marten",
             "stars": 3444
@@ -1217,7 +1217,7 @@
           "repo_info": {
             "archived": false,
             "language": "C#",
-            "last_commit": "2026-08-14T16:15:51Z",
+            "last_commit": "2026-08-17T02:03:49Z",
             "owner": "Particular",
             "repo": "NServiceBus",
             "stars": 2168
@@ -1645,7 +1645,7 @@
           "repo_info": {
             "archived": false,
             "language": "Kotlin",
-            "last_commit": "2026-08-16T15:01:48Z",
+            "last_commit": "2026-08-17T07:51:47Z",
             "owner": "Ahoo-Wang",
             "repo": "Wow",
             "stars": 303
@@ -1730,7 +1730,7 @@
             "last_commit": "2026-08-16T01:15:28Z",
             "owner": "pyeventsourcing",
             "repo": "eventsourcing",
-            "stars": 1681
+            "stars": 1682
           }
         },
         {
@@ -1791,7 +1791,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-16T19:01:01.661Z",
+    "last_updated": "2026-08-17T19:15:23.264Z",
     "original_repository": "heynickc/awesome-ddd",
     "original_repository_sha": "b6a05f661b3217b0380b54fa3e4c5f01f2e83e34",
     "enhanced_repository": "enhansome/enhansome-ddd",

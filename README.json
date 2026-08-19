@@ -15,7 +15,7 @@
             "last_commit": "2023-11-15T22:27:17Z",
             "owner": "dotnet-architecture",
             "repo": "eShopOnContainers",
-            "stars": 24329
+            "stars": 24328
           }
         },
         {
@@ -30,7 +30,7 @@
             "last_commit": "2025-01-13T20:55:37Z",
             "owner": "dotnet-architecture",
             "repo": "eShopOnWeb",
-            "stars": 10691
+            "stars": 10692
           }
         }
       ],
@@ -306,7 +306,7 @@
                 "last_commit": "2025-01-13T20:55:37Z",
                 "owner": "dotnet-architecture",
                 "repo": "eShopOnWeb",
-                "stars": 10691
+                "stars": 10692
               }
             },
             {
@@ -830,7 +830,7 @@
                 "last_commit": "2023-07-07T21:43:17Z",
                 "owner": "ddd-by-examples",
                 "repo": "library",
-                "stars": 5840
+                "stars": 5841
               }
             },
             {
@@ -860,7 +860,7 @@
                 "last_commit": "2023-09-09T17:02:35Z",
                 "owner": "VaughnVernon",
                 "repo": "IDDD_Samples",
-                "stars": 3943
+                "stars": 3944
               }
             },
             {
@@ -1574,7 +1574,7 @@
                 "archived": false,
                 "id": 1252076814,
                 "language": "C#",
-                "last_commit": "2026-08-14T16:44:58Z",
+                "last_commit": "2026-08-19T17:57:53Z",
                 "owner": "yesbert",
                 "repo": "Stratara",
                 "stars": 2
@@ -1834,7 +1834,7 @@
                 "archived": false,
                 "id": 41365202,
                 "language": "Python",
-                "last_commit": "2026-08-19T11:53:18Z",
+                "last_commit": "2026-08-19T15:39:45Z",
                 "owner": "pyeventsourcing",
                 "repo": "eventsourcing",
                 "stars": 1682
@@ -1901,7 +1901,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-19T12:23:45.602Z",
+    "last_updated": "2026-08-19T19:06:39.538Z",
     "original_repository": "heynickc/awesome-ddd",
     "original_repository_id": 67043714,
     "original_repository_sha": "b6a05f661b3217b0380b54fa3e4c5f01f2e83e34",

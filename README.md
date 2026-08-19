@@ -267,9 +267,9 @@ The term was coined by Eric Evans in his book of the same title.
 
 ### JVM languages
 
-* [DDD By Examples - Library](https://github.com/ddd-by-examples/library) ⭐ 5,840 | 🐛 23 | 🌐 Java | 📅 2023-07-07 - sample project of a library driven by real business requirements. Modular monolith implemented with the help od DDD, BDD, EventStorming, Example Mapping, CQRS, and more.
+* [DDD By Examples - Library](https://github.com/ddd-by-examples/library) ⭐ 5,841 | 🐛 23 | 🌐 Java | 📅 2023-07-07 - sample project of a library driven by real business requirements. Modular monolith implemented with the help od DDD, BDD, EventStorming, Example Mapping, CQRS, and more.
 * [DDDSample](https://github.com/citerus/dddsample-core) ⭐ 5,287 | 🐛 33 | 🌐 Java | 📅 2025-06-02 - Sample DDD project using Spring Boot (originally hosted in <http://dddsample.sourceforge.net/>)
-* [IDDD Samples](https://github.com/VaughnVernon/IDDD_Samples) ⭐ 3,943 | 🐛 36 | 🌐 Java | 📅 2023-09-09 - These are the sample Bounded Contexts from the book "Implementing Domain-Driven Design" by Vaughn Vernon.
+* [IDDD Samples](https://github.com/VaughnVernon/IDDD_Samples) ⭐ 3,944 | 🐛 36 | 🌐 Java | 📅 2023-09-09 - These are the sample Bounded Contexts from the book "Implementing Domain-Driven Design" by Vaughn Vernon.
 * [DDD Leaven](https://github.com/BottegaIT/ddd-leaven-v2) ⭐ 881 | 🐛 2 | 🌐 Java | 📅 2023-12-17 - DDD-CQRS sample v2.0 project that helps you with starting out advanced domain modeling using Spring, JPA and testing.
 * [Event Sourcing and CQRS Examples](https://github.com/andreschaffer/event-sourcing-cqrs-examples) ⭐ 598 | 🐛 7 | 🌐 Java | 📅 2026-08-11 - A pragmatic application of Event Sourcing and CQRS in Java with good references for common related problems, e.g. event ordering and idempotency.
 * [Event Sourcing and CQRS Sample](https://github.com/pilloPl/event-source-cqrs-sample) ⭐ 474 | 🐛 1 | 🌐 Java | 📅 2018-05-22 - Sample event sourced application with Command Query Responsibility Segregation
@@ -306,7 +306,7 @@ The term was coined by Eric Evans in his book of the same title.
 
 * [MediatR](https://github.com/jbogard/MediatR) ⭐ 11,852 | 🐛 2 | 🌐 C# | 📅 2026-07-02 - Supports request/response, commands, queries, notifications and events, synchronous and async with intelligent dispatching via C# generic variance.
 * [MassTransit](https://github.com/MassTransit/MassTransit) ⭐ 7,797 | 🐛 1 | 🌐 C# | 📅 2026-06-04 - Distributed Application Framework for .NET.
-* [Marten](https://github.com/JasperFx/marten) ⭐ 3,444 | 🐛 5 | 🌐 C# | 📅 2026-08-18 - Postgresql as a Document Database and Event Store for .Net Applications.
+* [Marten](https://github.com/JasperFx/marten) ⭐ 3,444 | 🐛 7 | 🌐 C# | 📅 2026-08-18 - Postgresql as a Document Database and Event Store for .Net Applications.
 * [EventFlow](https://github.com/eventflow/EventFlow) ⭐ 2,565 | 🐛 13 | 🌐 C# | 📅 2026-07-31 - Async/await first CQRS+ES and DDD framework for .NET <http://geteventflow.net/>.
 * [NServiceBus](https://github.com/Particular/NServiceBus) ⭐ 2,168 | 🐛 287 | 🌐 C# | 📅 2026-08-17 - Service bus for .NET.
 * [NEventStore](https://github.com/NEventStore/NEventStore) ⭐ 1,615 | 🐛 24 | 🌐 C# | 📅 2026-07-22 - A persistence library used to abstract different storage implementations when using event sourcing as storage mechanism.
@@ -326,7 +326,7 @@ The term was coined by Eric Evans in his book of the same title.
 * [ByValue](https://github.com/sm-g/ByValue) ⭐ 7 | 🐛 1 | 🌐 C# | 📅 2022-02-05 - This library helps to create ValueObjects (even with collection properties) with properly implemented equality behavior.
 * [Core.EventStore](https://github.com/younos1986/Core.EventStore) ⭐ 6 | 🐛 3 | 🌐 C# | 📅 2023-03-03 - A library to facilitate communication between CommandService and QueryService. The Idea is when any event occures in commandService, it should be persisted in QueryService in MongoDb.
 * [Deveel Repository](https://github.com/deveel/deveel.repository) ⭐ 3 | 🐛 19 | 🌐 C# | 📅 2026-08-16 - A simple implementation of the Repository pattern for .NET, supporting MongoDB and Entity Framework, extending the model with further utilities (caching, paging, validation, etc.).
-* [Stratara](https://github.com/yesbert/Stratara) ⭐ 2 | 🐛 0 | 🌐 C# | 📅 2026-08-14 - CQRS and Event Sourcing framework for .NET with tamper-evident streams and tenant-aware encryption, plus integrated mediator, outbox, sagas and projections.
+* [Stratara](https://github.com/yesbert/Stratara) ⭐ 2 | 🐛 0 | 🌐 C# | 📅 2026-08-19 - CQRS and Event Sourcing framework for .NET with tamper-evident streams and tenant-aware encryption, plus integrated mediator, outbox, sagas and projections.
 * [Akka.NET](http://getakka.net/) - Akka.NET is a toolkit and runtime for building highly concurrent, distributed, and fault tolerant event-driven applications on .NET & Mono.
 * [ABP](https://abp.io) - Successor of ASP.NET Boilerplate - ASP.NET Core based application framework to create NLayered, Domain Driven Designed web applications with a microservice focused modular architecture
 * [ASP.NET Boilerplate](http://aspnetboilerplate.com/) - ASP.NET MVC, Web API and ASP.NET Core based application framework to create NLayered, Domain Driven Designed web Applications implementing best practices.

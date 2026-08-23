@@ -15,7 +15,7 @@
             "last_commit": "2023-11-15T22:27:17Z",
             "owner": "dotnet-architecture",
             "repo": "eShopOnContainers",
-            "stars": 24328
+            "stars": 24329
           }
         },
         {
@@ -63,10 +63,10 @@
             "archived": false,
             "id": 265461637,
             "language": null,
-            "last_commit": "2026-08-01T09:08:39Z",
+            "last_commit": "2026-08-23T07:12:50Z",
             "owner": "ddd-crew",
             "repo": "context-mapping",
-            "stars": 1842
+            "stars": 1843
           }
         },
         {
@@ -149,7 +149,7 @@
                 "last_commit": "2025-11-03T10:49:41Z",
                 "owner": "ThreeDotsLabs",
                 "repo": "wild-workouts-go-ddd-example",
-                "stars": 6423
+                "stars": 6424
               }
             },
             {
@@ -291,7 +291,7 @@
                 "last_commit": "2024-06-04T17:51:26Z",
                 "owner": "kgrzybek",
                 "repo": "modular-monolith-with-ddd",
-                "stars": 13952
+                "stars": 13953
               }
             },
             {
@@ -321,7 +321,7 @@
                 "last_commit": "2026-04-14T23:33:37Z",
                 "owner": "EduardoPires",
                 "repo": "EquinoxProject",
-                "stars": 6777
+                "stars": 6779
               }
             },
             {
@@ -678,7 +678,7 @@
                 "archived": false,
                 "id": 1261955620,
                 "language": "TypeScript",
-                "last_commit": "2026-08-22T06:55:55Z",
+                "last_commit": "2026-08-23T12:23:07Z",
                 "owner": "bravodev-hub",
                 "repo": "appointme",
                 "stars": 43
@@ -778,7 +778,7 @@
                 "last_commit": "2026-08-02T08:50:26Z",
                 "owner": "bitloops",
                 "repo": "ddd-hexagonal-cqrs-es-eda",
-                "stars": 1434
+                "stars": 1435
               }
             },
             {
@@ -920,7 +920,7 @@
                 "last_commit": "2026-08-02T20:47:56Z",
                 "owner": "eclipse-ee4j",
                 "repo": "cargotracker",
-                "stars": 391
+                "stars": 390
               }
             },
             {
@@ -1037,7 +1037,7 @@
                 "archived": false,
                 "id": 1094544202,
                 "language": "Kotlin",
-                "last_commit": "2026-08-22T16:30:33Z",
+                "last_commit": "2026-08-23T13:04:01Z",
                 "owner": "nekzabirov",
                 "repo": "IGaming-Game-Engine",
                 "stars": 22
@@ -1180,7 +1180,7 @@
                 "last_commit": "2026-08-10T22:18:47Z",
                 "owner": "onsi",
                 "repo": "ginkgo",
-                "stars": 9041
+                "stars": 9042
               }
             },
             {
@@ -1247,7 +1247,7 @@
                 "last_commit": "2026-07-02T13:51:06Z",
                 "owner": "LuckyPennySoftware",
                 "repo": "MediatR",
-                "stars": 11855
+                "stars": 11856
               }
             },
             {
@@ -1262,7 +1262,7 @@
                 "last_commit": "2026-06-04T18:06:31Z",
                 "owner": "MassTransit",
                 "repo": "MassTransit",
-                "stars": 7797
+                "stars": 7796
               }
             },
             {
@@ -1499,7 +1499,7 @@
                 "archived": false,
                 "id": 109478725,
                 "language": "C#",
-                "last_commit": "2026-08-22T18:06:33Z",
+                "last_commit": "2026-08-23T15:17:29Z",
                 "owner": "lucabriguglia",
                 "repo": "Memoria",
                 "stars": 28
@@ -1574,7 +1574,7 @@
                 "archived": false,
                 "id": 1252076814,
                 "language": "C#",
-                "last_commit": "2026-08-22T18:44:29Z",
+                "last_commit": "2026-08-23T18:47:40Z",
                 "owner": "yesbert",
                 "repo": "Stratara",
                 "stars": 2
@@ -1745,7 +1745,7 @@
                 "archived": false,
                 "id": 628167080,
                 "language": "Kotlin",
-                "last_commit": "2026-08-22T17:06:36Z",
+                "last_commit": "2026-08-23T15:43:21Z",
                 "owner": "Ahoo-Wang",
                 "repo": "Wow",
                 "stars": 303
@@ -1834,7 +1834,7 @@
                 "archived": false,
                 "id": 41365202,
                 "language": "Python",
-                "last_commit": "2026-08-19T15:39:45Z",
+                "last_commit": "2026-08-23T11:41:46Z",
                 "owner": "pyeventsourcing",
                 "repo": "eventsourcing",
                 "stars": 1683
@@ -1901,7 +1901,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-22T19:02:56.028Z",
+    "last_updated": "2026-08-23T19:02:30.799Z",
     "original_repository": "heynickc/awesome-ddd",
     "original_repository_id": 67043714,
     "original_repository_sha": "b6a05f661b3217b0380b54fa3e4c5f01f2e83e34",

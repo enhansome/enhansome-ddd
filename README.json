@@ -149,7 +149,7 @@
                 "last_commit": "2025-11-03T10:49:41Z",
                 "owner": "ThreeDotsLabs",
                 "repo": "wild-workouts-go-ddd-example",
-                "stars": 6424
+                "stars": 6426
               }
             },
             {
@@ -291,7 +291,7 @@
                 "last_commit": "2024-06-04T17:51:26Z",
                 "owner": "kgrzybek",
                 "repo": "modular-monolith-with-ddd",
-                "stars": 13954
+                "stars": 13958
               }
             },
             {
@@ -321,7 +321,7 @@
                 "last_commit": "2026-04-14T23:33:37Z",
                 "owner": "EduardoPires",
                 "repo": "EquinoxProject",
-                "stars": 6780
+                "stars": 6779
               }
             },
             {
@@ -874,7 +874,7 @@
                 "last_commit": "2023-07-07T21:43:17Z",
                 "owner": "ddd-by-examples",
                 "repo": "library",
-                "stars": 5848
+                "stars": 5849
               }
             },
             {
@@ -964,7 +964,7 @@
                 "last_commit": "2026-08-02T20:47:56Z",
                 "owner": "eclipse-ee4j",
                 "repo": "cargotracker",
-                "stars": 390
+                "stars": 391
               }
             },
             {
@@ -1081,7 +1081,7 @@
                 "archived": false,
                 "id": 1094544202,
                 "language": "Kotlin",
-                "last_commit": "2026-08-24T10:20:17Z",
+                "last_commit": "2026-08-24T16:48:06Z",
                 "owner": "nekzabirov",
                 "repo": "IGaming-Game-Engine",
                 "stars": 22
@@ -1239,7 +1239,7 @@
                 "last_commit": "2024-07-30T12:11:32Z",
                 "owner": "smartystreets",
                 "repo": "goconvey",
-                "stars": 8406
+                "stars": 8405
               }
             },
             {
@@ -1321,7 +1321,7 @@
                 "last_commit": "2026-08-21T02:39:56Z",
                 "owner": "JasperFx",
                 "repo": "marten",
-                "stars": 3446
+                "stars": 3447
               }
             },
             {
@@ -1811,7 +1811,7 @@
                 "archived": false,
                 "id": 628167080,
                 "language": "Kotlin",
-                "last_commit": "2026-08-24T13:49:01Z",
+                "last_commit": "2026-08-24T17:02:45Z",
                 "owner": "Ahoo-Wang",
                 "repo": "Wow",
                 "stars": 303
@@ -1967,7 +1967,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-24T13:50:22.449Z",
+    "last_updated": "2026-08-24T19:16:57.854Z",
     "original_repository": "heynickc/awesome-ddd",
     "original_repository_id": 67043714,
     "original_repository_sha": "b6a05f661b3217b0380b54fa3e4c5f01f2e83e34",

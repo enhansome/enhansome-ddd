@@ -66,7 +66,7 @@
             "last_commit": "2026-08-23T07:12:50Z",
             "owner": "ddd-crew",
             "repo": "context-mapping",
-            "stars": 1843
+            "stars": 1844
           }
         },
         {
@@ -146,10 +146,10 @@
                 "archived": false,
                 "id": 261871717,
                 "language": "Go",
-                "last_commit": "2025-11-03T10:49:41Z",
+                "last_commit": "2026-08-25T16:48:37Z",
                 "owner": "ThreeDotsLabs",
                 "repo": "wild-workouts-go-ddd-example",
-                "stars": 6431
+                "stars": 6429
               }
             },
             {
@@ -179,7 +179,7 @@
                 "last_commit": "2026-08-24T20:53:05Z",
                 "owner": "sklinkert",
                 "repo": "go-ddd",
-                "stars": 800
+                "stars": 801
               }
             },
             {
@@ -291,7 +291,7 @@
                 "last_commit": "2024-06-04T17:51:26Z",
                 "owner": "kgrzybek",
                 "repo": "modular-monolith-with-ddd",
-                "stars": 13959
+                "stars": 13960
               }
             },
             {
@@ -681,7 +681,7 @@
                 "last_commit": "2026-08-24T07:46:07Z",
                 "owner": "bravodev-hub",
                 "repo": "appointme",
-                "stars": 43
+                "stars": 45
               }
             },
             {
@@ -889,7 +889,7 @@
                 "last_commit": "2025-06-02T09:09:44Z",
                 "owner": "citerus",
                 "repo": "dddsample-core",
-                "stars": 5287
+                "stars": 5288
               }
             },
             {
@@ -1081,7 +1081,7 @@
                 "archived": false,
                 "id": 1094544202,
                 "language": "Kotlin",
-                "last_commit": "2026-08-24T22:16:59Z",
+                "last_commit": "2026-08-25T18:37:19Z",
                 "owner": "nekzabirov",
                 "repo": "IGaming-Game-Engine",
                 "stars": 22
@@ -1224,7 +1224,7 @@
                 "last_commit": "2026-08-10T22:18:47Z",
                 "owner": "onsi",
                 "repo": "ginkgo",
-                "stars": 9042
+                "stars": 9043
               }
             },
             {
@@ -1254,7 +1254,7 @@
                 "last_commit": "2026-08-21T20:57:01Z",
                 "owner": "cucumber",
                 "repo": "godog",
-                "stars": 2662
+                "stars": 2663
               }
             },
             {
@@ -1291,7 +1291,7 @@
                 "last_commit": "2026-07-02T13:51:06Z",
                 "owner": "LuckyPennySoftware",
                 "repo": "MediatR",
-                "stars": 11856
+                "stars": 11857
               }
             },
             {
@@ -1306,7 +1306,7 @@
                 "last_commit": "2026-06-04T18:06:31Z",
                 "owner": "MassTransit",
                 "repo": "MassTransit",
-                "stars": 7796
+                "stars": 7797
               }
             },
             {
@@ -1321,7 +1321,7 @@
                 "last_commit": "2026-08-21T02:39:56Z",
                 "owner": "JasperFx",
                 "repo": "marten",
-                "stars": 3447
+                "stars": 3448
               }
             },
             {
@@ -1543,7 +1543,7 @@
                 "archived": false,
                 "id": 109478725,
                 "language": "C#",
-                "last_commit": "2026-08-23T15:17:29Z",
+                "last_commit": "2026-08-25T07:44:22Z",
                 "owner": "lucabriguglia",
                 "repo": "Memoria",
                 "stars": 28
@@ -1618,7 +1618,7 @@
                 "archived": false,
                 "id": 1252076814,
                 "language": "C#",
-                "last_commit": "2026-08-23T18:47:40Z",
+                "last_commit": "2026-08-25T10:06:31Z",
                 "owner": "yesbert",
                 "repo": "Stratara",
                 "stars": 2
@@ -1784,7 +1784,7 @@
                 "last_commit": "2025-12-19T22:50:35Z",
                 "owner": "funkygao",
                 "repo": "cp-ddd-framework",
-                "stars": 1155
+                "stars": 1154
               }
             },
             {
@@ -1811,7 +1811,7 @@
                 "archived": false,
                 "id": 628167080,
                 "language": "Kotlin",
-                "last_commit": "2026-08-25T05:15:08Z",
+                "last_commit": "2026-08-25T12:57:45Z",
                 "owner": "Ahoo-Wang",
                 "repo": "Wow",
                 "stars": 303
@@ -1959,7 +1959,7 @@
             "last_commit": "2026-08-05T17:37:10Z",
             "owner": "poulainpi",
             "repo": "ddd-toolbox",
-            "stars": 386
+            "stars": 387
           }
         }
       ],
@@ -1967,7 +1967,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-25T05:45:18.990Z",
+    "last_updated": "2026-08-25T19:16:53.743Z",
     "original_repository": "heynickc/awesome-ddd",
     "original_repository_id": 67043714,
     "original_repository_sha": "b6a05f661b3217b0380b54fa3e4c5f01f2e83e34",

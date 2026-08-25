@@ -149,7 +149,7 @@
                 "last_commit": "2025-11-03T10:49:41Z",
                 "owner": "ThreeDotsLabs",
                 "repo": "wild-workouts-go-ddd-example",
-                "stars": 6426
+                "stars": 6431
               }
             },
             {
@@ -176,7 +176,7 @@
                 "archived": false,
                 "id": 677511480,
                 "language": "Go",
-                "last_commit": "2026-08-18T07:48:44Z",
+                "last_commit": "2026-08-24T20:53:05Z",
                 "owner": "sklinkert",
                 "repo": "go-ddd",
                 "stars": 800
@@ -291,7 +291,7 @@
                 "last_commit": "2024-06-04T17:51:26Z",
                 "owner": "kgrzybek",
                 "repo": "modular-monolith-with-ddd",
-                "stars": 13958
+                "stars": 13959
               }
             },
             {
@@ -336,7 +336,7 @@
                 "last_commit": "2026-05-18T06:03:55Z",
                 "owner": "oskardudycz",
                 "repo": "EventSourcing.NetCore",
-                "stars": 3677
+                "stars": 3679
               }
             },
             {
@@ -366,7 +366,7 @@
                 "last_commit": "2024-02-21T09:56:54Z",
                 "owner": "gregoryyoung",
                 "repo": "m-r",
-                "stars": 2171
+                "stars": 2172
               }
             },
             {
@@ -1059,7 +1059,7 @@
             },
             {
               "node_type": "item",
-              "title": "https://github.com/felipexw/clean-arch-ddd-intro",
+              "title": "felipexw/clean-arch-ddd-intro",
               "description": "Simple DDD + Clean Architecture using Micronaut.",
               "children": [],
               "repo_info": {
@@ -1081,7 +1081,7 @@
                 "archived": false,
                 "id": 1094544202,
                 "language": "Kotlin",
-                "last_commit": "2026-08-24T16:48:06Z",
+                "last_commit": "2026-08-24T22:16:59Z",
                 "owner": "nekzabirov",
                 "repo": "IGaming-Game-Engine",
                 "stars": 22
@@ -1348,7 +1348,7 @@
                 "archived": false,
                 "id": 1056713,
                 "language": "C#",
-                "last_commit": "2026-08-24T10:16:05Z",
+                "last_commit": "2026-08-24T21:48:18Z",
                 "owner": "Particular",
                 "repo": "NServiceBus",
                 "stars": 2168
@@ -1717,7 +1717,7 @@
                 "last_commit": "2023-03-04T04:02:18Z",
                 "owner": "talyssonoc",
                 "repo": "node-api-boilerplate",
-                "stars": 3355
+                "stars": 3356
               }
             },
             {
@@ -1811,7 +1811,7 @@
                 "archived": false,
                 "id": 628167080,
                 "language": "Kotlin",
-                "last_commit": "2026-08-24T17:02:45Z",
+                "last_commit": "2026-08-25T05:15:08Z",
                 "owner": "Ahoo-Wang",
                 "repo": "Wow",
                 "stars": 303
@@ -1967,7 +1967,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-24T19:16:57.854Z",
+    "last_updated": "2026-08-25T05:45:18.990Z",
     "original_repository": "heynickc/awesome-ddd",
     "original_repository_id": 67043714,
     "original_repository_sha": "b6a05f661b3217b0380b54fa3e4c5f01f2e83e34",

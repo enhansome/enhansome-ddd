@@ -15,7 +15,7 @@
             "last_commit": "2023-11-15T22:27:17Z",
             "owner": "dotnet-architecture",
             "repo": "eShopOnContainers",
-            "stars": 24328
+            "stars": 24327
           }
         },
         {
@@ -51,7 +51,7 @@
             "last_commit": "2024-10-23T06:49:57Z",
             "owner": "mariuszgil",
             "repo": "awesome-eventstorming",
-            "stars": 2392
+            "stars": 2393
           }
         },
         {
@@ -66,7 +66,7 @@
             "last_commit": "2026-08-23T07:12:50Z",
             "owner": "ddd-crew",
             "repo": "context-mapping",
-            "stars": 1844
+            "stars": 1845
           }
         },
         {
@@ -149,7 +149,7 @@
                 "last_commit": "2026-08-25T16:48:37Z",
                 "owner": "ThreeDotsLabs",
                 "repo": "wild-workouts-go-ddd-example",
-                "stars": 6429
+                "stars": 6431
               }
             },
             {
@@ -176,7 +176,7 @@
                 "archived": false,
                 "id": 677511480,
                 "language": "Go",
-                "last_commit": "2026-08-24T20:53:05Z",
+                "last_commit": "2026-08-26T13:42:24Z",
                 "owner": "sklinkert",
                 "repo": "go-ddd",
                 "stars": 801
@@ -291,7 +291,7 @@
                 "last_commit": "2024-06-04T17:51:26Z",
                 "owner": "kgrzybek",
                 "repo": "modular-monolith-with-ddd",
-                "stars": 13960
+                "stars": 13962
               }
             },
             {
@@ -889,7 +889,7 @@
                 "last_commit": "2025-06-02T09:09:44Z",
                 "owner": "citerus",
                 "repo": "dddsample-core",
-                "stars": 5288
+                "stars": 5287
               }
             },
             {
@@ -1059,6 +1059,21 @@
             },
             {
               "node_type": "item",
+              "title": "Casino Engine",
+              "description": "Production iGaming/casino engine in Kotlin/Ktor demonstrating Hexagonal Architecture with DDD and CQRS. Aggregates raise domain events, repository ports live in the domain layer, command and query handlers are wired through a Koin-discovered registry, and domain events are published to RabbitMQ after the write transaction commits. Apache 2.0.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 1094544202,
+                "language": "Kotlin",
+                "last_commit": "2026-08-25T18:37:19Z",
+                "owner": "nekzabirov",
+                "repo": "IGaming-Game-Engine",
+                "stars": 23
+              }
+            },
+            {
+              "node_type": "item",
               "title": "felipexw/clean-arch-ddd-intro",
               "description": "Simple DDD + Clean Architecture using Micronaut.",
               "children": [],
@@ -1070,21 +1085,6 @@
                 "owner": "felipexw",
                 "repo": "clean-arch-ddd-intro",
                 "stars": 23
-              }
-            },
-            {
-              "node_type": "item",
-              "title": "Casino Engine",
-              "description": "Production iGaming/casino engine in Kotlin/Ktor demonstrating Hexagonal Architecture with DDD and CQRS. Aggregates raise domain events, repository ports live in the domain layer, command and query handlers are wired through a Koin-discovered registry, and domain events are published to RabbitMQ after the write transaction commits. Apache 2.0.",
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "id": 1094544202,
-                "language": "Kotlin",
-                "last_commit": "2026-08-25T18:37:19Z",
-                "owner": "nekzabirov",
-                "repo": "IGaming-Game-Engine",
-                "stars": 22
               }
             }
           ],
@@ -1254,7 +1254,7 @@
                 "last_commit": "2026-08-21T20:57:01Z",
                 "owner": "cucumber",
                 "repo": "godog",
-                "stars": 2663
+                "stars": 2665
               }
             },
             {
@@ -1269,7 +1269,7 @@
                 "last_commit": "2026-06-23T15:43:25Z",
                 "owner": "go-bdd",
                 "repo": "gobdd",
-                "stars": 142
+                "stars": 143
               }
             }
           ],
@@ -1291,7 +1291,7 @@
                 "last_commit": "2026-07-02T13:51:06Z",
                 "owner": "LuckyPennySoftware",
                 "repo": "MediatR",
-                "stars": 11857
+                "stars": 11858
               }
             },
             {
@@ -1306,7 +1306,7 @@
                 "last_commit": "2026-06-04T18:06:31Z",
                 "owner": "MassTransit",
                 "repo": "MassTransit",
-                "stars": 7797
+                "stars": 7798
               }
             },
             {
@@ -1318,7 +1318,7 @@
                 "archived": false,
                 "id": 44125268,
                 "language": "C#",
-                "last_commit": "2026-08-21T02:39:56Z",
+                "last_commit": "2026-08-26T18:11:16Z",
                 "owner": "JasperFx",
                 "repo": "marten",
                 "stars": 3448
@@ -1336,7 +1336,7 @@
                 "last_commit": "2026-07-31T10:37:33Z",
                 "owner": "eventflow",
                 "repo": "EventFlow",
-                "stars": 2565
+                "stars": 2564
               }
             },
             {
@@ -1348,7 +1348,7 @@
                 "archived": false,
                 "id": 1056713,
                 "language": "C#",
-                "last_commit": "2026-08-24T21:48:18Z",
+                "last_commit": "2026-08-26T12:48:33Z",
                 "owner": "Particular",
                 "repo": "NServiceBus",
                 "stars": 2168
@@ -1810,8 +1810,8 @@
               "repo_info": {
                 "archived": false,
                 "id": 628167080,
-                "language": "Kotlin",
-                "last_commit": "2026-08-25T12:57:45Z",
+                "language": null,
+                "last_commit": "2026-08-26T07:30:06Z",
                 "owner": "Ahoo-Wang",
                 "repo": "Wow",
                 "stars": 303
@@ -1967,7 +1967,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-25T19:16:53.743Z",
+    "last_updated": "2026-08-26T21:13:32.302Z",
     "original_repository": "heynickc/awesome-ddd",
     "original_repository_id": 67043714,
     "original_repository_sha": "b6a05f661b3217b0380b54fa3e4c5f01f2e83e34",

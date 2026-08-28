@@ -291,7 +291,7 @@
                 "last_commit": "2024-06-04T17:51:26Z",
                 "owner": "kgrzybek",
                 "repo": "modular-monolith-with-ddd",
-                "stars": 13962
+                "stars": 13964
               }
             },
             {
@@ -1254,7 +1254,7 @@
                 "last_commit": "2026-08-27T04:08:52Z",
                 "owner": "cucumber",
                 "repo": "godog",
-                "stars": 2664
+                "stars": 2665
               }
             },
             {
@@ -1318,10 +1318,10 @@
                 "archived": false,
                 "id": 44125268,
                 "language": "C#",
-                "last_commit": "2026-08-26T18:11:16Z",
+                "last_commit": "2026-08-27T12:37:14Z",
                 "owner": "JasperFx",
                 "repo": "marten",
-                "stars": 3448
+                "stars": 3449
               }
             },
             {
@@ -1348,7 +1348,7 @@
                 "archived": false,
                 "id": 1056713,
                 "language": "C#",
-                "last_commit": "2026-08-27T10:37:17Z",
+                "last_commit": "2026-08-27T19:20:34Z",
                 "owner": "Particular",
                 "repo": "NServiceBus",
                 "stars": 2168
@@ -1811,7 +1811,7 @@
                 "archived": false,
                 "id": 628167080,
                 "language": "Kotlin",
-                "last_commit": "2026-08-27T10:17:14Z",
+                "last_commit": "2026-08-28T01:53:47Z",
                 "owner": "Ahoo-Wang",
                 "repo": "Wow",
                 "stars": 303
@@ -1967,7 +1967,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-27T11:31:58.354Z",
+    "last_updated": "2026-08-28T02:20:10.394Z",
     "original_repository_info": {
       "archived": false,
       "id": 67043714,
@@ -1975,7 +1975,7 @@
       "last_commit": "2026-08-26T22:19:46Z",
       "owner": "heynickc",
       "repo": "awesome-ddd",
-      "stars": 12345
+      "stars": 12346
     },
     "original_repository_sha": "9dca80e243dbea9378dbe2409f61ae4a9329ad3b",
     "enhanced_repository": "enhansome/enhansome-ddd",

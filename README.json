@@ -16,7 +16,8 @@
             "owner": "dotnet-architecture",
             "repo": "eShopOnContainers",
             "stars": 24327
-          }
+          },
+          "first_seen": "2026-08-29T01:54:50.757Z"
         },
         {
           "node_type": "item",
@@ -31,7 +32,8 @@
             "owner": "dotnet-architecture",
             "repo": "eShopOnWeb",
             "stars": 10691
-          }
+          },
+          "first_seen": "2026-08-29T01:54:50.757Z"
         }
       ],
       "title": "Free eBooks"
@@ -52,7 +54,8 @@
             "owner": "mariuszgil",
             "repo": "awesome-eventstorming",
             "stars": 2393
-          }
+          },
+          "first_seen": "2026-08-29T01:54:50.757Z"
         },
         {
           "node_type": "item",
@@ -67,7 +70,8 @@
             "owner": "ddd-crew",
             "repo": "context-mapping",
             "stars": 1846
-          }
+          },
+          "first_seen": "2026-08-29T01:54:50.757Z"
         },
         {
           "node_type": "item",
@@ -82,7 +86,8 @@
             "owner": "valignatev",
             "repo": "ddd-dynamic",
             "stars": 1400
-          }
+          },
+          "first_seen": "2026-08-29T01:54:50.757Z"
         },
         {
           "node_type": "item",
@@ -97,7 +102,8 @@
             "owner": "hofstef",
             "repo": "awesome-domain-storytelling",
             "stars": 203
-          }
+          },
+          "first_seen": "2026-08-29T01:54:50.757Z"
         },
         {
           "node_type": "item",
@@ -112,7 +118,8 @@
             "owner": "sebastianharko",
             "repo": "adv-es-cqrs-ddd",
             "stars": 109
-          }
+          },
+          "first_seen": "2026-08-29T01:54:50.757Z"
         },
         {
           "node_type": "item",
@@ -127,7 +134,8 @@
             "owner": "ddd-cqrs-es",
             "repo": "community",
             "stars": 81
-          }
+          },
+          "first_seen": "2026-08-29T01:54:50.757Z"
         }
       ],
       "title": "Community Resources"
@@ -150,7 +158,8 @@
                 "owner": "ThreeDotsLabs",
                 "repo": "wild-workouts-go-ddd-example",
                 "stars": 6432
-              }
+              },
+              "first_seen": "2026-08-29T01:54:50.757Z"
             },
             {
               "node_type": "item",
@@ -165,7 +174,8 @@
                 "owner": "marcusolsson",
                 "repo": "goddd",
                 "stars": 2452
-              }
+              },
+              "first_seen": "2026-08-29T01:54:50.757Z"
             },
             {
               "node_type": "item",
@@ -176,11 +186,12 @@
                 "archived": false,
                 "id": 677511480,
                 "language": "Go",
-                "last_commit": "2026-08-26T13:42:24Z",
+                "last_commit": "2026-08-28T07:55:20Z",
                 "owner": "sklinkert",
                 "repo": "go-ddd",
                 "stars": 802
-              }
+              },
+              "first_seen": "2026-08-29T01:54:50.757Z"
             },
             {
               "node_type": "item",
@@ -195,7 +206,8 @@
                 "owner": "victorsteven",
                 "repo": "food-app-server",
                 "stars": 675
-              }
+              },
+              "first_seen": "2026-08-29T01:54:50.757Z"
             },
             {
               "node_type": "item",
@@ -210,7 +222,8 @@
                 "owner": "takashabe",
                 "repo": "go-ddd-sample",
                 "stars": 291
-              }
+              },
+              "first_seen": "2026-08-29T01:54:50.757Z"
             },
             {
               "node_type": "item",
@@ -225,7 +238,8 @@
                 "owner": "friendsofgo",
                 "repo": "gopherapi",
                 "stars": 80
-              }
+              },
+              "first_seen": "2026-08-29T01:54:50.757Z"
             },
             {
               "node_type": "item",
@@ -240,7 +254,8 @@
                 "owner": "tomiok",
                 "repo": "patients-API",
                 "stars": 31
-              }
+              },
+              "first_seen": "2026-08-29T01:54:50.757Z"
             },
             {
               "node_type": "item",
@@ -255,7 +270,8 @@
                 "owner": "JankariTech",
                 "repo": "bsDateServer",
                 "stars": 4
-              }
+              },
+              "first_seen": "2026-08-29T01:54:50.757Z"
             },
             {
               "node_type": "item",
@@ -270,7 +286,8 @@
                 "owner": "joshpme",
                 "repo": "azure-go-ddd-boilerplate",
                 "stars": 0
-              }
+              },
+              "first_seen": "2026-08-29T01:54:50.757Z"
             }
           ],
           "description": null,
@@ -291,8 +308,9 @@
                 "last_commit": "2024-06-04T17:51:26Z",
                 "owner": "kgrzybek",
                 "repo": "modular-monolith-with-ddd",
-                "stars": 13964
-              }
+                "stars": 13971
+              },
+              "first_seen": "2026-08-29T01:54:50.757Z"
             },
             {
               "node_type": "item",
@@ -307,7 +325,8 @@
                 "owner": "dotnet-architecture",
                 "repo": "eShopOnWeb",
                 "stars": 10691
-              }
+              },
+              "first_seen": "2026-08-29T01:54:50.757Z"
             },
             {
               "node_type": "item",
@@ -321,8 +340,9 @@
                 "last_commit": "2026-04-14T23:33:37Z",
                 "owner": "EduardoPires",
                 "repo": "EquinoxProject",
-                "stars": 6780
-              }
+                "stars": 6779
+              },
+              "first_seen": "2026-08-29T01:54:50.757Z"
             },
             {
               "node_type": "item",
@@ -337,7 +357,8 @@
                 "owner": "oskardudycz",
                 "repo": "EventSourcing.NetCore",
                 "stars": 3679
-              }
+              },
+              "first_seen": "2026-08-29T01:54:50.757Z"
             },
             {
               "node_type": "item",
@@ -351,8 +372,9 @@
                 "last_commit": "2024-02-27T17:46:16Z",
                 "owner": "kgrzybek",
                 "repo": "sample-dotnet-core-cqrs-api",
-                "stars": 3061
-              }
+                "stars": 3060
+              },
+              "first_seen": "2026-08-29T01:54:50.757Z"
             },
             {
               "node_type": "item",
@@ -367,7 +389,8 @@
                 "owner": "gregoryyoung",
                 "repo": "m-r",
                 "stars": 2172
-              }
+              },
+              "first_seen": "2026-08-29T01:54:50.757Z"
             },
             {
               "node_type": "item",
@@ -382,7 +405,8 @@
                 "owner": "AdaptiveConsulting",
                 "repo": "ReactiveTraderCloud",
                 "stars": 1857
-              }
+              },
+              "first_seen": "2026-08-29T01:54:50.757Z"
             },
             {
               "node_type": "item",
@@ -397,7 +421,8 @@
                 "owner": "microsoftarchive",
                 "repo": "cqrs-journey",
                 "stars": 1398
-              }
+              },
+              "first_seen": "2026-08-29T01:54:50.757Z"
             },
             {
               "node_type": "item",
@@ -412,7 +437,8 @@
                 "owner": "VaughnVernon",
                 "repo": "IDDD_Samples_NET",
                 "stars": 942
-              }
+              },
+              "first_seen": "2026-08-29T01:54:50.757Z"
             },
             {
               "node_type": "item",
@@ -426,8 +452,9 @@
                 "last_commit": "2025-08-25T22:56:31Z",
                 "owner": "hamed-shirbandi",
                 "repo": "TaskoMask",
-                "stars": 720
-              }
+                "stars": 721
+              },
+              "first_seen": "2026-08-29T01:54:50.757Z"
             },
             {
               "node_type": "item",
@@ -442,7 +469,8 @@
                 "owner": "MarkNijhof",
                 "repo": "Fohjin",
                 "stars": 697
-              }
+              },
+              "first_seen": "2026-08-29T01:54:50.757Z"
             },
             {
               "node_type": "item",
@@ -457,7 +485,8 @@
                 "owner": "jbogard",
                 "repo": "ContosoUniversityCore",
                 "stars": 584
-              }
+              },
+              "first_seen": "2026-08-29T01:54:50.757Z"
             },
             {
               "node_type": "item",
@@ -471,8 +500,9 @@
                 "last_commit": "2023-06-16T12:32:42Z",
                 "owner": "mastreeno",
                 "repo": "Merp",
-                "stars": 502
-              }
+                "stars": 503
+              },
+              "first_seen": "2026-08-29T01:54:50.757Z"
             },
             {
               "node_type": "item",
@@ -487,7 +517,8 @@
                 "owner": "itlibrium",
                 "repo": "DDD-starter-dotnet",
                 "stars": 404
-              }
+              },
+              "first_seen": "2026-08-29T01:54:50.757Z"
             },
             {
               "node_type": "item",
@@ -502,7 +533,8 @@
                 "owner": "asc-lab",
                 "repo": "better-code-with-ddd",
                 "stars": 321
-              }
+              },
+              "first_seen": "2026-08-29T01:54:50.757Z"
             },
             {
               "node_type": "item",
@@ -517,7 +549,8 @@
                 "owner": "charlessolar",
                 "repo": "eShopOnContainersDDD",
                 "stars": 319
-              }
+              },
+              "first_seen": "2026-08-29T01:54:50.757Z"
             },
             {
               "node_type": "item",
@@ -532,7 +565,8 @@
                 "owner": "charlessolar",
                 "repo": "TodoMVC-DDD-CQRS-EventSourcing",
                 "stars": 257
-              }
+              },
+              "first_seen": "2026-08-29T01:54:50.757Z"
             },
             {
               "node_type": "item",
@@ -547,7 +581,8 @@
                 "owner": "OKTAYKIR",
                 "repo": "EventFlow.Example",
                 "stars": 204
-              }
+              },
+              "first_seen": "2026-08-29T01:54:50.757Z"
             },
             {
               "node_type": "item",
@@ -562,7 +597,8 @@
                 "owner": "eulerfx",
                 "repo": "DDDInventoryItemFSharp",
                 "stars": 186
-              }
+              },
+              "first_seen": "2026-08-29T01:54:50.757Z"
             },
             {
               "node_type": "item",
@@ -577,7 +613,8 @@
                 "owner": "andras-nemes",
                 "repo": "DDDSkeletonNet",
                 "stars": 179
-              }
+              },
+              "first_seen": "2026-08-29T01:54:50.757Z"
             },
             {
               "node_type": "item",
@@ -592,7 +629,8 @@
                 "owner": "cesarcastrocuba",
                 "repo": "nlayerappv3",
                 "stars": 154
-              }
+              },
+              "first_seen": "2026-08-29T01:54:50.757Z"
             },
             {
               "node_type": "item",
@@ -607,7 +645,8 @@
                 "owner": "asc-lab",
                 "repo": "dotnet-cqrs-intro",
                 "stars": 138
-              }
+              },
+              "first_seen": "2026-08-29T01:54:50.757Z"
             },
             {
               "node_type": "item",
@@ -622,7 +661,8 @@
                 "owner": "dcomartin",
                 "repo": "DDD-CQRS-ES-Example",
                 "stars": 134
-              }
+              },
+              "first_seen": "2026-08-29T01:54:50.757Z"
             },
             {
               "node_type": "item",
@@ -637,7 +677,8 @@
                 "owner": "thinkbeforecoding",
                 "repo": "FsUno",
                 "stars": 78
-              }
+              },
+              "first_seen": "2026-08-29T01:54:50.757Z"
             },
             {
               "node_type": "item",
@@ -652,7 +693,8 @@
                 "owner": "thinkbeforecoding",
                 "repo": "m-r",
                 "stars": 73
-              }
+              },
+              "first_seen": "2026-08-29T01:54:50.757Z"
             },
             {
               "node_type": "item",
@@ -667,7 +709,8 @@
                 "owner": "ToJans",
                 "repo": "Scritchy",
                 "stars": 66
-              }
+              },
+              "first_seen": "2026-08-29T01:54:50.757Z"
             },
             {
               "node_type": "item",
@@ -682,7 +725,8 @@
                 "owner": "bravodev-hub",
                 "repo": "appointme",
                 "stars": 45
-              }
+              },
+              "first_seen": "2026-08-29T01:54:50.757Z"
             },
             {
               "node_type": "item",
@@ -697,7 +741,8 @@
                 "owner": "xhafan",
                 "repo": "emailmaker",
                 "stars": 13
-              }
+              },
+              "first_seen": "2026-08-29T01:54:50.757Z"
             },
             {
               "node_type": "item",
@@ -712,7 +757,8 @@
                 "owner": "ryletko",
                 "repo": "LexiQuest-Modular-DDD",
                 "stars": 7
-              }
+              },
+              "first_seen": "2026-08-29T01:54:50.757Z"
             },
             {
               "node_type": "item",
@@ -727,7 +773,8 @@
                 "owner": "mr0zek",
                 "repo": "Photostock",
                 "stars": 7
-              }
+              },
+              "first_seen": "2026-08-29T01:54:50.757Z"
             },
             {
               "node_type": "item",
@@ -742,7 +789,8 @@
                 "owner": "ryletko",
                 "repo": "Modular.StarterTemplate",
                 "stars": 6
-              }
+              },
+              "first_seen": "2026-08-29T01:54:50.757Z"
             },
             {
               "node_type": "item",
@@ -757,7 +805,8 @@
                 "owner": "tung-le-lv",
                 "repo": "OpenMind.DDD.Patterns",
                 "stars": 5
-              }
+              },
+              "first_seen": "2026-08-29T01:54:50.757Z"
             }
           ],
           "description": null,
@@ -779,7 +828,8 @@
                 "owner": "Eventuria",
                 "repo": "demonstration-gsd",
                 "stars": 53
-              }
+              },
+              "first_seen": "2026-08-29T01:54:50.757Z"
             }
           ],
           "description": null,
@@ -801,7 +851,8 @@
                 "owner": "andorp",
                 "repo": "order-taking",
                 "stars": 145
-              }
+              },
+              "first_seen": "2026-08-29T01:54:50.757Z"
             }
           ],
           "description": null,
@@ -823,7 +874,8 @@
                 "owner": "bitloops",
                 "repo": "ddd-hexagonal-cqrs-es-eda",
                 "stars": 1437
-              }
+              },
+              "first_seen": "2026-08-29T01:54:50.757Z"
             },
             {
               "node_type": "item",
@@ -838,7 +890,8 @@
                 "owner": "boostercloud",
                 "repo": "booster",
                 "stars": 448
-              }
+              },
+              "first_seen": "2026-08-29T01:54:50.757Z"
             },
             {
               "node_type": "item",
@@ -853,7 +906,8 @@
                 "owner": "osbytes",
                 "repo": "txob",
                 "stars": 4
-              }
+              },
+              "first_seen": "2026-08-29T01:54:50.757Z"
             }
           ],
           "description": null,
@@ -874,8 +928,9 @@
                 "last_commit": "2023-07-07T21:43:17Z",
                 "owner": "ddd-by-examples",
                 "repo": "library",
-                "stars": 5849
-              }
+                "stars": 5850
+              },
+              "first_seen": "2026-08-29T01:54:50.757Z"
             },
             {
               "node_type": "item",
@@ -890,7 +945,8 @@
                 "owner": "citerus",
                 "repo": "dddsample-core",
                 "stars": 5287
-              }
+              },
+              "first_seen": "2026-08-29T01:54:50.757Z"
             },
             {
               "node_type": "item",
@@ -905,7 +961,8 @@
                 "owner": "VaughnVernon",
                 "repo": "IDDD_Samples",
                 "stars": 3943
-              }
+              },
+              "first_seen": "2026-08-29T01:54:50.757Z"
             },
             {
               "node_type": "item",
@@ -920,7 +977,8 @@
                 "owner": "BottegaIT",
                 "repo": "ddd-leaven-v2",
                 "stars": 881
-              }
+              },
+              "first_seen": "2026-08-29T01:54:50.757Z"
             },
             {
               "node_type": "item",
@@ -935,7 +993,8 @@
                 "owner": "andreschaffer",
                 "repo": "event-sourcing-cqrs-examples",
                 "stars": 598
-              }
+              },
+              "first_seen": "2026-08-29T01:54:50.757Z"
             },
             {
               "node_type": "item",
@@ -950,7 +1009,8 @@
                 "owner": "ddd-by-examples",
                 "repo": "event-source-cqrs-sample",
                 "stars": 474
-              }
+              },
+              "first_seen": "2026-08-29T01:54:50.757Z"
             },
             {
               "node_type": "item",
@@ -964,8 +1024,9 @@
                 "last_commit": "2026-08-02T20:47:56Z",
                 "owner": "eclipse-ee4j",
                 "repo": "cargotracker",
-                "stars": 389
-              }
+                "stars": 390
+              },
+              "first_seen": "2026-08-29T01:54:50.757Z"
             },
             {
               "node_type": "item",
@@ -980,7 +1041,8 @@
                 "owner": "humank",
                 "repo": "ddd-practitioners-ref",
                 "stars": 321
-              }
+              },
+              "first_seen": "2026-08-29T01:54:50.757Z"
             },
             {
               "node_type": "item",
@@ -995,7 +1057,8 @@
                 "owner": "Creditas",
                 "repo": "kotlin-ddd-sample",
                 "stars": 306
-              }
+              },
+              "first_seen": "2026-08-29T01:54:50.757Z"
             },
             {
               "node_type": "item",
@@ -1010,7 +1073,8 @@
                 "owner": "asc-lab",
                 "repo": "java-cqrs-intro",
                 "stars": 216
-              }
+              },
+              "first_seen": "2026-08-29T01:54:50.757Z"
             },
             {
               "node_type": "item",
@@ -1025,7 +1089,8 @@
                 "owner": "Pragmatists",
                 "repo": "eventsourcing-java-example",
                 "stars": 99
-              }
+              },
+              "first_seen": "2026-08-29T01:54:50.757Z"
             },
             {
               "node_type": "item",
@@ -1040,7 +1105,8 @@
                 "owner": "mkopylec",
                 "repo": "project-manager",
                 "stars": 62
-              }
+              },
+              "first_seen": "2026-08-29T01:54:50.757Z"
             },
             {
               "node_type": "item",
@@ -1055,7 +1121,8 @@
                 "owner": "mdonkers",
                 "repo": "akka-cqrs-es-demo",
                 "stars": 56
-              }
+              },
+              "first_seen": "2026-08-29T01:54:50.757Z"
             },
             {
               "node_type": "item",
@@ -1066,11 +1133,12 @@
                 "archived": false,
                 "id": 1094544202,
                 "language": "Kotlin",
-                "last_commit": "2026-08-25T18:37:19Z",
+                "last_commit": "2026-08-28T13:35:58Z",
                 "owner": "nekzabirov",
                 "repo": "IGaming-Game-Engine",
                 "stars": 23
-              }
+              },
+              "first_seen": "2026-08-29T01:54:50.757Z"
             },
             {
               "node_type": "item",
@@ -1085,7 +1153,8 @@
                 "owner": "felipexw",
                 "repo": "clean-arch-ddd-intro",
                 "stars": 23
-              }
+              },
+              "first_seen": "2026-08-29T01:54:50.757Z"
             }
           ],
           "description": null,
@@ -1107,7 +1176,8 @@
                 "owner": "jorge07",
                 "repo": "symfony-7-es-cqrs-boilerplate",
                 "stars": 1088
-              }
+              },
+              "first_seen": "2026-08-29T01:54:50.757Z"
             },
             {
               "node_type": "item",
@@ -1122,7 +1192,8 @@
                 "owner": "codeliner",
                 "repo": "php-ddd-cargo-sample",
                 "stars": 788
-              }
+              },
+              "first_seen": "2026-08-29T01:54:50.757Z"
             },
             {
               "node_type": "item",
@@ -1137,7 +1208,8 @@
                 "owner": "jorge07",
                 "repo": "ddd-playground",
                 "stars": 593
-              }
+              },
+              "first_seen": "2026-08-29T01:54:50.757Z"
             },
             {
               "node_type": "item",
@@ -1152,7 +1224,8 @@
                 "owner": "ferrius",
                 "repo": "ddd-cqrs-example",
                 "stars": 365
-              }
+              },
+              "first_seen": "2026-08-29T01:54:50.757Z"
             },
             {
               "node_type": "item",
@@ -1167,7 +1240,8 @@
                 "owner": "franzose",
                 "repo": "symfony-ddd-wishlist",
                 "stars": 201
-              }
+              },
+              "first_seen": "2026-08-29T01:54:50.757Z"
             },
             {
               "node_type": "item",
@@ -1182,7 +1256,8 @@
                 "owner": "simara-svatopluk",
                 "repo": "cart",
                 "stars": 108
-              }
+              },
+              "first_seen": "2026-08-29T01:54:50.757Z"
             },
             {
               "node_type": "item",
@@ -1197,7 +1272,8 @@
                 "owner": "janikredpandadev",
                 "repo": "ddd-modulith",
                 "stars": 0
-              }
+              },
+              "first_seen": "2026-08-29T01:54:50.757Z"
             }
           ],
           "description": null,
@@ -1225,7 +1301,8 @@
                 "owner": "onsi",
                 "repo": "ginkgo",
                 "stars": 9043
-              }
+              },
+              "first_seen": "2026-08-29T01:54:50.757Z"
             },
             {
               "node_type": "item",
@@ -1240,7 +1317,8 @@
                 "owner": "smartystreets",
                 "repo": "goconvey",
                 "stars": 8405
-              }
+              },
+              "first_seen": "2026-08-29T01:54:50.757Z"
             },
             {
               "node_type": "item",
@@ -1254,8 +1332,9 @@
                 "last_commit": "2026-08-27T04:08:52Z",
                 "owner": "cucumber",
                 "repo": "godog",
-                "stars": 2665
-              }
+                "stars": 2666
+              },
+              "first_seen": "2026-08-29T01:54:50.757Z"
             },
             {
               "node_type": "item",
@@ -1269,8 +1348,9 @@
                 "last_commit": "2026-06-23T15:43:25Z",
                 "owner": "go-bdd",
                 "repo": "gobdd",
-                "stars": 143
-              }
+                "stars": 144
+              },
+              "first_seen": "2026-08-29T01:54:50.757Z"
             }
           ],
           "description": null,
@@ -1292,7 +1372,8 @@
                 "owner": "LuckyPennySoftware",
                 "repo": "MediatR",
                 "stars": 11858
-              }
+              },
+              "first_seen": "2026-08-29T01:54:50.757Z"
             },
             {
               "node_type": "item",
@@ -1307,7 +1388,8 @@
                 "owner": "MassTransit",
                 "repo": "MassTransit",
                 "stars": 7798
-              }
+              },
+              "first_seen": "2026-08-29T01:54:50.757Z"
             },
             {
               "node_type": "item",
@@ -1322,7 +1404,8 @@
                 "owner": "JasperFx",
                 "repo": "marten",
                 "stars": 3449
-              }
+              },
+              "first_seen": "2026-08-29T01:54:50.757Z"
             },
             {
               "node_type": "item",
@@ -1337,7 +1420,8 @@
                 "owner": "eventflow",
                 "repo": "EventFlow",
                 "stars": 2564
-              }
+              },
+              "first_seen": "2026-08-29T01:54:50.757Z"
             },
             {
               "node_type": "item",
@@ -1348,11 +1432,12 @@
                 "archived": false,
                 "id": 1056713,
                 "language": "C#",
-                "last_commit": "2026-08-27T19:20:34Z",
+                "last_commit": "2026-08-28T20:51:59Z",
                 "owner": "Particular",
                 "repo": "NServiceBus",
                 "stars": 2168
-              }
+              },
+              "first_seen": "2026-08-29T01:54:50.757Z"
             },
             {
               "node_type": "item",
@@ -1367,7 +1452,8 @@
                 "owner": "NEventStore",
                 "repo": "NEventStore",
                 "stars": 1615
-              }
+              },
+              "first_seen": "2026-08-29T01:54:50.757Z"
             },
             {
               "node_type": "item",
@@ -1382,7 +1468,8 @@
                 "owner": "ElderJames",
                 "repo": "shriek-fx",
                 "stars": 652
-              }
+              },
+              "first_seen": "2026-08-29T01:54:50.757Z"
             },
             {
               "node_type": "item",
@@ -1397,7 +1484,8 @@
                 "owner": "charlessolar",
                 "repo": "Aggregates.NET",
                 "stars": 441
-              }
+              },
+              "first_seen": "2026-08-29T01:54:50.757Z"
             },
             {
               "node_type": "item",
@@ -1412,7 +1500,8 @@
                 "owner": "yevhen",
                 "repo": "Streamstone",
                 "stars": 403
-              }
+              },
+              "first_seen": "2026-08-29T01:54:50.757Z"
             },
             {
               "node_type": "item",
@@ -1427,7 +1516,8 @@
                 "owner": "yreynhout",
                 "repo": "AggregateSource",
                 "stars": 257
-              }
+              },
+              "first_seen": "2026-08-29T01:54:50.757Z"
             },
             {
               "node_type": "item",
@@ -1442,7 +1532,8 @@
                 "owner": "mookid8000",
                 "repo": "Cirqus",
                 "stars": 230
-              }
+              },
+              "first_seen": "2026-08-29T01:54:50.757Z"
             },
             {
               "node_type": "item",
@@ -1457,7 +1548,8 @@
                 "owner": "BitTacklr",
                 "repo": "Projac",
                 "stars": 138
-              }
+              },
+              "first_seen": "2026-08-29T01:54:50.757Z"
             },
             {
               "node_type": "item",
@@ -1472,7 +1564,8 @@
                 "owner": "hlaueriksson",
                 "repo": "CommandQuery",
                 "stars": 111
-              }
+              },
+              "first_seen": "2026-08-29T01:54:50.757Z"
             },
             {
               "node_type": "item",
@@ -1487,7 +1580,8 @@
                 "owner": "XerProjects",
                 "repo": "Xer.Cqrs",
                 "stars": 103
-              }
+              },
+              "first_seen": "2026-08-29T01:54:50.757Z"
             },
             {
               "node_type": "item",
@@ -1502,7 +1596,8 @@
                 "owner": "jonsequitur",
                 "repo": "Its.Cqrs",
                 "stars": 75
-              }
+              },
+              "first_seen": "2026-08-29T01:54:50.757Z"
             },
             {
               "node_type": "item",
@@ -1517,7 +1612,8 @@
                 "owner": "xhafan",
                 "repo": "coreddd",
                 "stars": 72
-              }
+              },
+              "first_seen": "2026-08-29T01:54:50.757Z"
             },
             {
               "node_type": "item",
@@ -1532,7 +1628,8 @@
                 "owner": "mission202",
                 "repo": "Stringly.Typed",
                 "stars": 48
-              }
+              },
+              "first_seen": "2026-08-29T01:54:50.757Z"
             },
             {
               "node_type": "item",
@@ -1547,7 +1644,8 @@
                 "owner": "lucabriguglia",
                 "repo": "Memoria",
                 "stars": 28
-              }
+              },
+              "first_seen": "2026-08-29T01:54:50.757Z"
             },
             {
               "node_type": "item",
@@ -1562,7 +1660,8 @@
                 "owner": "MerrionComputing",
                 "repo": "CQRSAzure",
                 "stars": 26
-              }
+              },
+              "first_seen": "2026-08-29T01:54:50.757Z"
             },
             {
               "node_type": "item",
@@ -1577,7 +1676,8 @@
                 "owner": "sm-g",
                 "repo": "ByValue",
                 "stars": 7
-              }
+              },
+              "first_seen": "2026-08-29T01:54:50.757Z"
             },
             {
               "node_type": "item",
@@ -1592,7 +1692,8 @@
                 "owner": "younos1986",
                 "repo": "Core.EventStore",
                 "stars": 6
-              }
+              },
+              "first_seen": "2026-08-29T01:54:50.757Z"
             },
             {
               "node_type": "item",
@@ -1607,7 +1708,8 @@
                 "owner": "deveel",
                 "repo": "kista",
                 "stars": 3
-              }
+              },
+              "first_seen": "2026-08-29T01:54:50.757Z"
             },
             {
               "node_type": "item",
@@ -1618,11 +1720,12 @@
                 "archived": false,
                 "id": 1252076814,
                 "language": "C#",
-                "last_commit": "2026-08-25T10:06:31Z",
+                "last_commit": "2026-08-28T19:53:01Z",
                 "owner": "yesbert",
                 "repo": "Stratara",
                 "stars": 2
-              }
+              },
+              "first_seen": "2026-08-29T01:54:50.757Z"
             }
           ],
           "description": null,
@@ -1644,7 +1747,8 @@
                 "owner": "message-db",
                 "repo": "message-db",
                 "stars": 1652
-              }
+              },
+              "first_seen": "2026-08-29T01:54:50.757Z"
             }
           ],
           "description": null,
@@ -1666,7 +1770,8 @@
                 "owner": "commanded",
                 "repo": "commanded",
                 "stars": 2030
-              }
+              },
+              "first_seen": "2026-08-29T01:54:50.757Z"
             },
             {
               "node_type": "item",
@@ -1681,7 +1786,8 @@
                 "owner": "commanded",
                 "repo": "eventstore",
                 "stars": 1162
-              }
+              },
+              "first_seen": "2026-08-29T01:54:50.757Z"
             },
             {
               "node_type": "item",
@@ -1696,7 +1802,8 @@
                 "owner": "otobus",
                 "repo": "event_bus",
                 "stars": 703
-              }
+              },
+              "first_seen": "2026-08-29T01:54:50.757Z"
             }
           ],
           "description": null,
@@ -1718,7 +1825,8 @@
                 "owner": "talyssonoc",
                 "repo": "node-api-boilerplate",
                 "stars": 3356
-              }
+              },
+              "first_seen": "2026-08-29T01:54:50.757Z"
             },
             {
               "node_type": "item",
@@ -1733,7 +1841,8 @@
                 "owner": "thenativeweb",
                 "repo": "node-eventstore",
                 "stars": 536
-              }
+              },
+              "first_seen": "2026-08-29T01:54:50.757Z"
             },
             {
               "node_type": "item",
@@ -1748,7 +1857,8 @@
                 "owner": "bitloops",
                 "repo": "bitloops-language",
                 "stars": 357
-              }
+              },
+              "first_seen": "2026-08-29T01:54:50.757Z"
             },
             {
               "node_type": "item",
@@ -1763,7 +1873,8 @@
                 "owner": "Softtor",
                 "repo": "nestjs-hexagonal",
                 "stars": 5
-              }
+              },
+              "first_seen": "2026-08-29T01:54:50.757Z"
             }
           ],
           "description": null,
@@ -1785,7 +1896,8 @@
                 "owner": "funkygao",
                 "repo": "cp-ddd-framework",
                 "stars": 1153
-              }
+              },
+              "first_seen": "2026-08-29T01:54:50.757Z"
             },
             {
               "node_type": "item",
@@ -1800,7 +1912,8 @@
                 "owner": "pawelkaczor",
                 "repo": "akka-ddd",
                 "stars": 360
-              }
+              },
+              "first_seen": "2026-08-29T01:54:50.757Z"
             },
             {
               "node_type": "item",
@@ -1811,11 +1924,12 @@
                 "archived": false,
                 "id": 628167080,
                 "language": "Kotlin",
-                "last_commit": "2026-08-28T01:53:47Z",
+                "last_commit": "2026-08-29T01:45:39Z",
                 "owner": "Ahoo-Wang",
                 "repo": "Wow",
                 "stars": 303
-              }
+              },
+              "first_seen": "2026-08-29T01:54:50.757Z"
             },
             {
               "node_type": "item",
@@ -1830,7 +1944,8 @@
                 "owner": "yreynhout",
                 "repo": "JESA",
                 "stars": 9
-              }
+              },
+              "first_seen": "2026-08-29T01:54:50.757Z"
             },
             {
               "node_type": "item",
@@ -1845,7 +1960,8 @@
                 "owner": "Sympol",
                 "repo": "pure-assert",
                 "stars": 4
-              }
+              },
+              "first_seen": "2026-08-29T01:54:50.757Z"
             }
           ],
           "description": null,
@@ -1867,7 +1983,8 @@
                 "owner": "broadway",
                 "repo": "broadway",
                 "stars": 1509
-              }
+              },
+              "first_seen": "2026-08-29T01:54:50.757Z"
             },
             {
               "node_type": "item",
@@ -1882,7 +1999,8 @@
                 "owner": "javanile",
                 "repo": "php-glossary",
                 "stars": 5
-              }
+              },
+              "first_seen": "2026-08-29T01:54:50.757Z"
             }
           ],
           "description": null,
@@ -1904,7 +2022,8 @@
                 "owner": "pyeventsourcing",
                 "repo": "eventsourcing",
                 "stars": 1684
-              }
+              },
+              "first_seen": "2026-08-29T01:54:50.757Z"
             },
             {
               "node_type": "item",
@@ -1919,7 +2038,8 @@
                 "owner": "knucklesuganda",
                 "repo": "py_assimilator",
                 "stars": 216
-              }
+              },
+              "first_seen": "2026-08-29T01:54:50.757Z"
             }
           ],
           "description": null,
@@ -1945,7 +2065,8 @@
             "owner": "WPS",
             "repo": "egon.io",
             "stars": 835
-          }
+          },
+          "first_seen": "2026-08-29T01:54:50.757Z"
         },
         {
           "node_type": "item",
@@ -1960,14 +2081,15 @@
             "owner": "poulainpi",
             "repo": "ddd-toolbox",
             "stars": 387
-          }
+          },
+          "first_seen": "2026-08-29T01:54:50.757Z"
         }
       ],
       "title": "Tools"
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-28T02:20:10.394Z",
+    "last_updated": "2026-08-29T01:54:50.757Z",
     "original_repository_info": {
       "archived": false,
       "id": 67043714,
@@ -1975,7 +2097,7 @@
       "last_commit": "2026-08-26T22:19:46Z",
       "owner": "heynickc",
       "repo": "awesome-ddd",
-      "stars": 12346
+      "stars": 12347
     },
     "original_repository_sha": "9dca80e243dbea9378dbe2409f61ae4a9329ad3b",
     "enhanced_repository": "enhansome/enhansome-ddd",

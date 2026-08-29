@@ -10,12 +10,26 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "Cross-platform .NET sample microservices and container based application that runs on Linux Windows and macOS. Powered by .NET 7, Docker Containers and Azure Kubernetes Services. Supports Visual Studio, VS for Mac and CLI based environments with Docker CLI, dotnet CLI, VS Code or any other code editor. Moved to https://github.com/dotnet/eShop.",
+            "homepage": "https://dot.net/architecture",
             "id": 70104825,
             "language": "C#",
+            "license": null,
             "last_commit": "2023-11-15T22:27:17Z",
+            "open_issues": 71,
             "owner": "dotnet-architecture",
             "repo": "eShopOnContainers",
-            "stars": 24327
+            "stars": 24327,
+            "topics": [
+              "ddd",
+              "ddd-patterns",
+              "docker",
+              "microservices",
+              "netcore",
+              "spa",
+              "windowscontainers",
+              "xamarin"
+            ]
           },
           "first_seen": "2026-08-29T01:54:50.757Z"
         },
@@ -26,12 +40,35 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "Sample ASP.NET Core 8.0 reference application, now community supported: https://github.com/NimblePros/eShopOnWeb",
+            "homepage": null,
             "id": 83380995,
             "language": "C#",
+            "license": "MIT",
             "last_commit": "2025-01-13T20:55:37Z",
+            "open_issues": 20,
             "owner": "dotnet-architecture",
             "repo": "eShopOnWeb",
-            "stars": 10691
+            "stars": 10691,
+            "topics": [
+              "architecture",
+              "asp-net-core",
+              "asp-net-core-mvc",
+              "clean-architecture",
+              "clean-code",
+              "ddd",
+              "ddd-architecture",
+              "ddd-patterns",
+              "ddd-sample",
+              "design-patterns",
+              "dotnetcore",
+              "ebook",
+              "efcore",
+              "microsoft",
+              "monolith",
+              "rest-api",
+              "software-architecture"
+            ]
           },
           "first_seen": "2026-08-29T01:54:50.757Z"
         }
@@ -48,12 +85,24 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Awesome EventStorming",
+            "homepage": null,
             "id": 135898580,
             "language": null,
+            "license": null,
             "last_commit": "2024-10-23T06:49:57Z",
+            "open_issues": 6,
             "owner": "mariuszgil",
             "repo": "awesome-eventstorming",
-            "stars": 2393
+            "stars": 2393,
+            "topics": [
+              "articles",
+              "eventstorming",
+              "knowledge",
+              "links",
+              "videos",
+              "workshop-materials"
+            ]
           },
           "first_seen": "2026-08-29T01:54:50.757Z"
         },
@@ -64,12 +113,19 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": null,
+            "homepage": null,
             "id": 265461637,
             "language": null,
+            "license": "CC-BY-SA-4.0",
             "last_commit": "2026-08-23T07:12:50Z",
+            "open_issues": 9,
             "owner": "ddd-crew",
             "repo": "context-mapping",
-            "stars": 1846
+            "stars": 1846,
+            "topics": [
+              "domain-driven-design"
+            ]
           },
           "first_seen": "2026-08-29T01:54:50.757Z"
         },
@@ -80,12 +136,25 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Domain Driven Design in Python, Ruby and other dynamic languages resources",
+            "homepage": null,
             "id": 63489413,
             "language": null,
+            "license": null,
             "last_commit": "2023-06-08T16:56:38Z",
+            "open_issues": 3,
             "owner": "valignatev",
             "repo": "ddd-dynamic",
-            "stars": 1400
+            "stars": 1400,
+            "topics": [
+              "architecture",
+              "cleanarchitecture",
+              "ddd",
+              "domain-driven-design",
+              "php",
+              "python",
+              "ruby"
+            ]
           },
           "first_seen": "2026-08-29T01:54:50.757Z"
         },
@@ -96,12 +165,17 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "A curated list of ressources for Domain Storytelling practitioners. PR are welcome!",
+            "homepage": null,
             "id": 250249695,
             "language": null,
+            "license": null,
             "last_commit": "2024-07-12T09:45:37Z",
+            "open_issues": 0,
             "owner": "hofstef",
             "repo": "awesome-domain-storytelling",
-            "stars": 203
+            "stars": 203,
+            "topics": []
           },
           "first_seen": "2026-08-29T01:54:50.757Z"
         },
@@ -112,12 +186,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Advanced Topics in Event Sourcing / CQRS / DDD. PRs welcome. This \"project\" follows Scala's CoC.",
+            "homepage": null,
             "id": 96644997,
             "language": null,
+            "license": null,
             "last_commit": "2020-04-23T20:15:28Z",
+            "open_issues": 0,
             "owner": "sebastianharko",
             "repo": "adv-es-cqrs-ddd",
-            "stars": 109
+            "stars": 109,
+            "topics": []
           },
           "first_seen": "2026-08-29T01:54:50.757Z"
         },
@@ -128,12 +207,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Docs related to DDD-CQRS-ES Discord Community",
+            "homepage": "https://discord.gg/sEZGSHNNbH",
             "id": 149416766,
             "language": null,
+            "license": null,
             "last_commit": "2022-11-28T22:51:49Z",
+            "open_issues": 2,
             "owner": "ddd-cqrs-es",
             "repo": "community",
-            "stars": 81
+            "stars": 81,
+            "topics": [
+              "community",
+              "cqrs",
+              "ddd",
+              "event-sourcing"
+            ]
           },
           "first_seen": "2026-08-29T01:54:50.757Z"
         }
@@ -152,12 +241,31 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Go DDD example application. Complete project to show how to apply DDD, Clean Architecture, and CQRS by practical refactoring.",
+                "homepage": "https://threedots.tech",
                 "id": 261871717,
                 "language": "Go",
+                "license": "MIT",
                 "last_commit": "2026-08-27T08:28:31Z",
+                "open_issues": 30,
                 "owner": "ThreeDotsLabs",
                 "repo": "wild-workouts-go-ddd-example",
-                "stars": 6432
+                "stars": 6432,
+                "topics": [
+                  "clean-architecture",
+                  "cqrs",
+                  "ddd",
+                  "firebase",
+                  "firestore",
+                  "gcp",
+                  "go",
+                  "golang",
+                  "google-cloud",
+                  "hexagonal-architecture",
+                  "refactoring",
+                  "serverless",
+                  "terraform"
+                ]
               },
               "first_seen": "2026-08-29T01:54:50.757Z"
             },
@@ -168,12 +276,17 @@
               "children": [],
               "repo_info": {
                 "archived": true,
+                "description": "Exploring DDD in Go",
+                "homepage": null,
                 "id": 24718628,
                 "language": "Go",
+                "license": "MIT",
                 "last_commit": "2021-10-12T20:26:50Z",
+                "open_issues": 15,
                 "owner": "marcusolsson",
                 "repo": "goddd",
-                "stars": 2452
+                "stars": 2452,
+                "topics": []
               },
               "first_seen": "2026-08-29T01:54:50.757Z"
             },
@@ -184,12 +297,37 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Opinionated Domain Driven Design Template for Go",
+                "homepage": "https://sklinkert.github.io/go-ddd/",
                 "id": 677511480,
                 "language": "Go",
+                "license": "MIT",
                 "last_commit": "2026-08-28T07:55:20Z",
+                "open_issues": 8,
                 "owner": "sklinkert",
                 "repo": "go-ddd",
-                "stars": 802
+                "stars": 803,
+                "topics": [
+                  "architecture",
+                  "clean-architecture",
+                  "command-query",
+                  "cqrs",
+                  "cqrs-pattern",
+                  "ddd",
+                  "ddd-architecture",
+                  "domain-driven-design",
+                  "domain-events",
+                  "go",
+                  "golang",
+                  "hexagonal-architecture",
+                  "idempotency",
+                  "outbox-pattern",
+                  "pgx",
+                  "postgres",
+                  "rest-api",
+                  "sqlc",
+                  "template"
+                ]
               },
               "first_seen": "2026-08-29T01:54:50.757Z"
             },
@@ -200,12 +338,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Exploring Domain-Driven Design in Golang",
+                "homepage": null,
                 "id": 235406645,
                 "language": "Go",
+                "license": null,
                 "last_commit": "2021-12-05T13:47:32Z",
+                "open_issues": 0,
                 "owner": "victorsteven",
                 "repo": "food-app-server",
-                "stars": 675
+                "stars": 675,
+                "topics": []
               },
               "first_seen": "2026-08-29T01:54:50.757Z"
             },
@@ -216,12 +359,22 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "DDD like architecture sample application",
+                "homepage": null,
                 "id": 113188657,
                 "language": "Go",
+                "license": "MIT",
                 "last_commit": "2019-08-25T16:40:03Z",
+                "open_issues": 1,
                 "owner": "takashabe",
                 "repo": "go-ddd-sample",
-                "stars": 291
+                "stars": 291,
+                "topics": [
+                  "clean-architecture",
+                  "ddd",
+                  "go",
+                  "layered-architecture"
+                ]
               },
               "first_seen": "2026-08-29T01:54:50.757Z"
             },
@@ -232,12 +385,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "The Gopher API, is a simple CRUD API for formative purpose, we're building it while writing the posts of the blog.",
+                "homepage": "https://blog.friendsofgo.tech/",
                 "id": 171145509,
                 "language": "Go",
+                "license": "MIT",
                 "last_commit": "2026-01-02T12:03:40Z",
+                "open_issues": 1,
                 "owner": "friendsofgo",
                 "repo": "gopherapi",
-                "stars": 80
+                "stars": 80,
+                "topics": []
               },
               "first_seen": "2026-08-29T01:54:50.757Z"
             },
@@ -248,12 +406,26 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Patient API is a PoC project using Golang, Chi, PostrgreSQL among Docker and Docker compose. Exposing REST API endpoints.",
+                "homepage": null,
                 "id": 253823415,
                 "language": "Go",
+                "license": null,
                 "last_commit": "2020-11-18T02:39:04Z",
+                "open_issues": 0,
                 "owner": "tomiok",
                 "repo": "patients-API",
-                "stars": 31
+                "stars": 31,
+                "topics": [
+                  "api",
+                  "docker",
+                  "go",
+                  "golang",
+                  "http",
+                  "makefile",
+                  "postgresql",
+                  "rest"
+                ]
               },
               "first_seen": "2026-08-29T01:54:50.757Z"
             },
@@ -264,12 +436,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "API to convert Bikram Sambat (BS) (also called Vikram Samvat) dates to Gregorian dates and vice-versa",
+                "homepage": null,
                 "id": 238169737,
                 "language": "Go",
+                "license": null,
                 "last_commit": "2023-01-09T09:26:49Z",
+                "open_issues": 0,
                 "owner": "JankariTech",
                 "repo": "bsDateServer",
-                "stars": 4
+                "stars": 4,
+                "topics": []
               },
               "first_seen": "2026-08-29T01:54:50.757Z"
             },
@@ -280,12 +457,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "This is a boilerplate for a DDD / CQRS / Event Sourcing project in GoLang. ",
+                "homepage": null,
                 "id": 719312939,
                 "language": "Go",
+                "license": "MIT",
                 "last_commit": "2023-11-15T22:44:40Z",
+                "open_issues": 2,
                 "owner": "joshpme",
                 "repo": "azure-go-ddd-boilerplate",
-                "stars": 0
+                "stars": 0,
+                "topics": []
               },
               "first_seen": "2026-08-29T01:54:50.757Z"
             }
@@ -303,12 +485,38 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Full Modular Monolith application with Domain-Driven Design approach.",
+                "homepage": null,
                 "id": 203892454,
                 "language": "C#",
+                "license": "MIT",
                 "last_commit": "2024-06-04T17:51:26Z",
+                "open_issues": 68,
                 "owner": "kgrzybek",
                 "repo": "modular-monolith-with-ddd",
-                "stars": 13971
+                "stars": 13973,
+                "topics": [
+                  "architecture",
+                  "clean-architecture",
+                  "clean-code",
+                  "cqrs",
+                  "ddd",
+                  "ddd-architecture",
+                  "ddd-cqrs",
+                  "ddd-example",
+                  "design-patterns",
+                  "design-systems",
+                  "domain-driven-design",
+                  "dotnet",
+                  "dotnetcore",
+                  "entity-framework-core",
+                  "event-sourcing",
+                  "modularity",
+                  "monolith",
+                  "rest",
+                  "rest-api",
+                  "software-architecture"
+                ]
               },
               "first_seen": "2026-08-29T01:54:50.757Z"
             },
@@ -319,12 +527,35 @@
               "children": [],
               "repo_info": {
                 "archived": true,
+                "description": "Sample ASP.NET Core 8.0 reference application, now community supported: https://github.com/NimblePros/eShopOnWeb",
+                "homepage": null,
                 "id": 83380995,
                 "language": "C#",
+                "license": "MIT",
                 "last_commit": "2025-01-13T20:55:37Z",
+                "open_issues": 20,
                 "owner": "dotnet-architecture",
                 "repo": "eShopOnWeb",
-                "stars": 10691
+                "stars": 10691,
+                "topics": [
+                  "architecture",
+                  "asp-net-core",
+                  "asp-net-core-mvc",
+                  "clean-architecture",
+                  "clean-code",
+                  "ddd",
+                  "ddd-architecture",
+                  "ddd-patterns",
+                  "ddd-sample",
+                  "design-patterns",
+                  "dotnetcore",
+                  "ebook",
+                  "efcore",
+                  "microsoft",
+                  "monolith",
+                  "rest-api",
+                  "software-architecture"
+                ]
               },
               "first_seen": "2026-08-29T01:54:50.757Z"
             },
@@ -335,12 +566,38 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Web Application ASP.NET 9 using Clean Architecture, DDD, CQRS, Event Sourcing and a lot of good practices",
+                "homepage": "http://equinoxproject.azurewebsites.net/",
                 "id": 76425236,
                 "language": "C#",
+                "license": "MIT",
                 "last_commit": "2026-04-14T23:33:37Z",
+                "open_issues": 6,
                 "owner": "EduardoPires",
                 "repo": "EquinoxProject",
-                "stars": 6779
+                "stars": 6779,
+                "topics": [
+                  "architecture",
+                  "asp-net-core",
+                  "asp-net-core-mvc",
+                  "asp-net-identity",
+                  "aspnet-core",
+                  "aspnetcore",
+                  "automapper",
+                  "clean-code",
+                  "cqrs",
+                  "ddd",
+                  "ef-core",
+                  "equinox",
+                  "event-sourcing",
+                  "eventstore",
+                  "fluentvalidation",
+                  "jwt",
+                  "mediatr",
+                  "onion-architecture",
+                  "swagger",
+                  "visual-studio"
+                ]
               },
               "first_seen": "2026-08-29T01:54:50.757Z"
             },
@@ -351,12 +608,26 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Examples and Tutorials of Event Sourcing in .NET",
+                "homepage": "https://event-driven.io",
                 "id": 80280403,
                 "language": "C#",
+                "license": "CC-BY-SA-4.0",
                 "last_commit": "2026-05-18T06:03:55Z",
+                "open_issues": 24,
                 "owner": "oskardudycz",
                 "repo": "EventSourcing.NetCore",
-                "stars": 3679
+                "stars": 3679,
+                "topics": [
+                  "cqrs",
+                  "dotnet-core",
+                  "event-sourcing",
+                  "example",
+                  "hacktoberfest",
+                  "marten",
+                  "mediatr",
+                  "netcore"
+                ]
               },
               "first_seen": "2026-08-29T01:54:50.757Z"
             },
@@ -367,12 +638,37 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Sample .NET Core REST API CQRS implementation with raw SQL and DDD using Clean Architecture.",
+                "homepage": "https://www.kamilgrzybek.com/design/simple-cqrs-implementation-with-raw-sql-and-ddd/",
                 "id": 168957647,
                 "language": "C#",
+                "license": "MIT",
                 "last_commit": "2024-02-27T17:46:16Z",
+                "open_issues": 13,
                 "owner": "kgrzybek",
                 "repo": "sample-dotnet-core-cqrs-api",
-                "stars": 3060
+                "stars": 3060,
+                "topics": [
+                  "clean-architecture",
+                  "clean-code",
+                  "cqrs",
+                  "cqrs-simple",
+                  "dapper",
+                  "ddd",
+                  "ddd-cqrs",
+                  "ddd-example",
+                  "design-patterns",
+                  "design-systems",
+                  "domain-driven-design",
+                  "dotnercore",
+                  "dotnet",
+                  "entity-framework",
+                  "entity-framework-core",
+                  "mediatr",
+                  "rest",
+                  "rest-api",
+                  "software-architecture"
+                ]
               },
               "first_seen": "2026-08-29T01:54:50.757Z"
             },
@@ -383,12 +679,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Simple CQRS example",
+                "homepage": null,
                 "id": 873309,
                 "language": "C#",
+                "license": null,
                 "last_commit": "2024-02-21T09:56:54Z",
+                "open_issues": 8,
                 "owner": "gregoryyoung",
                 "repo": "m-r",
-                "stars": 2172
+                "stars": 2172,
+                "topics": []
               },
               "first_seen": "2026-08-29T01:54:50.757Z"
             },
@@ -399,12 +700,28 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Real-time FX trading showcase by Adaptive. THIS REPO IS NO LONGER MAINTAINED.",
+                "homepage": "https://www.reactivetrader.com",
                 "id": 46142401,
                 "language": "TypeScript",
+                "license": "Apache-2.0",
                 "last_commit": "2025-06-18T13:40:05Z",
+                "open_issues": 0,
                 "owner": "AdaptiveConsulting",
                 "repo": "ReactiveTraderCloud",
-                "stars": 1857
+                "stars": 1857,
+                "topics": [
+                  "credit",
+                  "finance",
+                  "finsemble",
+                  "fx",
+                  "openfin",
+                  "pwa",
+                  "react",
+                  "real-time",
+                  "rxjs",
+                  "typescript"
+                ]
               },
               "first_seen": "2026-08-29T01:54:50.757Z"
             },
@@ -415,12 +732,17 @@
               "children": [],
               "repo_info": {
                 "archived": true,
+                "description": "Microsoft patterns & pratices CQRS Journey sample application",
+                "homepage": "http://cqrsjourney.github.com/",
                 "id": 3577045,
                 "language": "C#",
+                "license": "NOASSERTION",
                 "last_commit": "2020-07-28T05:24:18Z",
+                "open_issues": 4,
                 "owner": "microsoftarchive",
                 "repo": "cqrs-journey",
-                "stars": 1398
+                "stars": 1398,
+                "topics": []
               },
               "first_seen": "2026-08-29T01:54:50.757Z"
             },
@@ -431,12 +753,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "These are the sample Bounded Contexts for C#.NET from the book \"Implementing Domain-Driven Design\" by Vaughn Vernon:  http://vaughnvernon.co/?page_id=168",
+                "homepage": null,
                 "id": 9722111,
                 "language": "C#",
+                "license": "NOASSERTION",
                 "last_commit": "2022-09-21T00:51:57Z",
+                "open_issues": 9,
                 "owner": "VaughnVernon",
                 "repo": "IDDD_Samples_NET",
-                "stars": 942
+                "stars": 942,
+                "topics": []
               },
               "first_seen": "2026-08-29T01:54:50.757Z"
             },
@@ -447,12 +774,38 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Task management system based on .NET 8  with Microservices, DDD, CQRS, Event Sourcing and Testing Concepts",
+                "homepage": "https://taskomask.online",
                 "id": 304642885,
                 "language": "C#",
+                "license": "MIT",
                 "last_commit": "2025-08-25T22:56:31Z",
+                "open_issues": 20,
                 "owner": "hamed-shirbandi",
                 "repo": "TaskoMask",
-                "stars": 721
+                "stars": 721,
+                "topics": [
+                  "bdd",
+                  "blazor",
+                  "clean-architechture",
+                  "cqrs",
+                  "csharp",
+                  "ddd",
+                  "docker",
+                  "docker-compose",
+                  "event-driven-architecture",
+                  "event-sourcing",
+                  "feature-folder-structure",
+                  "grpc",
+                  "identityserver",
+                  "microservices",
+                  "mvc",
+                  "net6",
+                  "tdd",
+                  "use-case-driven-development",
+                  "vertical-slice-architecture",
+                  "webapi"
+                ]
               },
               "first_seen": "2026-08-29T01:54:50.757Z"
             },
@@ -463,12 +816,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "This is a personal sand box",
+                "homepage": "https://leanpub.com/cqrs",
                 "id": 319259,
                 "language": "C#",
+                "license": null,
                 "last_commit": "2023-07-04T19:43:57Z",
+                "open_issues": 2,
                 "owner": "MarkNijhof",
                 "repo": "Fohjin",
-                "stars": 697
+                "stars": 697,
+                "topics": []
               },
               "first_seen": "2026-08-29T01:54:50.757Z"
             },
@@ -479,12 +837,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": null,
+                "homepage": null,
                 "id": 71372801,
                 "language": "JavaScript",
+                "license": "MIT",
                 "last_commit": "2017-12-05T15:06:07Z",
+                "open_issues": 7,
                 "owner": "jbogard",
                 "repo": "ContosoUniversityCore",
-                "stars": 584
+                "stars": 584,
+                "topics": []
               },
               "first_seen": "2026-08-29T01:54:50.757Z"
             },
@@ -495,12 +858,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "An event based Micro ERP",
+                "homepage": null,
                 "id": 70825023,
                 "language": "C#",
+                "license": "AGPL-3.0",
                 "last_commit": "2023-06-16T12:32:42Z",
+                "open_issues": 10,
                 "owner": "mastreeno",
                 "repo": "Merp",
-                "stars": 503
+                "stars": 503,
+                "topics": []
               },
               "first_seen": "2026-08-29T01:54:50.757Z"
             },
@@ -511,12 +879,25 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Sample implementation and comparison of various approaches to building DDD applications. Useful as a baseline to quickly start a DDD dot net project.",
+                "homepage": null,
                 "id": 185648780,
                 "language": "C#",
+                "license": "MIT",
                 "last_commit": "2025-09-12T18:27:47Z",
+                "open_issues": 0,
                 "owner": "itlibrium",
                 "repo": "DDD-starter-dotnet",
-                "stars": 404
+                "stars": 404,
+                "topics": [
+                  "bdd",
+                  "ddd",
+                  "ddd-example",
+                  "ddd-patterns",
+                  "event-driven",
+                  "event-sourcing",
+                  "hexagonal-architecture"
+                ]
               },
               "first_seen": "2026-08-29T01:54:50.757Z"
             },
@@ -527,12 +908,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "This repository contains code that accompanies presentation ASC LAB team gave at meetup about “Creating better code with Domain Driven Design”.",
+                "homepage": "https://www.altkomsoftware.com/blog/better-code-using-domain-driven-design/",
                 "id": 227771882,
                 "language": "C#",
+                "license": null,
                 "last_commit": "2026-04-30T09:48:13Z",
+                "open_issues": 0,
                 "owner": "asc-lab",
                 "repo": "better-code-with-ddd",
-                "stars": 321
+                "stars": 321,
+                "topics": []
               },
               "first_seen": "2026-08-29T01:54:50.757Z"
             },
@@ -543,12 +929,35 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Fork of dotnet-architecture/eShopOnContainers in full DDD/CQRS design using my own patterns",
+                "homepage": null,
                 "id": 130364468,
                 "language": "C#",
+                "license": "MIT",
                 "last_commit": "2023-03-04T00:19:52Z",
+                "open_issues": 30,
                 "owner": "charlessolar",
                 "repo": "eShopOnContainersDDD",
-                "stars": 319
+                "stars": 319,
+                "topics": [
+                  "backend",
+                  "cqrs",
+                  "cqrs-es",
+                  "ddd",
+                  "domain-driven-design",
+                  "eventsourcing",
+                  "eventstore",
+                  "example",
+                  "frontend",
+                  "microservices",
+                  "mobx",
+                  "mobx-state-tree",
+                  "netstandard",
+                  "nservicebus",
+                  "react",
+                  "servicestack",
+                  "typescript"
+                ]
               },
               "first_seen": "2026-08-29T01:54:50.757Z"
             },
@@ -559,12 +968,32 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Implementation of basic Todo app via tastejs/todomvc in C#/Typescript with eventsourcing, cqrs, and domain driven design",
+                "homepage": null,
                 "id": 127932700,
                 "language": "C#",
+                "license": "MIT",
                 "last_commit": "2023-01-08T23:00:16Z",
+                "open_issues": 2,
                 "owner": "charlessolar",
                 "repo": "TodoMVC-DDD-CQRS-EventSourcing",
-                "stars": 257
+                "stars": 257,
+                "topics": [
+                  "backend",
+                  "cqrs",
+                  "cqrs-es",
+                  "ddd",
+                  "domain-driven-design",
+                  "eventsourcing",
+                  "eventstore",
+                  "example",
+                  "frontend",
+                  "microservices",
+                  "netstandard",
+                  "nservicebus",
+                  "todomvc",
+                  "typescript"
+                ]
               },
               "first_seen": "2026-08-29T01:54:50.757Z"
             },
@@ -575,12 +1004,38 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "DDD+CQRS+Event-sourcing examples using EventFlow following CQRS-ES architecture. It is configured with RabbitMQ, MongoDB(Snapshot store), PostgreSQL(Read store), EventStore(GES). It's targeted to .Net Core 2.2 and include docker compose file.",
+                "homepage": null,
                 "id": 222979230,
                 "language": "C#",
+                "license": "Apache-2.0",
                 "last_commit": "2023-03-03T23:28:21Z",
+                "open_issues": 2,
                 "owner": "OKTAYKIR",
                 "repo": "EventFlow.Example",
-                "stars": 204
+                "stars": 204,
+                "topics": [
+                  "command-handler",
+                  "cqrs",
+                  "cqrs-es-architecture",
+                  "ddd",
+                  "domain-driven-design",
+                  "dotnet-core",
+                  "dotnetcore",
+                  "event-driven",
+                  "event-driven-architecture",
+                  "event-handler",
+                  "event-sourcing",
+                  "eventflow",
+                  "eventsource",
+                  "eventsourcing",
+                  "eventstore",
+                  "ges",
+                  "mongodb",
+                  "rabbitmq",
+                  "sagas",
+                  "snapshot-store"
+                ]
               },
               "first_seen": "2026-08-29T01:54:50.757Z"
             },
@@ -591,12 +1046,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Event-Sourcing and Domain-Driven Design with F# and EventStore",
+                "homepage": "http://gorodinski.com/blog/2013/02/17/domain-driven-design-with-fsharp-and-eventstore/",
                 "id": 8260712,
                 "language": "JavaScript",
+                "license": null,
                 "last_commit": "2021-03-02T11:50:56Z",
+                "open_issues": 4,
                 "owner": "eulerfx",
                 "repo": "DDDInventoryItemFSharp",
-                "stars": 186
+                "stars": 186,
+                "topics": []
               },
               "first_seen": "2026-08-29T01:54:50.757Z"
             },
@@ -607,12 +1067,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "This is a .NET skeleton project to introduce the concepts of Domain Driven Design and loosely coupled layers. You can use this solution as a starting point to build loosely coupled and composable applications where the Domain is at the heart of the project.",
+                "homepage": null,
                 "id": 13669600,
                 "language": "C#",
+                "license": null,
                 "last_commit": "2014-03-31T06:31:28Z",
+                "open_issues": 0,
                 "owner": "andras-nemes",
                 "repo": "DDDSkeletonNet",
-                "stars": 179
+                "stars": 179,
+                "topics": []
               },
               "first_seen": "2026-08-29T01:54:50.757Z"
             },
@@ -623,12 +1088,29 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Domain Driven Design (DDD) N-LayeredArchitecture with .Net Core 2",
+                "homepage": null,
                 "id": 93953557,
                 "language": "C#",
+                "license": null,
                 "last_commit": "2018-08-23T14:09:46Z",
+                "open_issues": 2,
                 "owner": "cesarcastrocuba",
                 "repo": "nlayerappv3",
-                "stars": 154
+                "stars": 154,
+                "topics": [
+                  "architectural-patterns",
+                  "asp-net-core",
+                  "ddd",
+                  "ddd-architecture",
+                  "ddd-patterns",
+                  "ddd-sample",
+                  "domain-driven-design",
+                  "dotnet-core",
+                  "dotnetcore",
+                  "nlayer",
+                  "sample-code"
+                ]
               },
               "first_seen": "2026-08-29T01:54:50.757Z"
             },
@@ -639,12 +1121,22 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Examples of implementation CQRS with Event Sourcing - evolutionary approach",
+                "homepage": "https://altkomsoftware.pl/en/blog/cqrs-event-sourcing/",
                 "id": 165252537,
                 "language": "C#",
+                "license": null,
                 "last_commit": "2019-07-02T11:45:19Z",
+                "open_issues": 0,
                 "owner": "asc-lab",
                 "repo": "dotnet-cqrs-intro",
-                "stars": 138
+                "stars": 138,
+                "topics": [
+                  "cqrs",
+                  "dotnet",
+                  "dotnet-core",
+                  "event-sourcing"
+                ]
               },
               "first_seen": "2026-08-29T01:54:50.757Z"
             },
@@ -655,12 +1147,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Domain Driven Design, CQRS, & Event Sourcing Example using GetEventStore, CommonDomain, NServiceBus, Entity Framework, SQL Server, SignalR",
+                "homepage": null,
                 "id": 12733769,
                 "language": "JavaScript",
+                "license": null,
                 "last_commit": "2014-05-01T00:31:58Z",
+                "open_issues": 0,
                 "owner": "dcomartin",
                 "repo": "DDD-CQRS-ES-Example",
-                "stars": 134
+                "stars": 134,
+                "topics": []
               },
               "first_seen": "2026-08-29T01:54:50.757Z"
             },
@@ -671,12 +1168,17 @@
               "children": [],
               "repo_info": {
                 "archived": true,
+                "description": "Event sourcing implementation sample in F# - Moved to Codeberg",
+                "homepage": "https://codeberg.org/thinkbeforecoding/FsUno",
                 "id": 11019518,
                 "language": "F#",
+                "license": null,
                 "last_commit": "2025-04-05T18:24:05Z",
+                "open_issues": 1,
                 "owner": "thinkbeforecoding",
                 "repo": "FsUno",
-                "stars": 78
+                "stars": 78,
+                "topics": []
               },
               "first_seen": "2026-08-29T01:54:50.757Z"
             },
@@ -687,12 +1189,17 @@
               "children": [],
               "repo_info": {
                 "archived": true,
+                "description": "Simple CQRS example - Moved to Codeberg",
+                "homepage": "https://codeberg.org/thinkbeforecoding/m-r",
                 "id": 4685690,
                 "language": "C#",
+                "license": null,
                 "last_commit": "2025-04-05T18:28:00Z",
+                "open_issues": 1,
                 "owner": "thinkbeforecoding",
                 "repo": "m-r",
-                "stars": 73
+                "stars": 73,
+                "topics": []
               },
               "first_seen": "2026-08-29T01:54:50.757Z"
             },
@@ -703,12 +1210,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "CQRS without plumbing",
+                "homepage": "http://github.com/ToJans/Scritchy/wiki",
                 "id": 2625691,
                 "language": "C#",
+                "license": "MIT",
                 "last_commit": "2023-05-31T19:19:41Z",
+                "open_issues": 8,
                 "owner": "ToJans",
                 "repo": "Scritchy",
-                "stars": 66
+                "stars": 66,
+                "topics": []
               },
               "first_seen": "2026-08-29T01:54:50.757Z"
             },
@@ -719,12 +1231,35 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "AppointMe is a modular-monolith .NET SaaS template with multitenancy, auth, billing and deployment already wired.",
+                "homepage": "https://appointme.dev",
                 "id": 1261955620,
                 "language": "TypeScript",
+                "license": "MIT",
                 "last_commit": "2026-08-24T07:46:07Z",
+                "open_issues": 1,
                 "owner": "bravodev-hub",
                 "repo": "appointme",
-                "stars": 45
+                "stars": 45,
+                "topics": [
+                  "aspnet-core",
+                  "boilerplate",
+                  "boilerplate-template",
+                  "csharp",
+                  "domain-driven-design",
+                  "dotnet",
+                  "dotnet-core",
+                  "event-driven-architecture",
+                  "modular-monolith",
+                  "react",
+                  "saas",
+                  "saas-boilerplate",
+                  "saas-starter",
+                  "saas-starter-kit",
+                  "saas-template",
+                  "starter-kit",
+                  "vertical-slice-architecture"
+                ]
               },
               "first_seen": "2026-08-29T01:54:50.757Z"
             },
@@ -735,12 +1270,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Email marketing ASP.NET Core MVC and ASP.NET MVC demo app demonstrating CoreDdd and DatabaseBuilder usage",
+                "homepage": null,
                 "id": 43552100,
                 "language": "C#",
+                "license": "MIT",
                 "last_commit": "2025-05-26T08:42:47Z",
+                "open_issues": 12,
                 "owner": "xhafan",
                 "repo": "emailmaker",
-                "stars": 13
+                "stars": 13,
+                "topics": []
               },
               "first_seen": "2026-08-29T01:54:50.757Z"
             },
@@ -751,12 +1291,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Modular application designed with principles of DDD and Clean Architecture.",
+                "homepage": null,
                 "id": 876224750,
                 "language": "C#",
+                "license": "MIT",
                 "last_commit": "2024-11-14T09:24:38Z",
+                "open_issues": 0,
                 "owner": "ryletko",
                 "repo": "LexiQuest-Modular-DDD",
-                "stars": 7
+                "stars": 7,
+                "topics": []
               },
               "first_seen": "2026-08-29T01:54:50.757Z"
             },
@@ -767,12 +1312,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": null,
+                "homepage": null,
                 "id": 170467979,
                 "language": "C#",
+                "license": null,
                 "last_commit": "2021-12-20T08:56:36Z",
+                "open_issues": 1,
                 "owner": "mr0zek",
                 "repo": "Photostock",
-                "stars": 7
+                "stars": 7,
+                "topics": []
               },
               "first_seen": "2026-08-29T01:54:50.757Z"
             },
@@ -783,12 +1333,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Starter template for a modular application in Clean Architecture DDD style with synchronous interaction between modules within single transaction. Perfect for ERP applications.",
+                "homepage": null,
                 "id": 885240243,
                 "language": "C#",
+                "license": null,
                 "last_commit": "2024-11-09T11:45:11Z",
+                "open_issues": 0,
                 "owner": "ryletko",
                 "repo": "Modular.StarterTemplate",
-                "stars": 6
+                "stars": 6,
+                "topics": []
               },
               "first_seen": "2026-08-29T01:54:50.757Z"
             },
@@ -799,12 +1354,22 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "An implementation of DDD strategic and tactical design patterns",
+                "homepage": null,
                 "id": 1130923974,
                 "language": "C#",
+                "license": "MIT",
                 "last_commit": "2026-08-16T04:53:34Z",
+                "open_issues": 0,
                 "owner": "tung-le-lv",
                 "repo": "OpenMind.DDD.Patterns",
-                "stars": 5
+                "stars": 5,
+                "topics": [
+                  "bounded-context",
+                  "domain-driven-design",
+                  "strategic-design",
+                  "tactical-design-patterns"
+                ]
               },
               "first_seen": "2026-08-29T01:54:50.757Z"
             }
@@ -822,12 +1387,27 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "GSD (Get your Stuff Done) | Basic Todo list for demonstrating CQRS/Command Sourcing in Haskell ",
+                "homepage": null,
                 "id": 154288362,
                 "language": "Haskell",
+                "license": "Apache-2.0",
                 "last_commit": "2019-07-23T07:57:49Z",
+                "open_issues": 2,
                 "owner": "Eventuria",
                 "repo": "demonstration-gsd",
-                "stars": 53
+                "stars": 53,
+                "topics": [
+                  "architecture",
+                  "cqrs-application",
+                  "frp",
+                  "functional-programming",
+                  "functional-reactive-programming",
+                  "gsd",
+                  "haskell",
+                  "haskell-application",
+                  "remote-work"
+                ]
               },
               "first_seen": "2026-08-29T01:54:50.757Z"
             }
@@ -845,12 +1425,22 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Idris version of Domain Modeling Made Functional Book.",
+                "homepage": null,
                 "id": 354937253,
                 "language": "Idris",
+                "license": "NOASSERTION",
                 "last_commit": "2021-10-25T17:59:55Z",
+                "open_issues": 0,
                 "owner": "andorp",
                 "repo": "order-taking",
-                "stars": 145
+                "stars": 145,
+                "topics": [
+                  "ddd",
+                  "depedent-types",
+                  "fp",
+                  "idris"
+                ]
               },
               "first_seen": "2026-08-29T01:54:50.757Z"
             }
@@ -868,12 +1458,33 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Complete working example of using Domain Driven Design (DDD), Hexagonal Architecture, CQRS, Event Sourcing (ES), Event Driven Architecture (EDA), Behaviour Driven Development (BDD) using TypeScript and NestJS. Like what you see? Don't forget to star! ⭐ ^^^",
+                "homepage": "https://bitloops.com",
                 "id": 623359273,
                 "language": "TypeScript",
+                "license": "MIT",
                 "last_commit": "2026-08-02T08:50:26Z",
+                "open_issues": 0,
                 "owner": "bitloops",
                 "repo": "ddd-hexagonal-cqrs-es-eda",
-                "stars": 1437
+                "stars": 1437,
+                "topics": [
+                  "bdd",
+                  "cqrs",
+                  "ddd",
+                  "domain-driven-design",
+                  "event-sourcing",
+                  "hexagonal-architecture",
+                  "jaeger",
+                  "mongodb",
+                  "nats",
+                  "nestjs",
+                  "nodejs",
+                  "postgres",
+                  "prometheus",
+                  "realtime",
+                  "typescript"
+                ]
               },
               "first_seen": "2026-08-29T01:54:50.757Z"
             },
@@ -884,12 +1495,33 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Booster Framework",
+                "homepage": "https://www.boosterframework.com",
                 "id": 236025727,
                 "language": "TypeScript",
+                "license": "Apache-2.0",
                 "last_commit": "2026-06-16T17:48:57Z",
+                "open_issues": 285,
                 "owner": "boostercloud",
                 "repo": "booster",
-                "stars": 448
+                "stars": 448,
+                "topics": [
+                  "aws",
+                  "azure",
+                  "booster-framework",
+                  "cloud-native",
+                  "cqrs",
+                  "cqrs-es",
+                  "event-driven",
+                  "event-sourcing",
+                  "framework",
+                  "graphql",
+                  "hacktoberfest",
+                  "microservices",
+                  "nodejs",
+                  "serverless",
+                  "typescript"
+                ]
               },
               "first_seen": "2026-08-29T01:54:50.757Z"
             },
@@ -900,12 +1532,33 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Transactional outbox event processor for Postgres and MongoDB — at-least-once delivery, near-realtime wakeup signals, graceful shutdown, and horizontal scalability.",
+                "homepage": "https://www.npmjs.com/package/txob",
                 "id": 732572899,
                 "language": "TypeScript",
+                "license": "MIT",
                 "last_commit": "2026-07-26T00:16:52Z",
+                "open_issues": 3,
                 "owner": "osbytes",
                 "repo": "txob",
-                "stars": 4
+                "stars": 4,
+                "topics": [
+                  "at-least-once",
+                  "background-jobs",
+                  "ddd",
+                  "event-driven",
+                  "events",
+                  "graceful-shutdown",
+                  "horizontal-scalable",
+                  "message-queue",
+                  "microservices",
+                  "osbytes",
+                  "outbox-pattern",
+                  "pg-notify",
+                  "transactional-inbox",
+                  "transactional-outbox",
+                  "typescript"
+                ]
               },
               "first_seen": "2026-08-29T01:54:50.757Z"
             }
@@ -923,12 +1576,33 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A comprehensive Domain-Driven Design example with problem space strategic analysis and various tactical patterns.",
+                "homepage": null,
                 "id": 165214494,
                 "language": "Java",
+                "license": "MIT",
                 "last_commit": "2023-07-07T21:43:17Z",
+                "open_issues": 23,
                 "owner": "ddd-by-examples",
                 "repo": "library",
-                "stars": 5850
+                "stars": 5850,
+                "topics": [
+                  "aggregate",
+                  "aggregate-root",
+                  "archunit",
+                  "c4",
+                  "crud",
+                  "ddd",
+                  "ddd-architecture",
+                  "domain-driven-design",
+                  "event-storming",
+                  "events",
+                  "functions",
+                  "hexagonal-architecture",
+                  "ports-and-adapters",
+                  "spring",
+                  "vavr"
+                ]
               },
               "first_seen": "2026-08-29T01:54:50.757Z"
             },
@@ -939,12 +1613,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "This is the new home of the original DDD Sample app (previously hosted at sf.net).. ",
+                "homepage": null,
                 "id": 30129939,
                 "language": "Java",
+                "license": "MIT",
                 "last_commit": "2025-06-02T09:09:44Z",
+                "open_issues": 33,
                 "owner": "citerus",
                 "repo": "dddsample-core",
-                "stars": 5287
+                "stars": 5287,
+                "topics": []
               },
               "first_seen": "2026-08-29T01:54:50.757Z"
             },
@@ -955,12 +1634,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "These are the sample Bounded Contexts from the book \"Implementing Domain-Driven Design\" by Vaughn Vernon:  http://vaughnvernon.co/?page_id=168",
+                "homepage": null,
                 "id": 9307997,
                 "language": "Java",
+                "license": "NOASSERTION",
                 "last_commit": "2023-09-09T17:02:35Z",
+                "open_issues": 36,
                 "owner": "VaughnVernon",
                 "repo": "IDDD_Samples",
-                "stars": 3943
+                "stars": 3943,
+                "topics": []
               },
               "first_seen": "2026-08-29T01:54:50.757Z"
             },
@@ -971,12 +1655,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "DDD-CqRS sample v2.0 project that helps you with starting out advanced domain modeling using Spring, JPA and testing",
+                "homepage": null,
                 "id": 14984085,
                 "language": "Java",
+                "license": "NOASSERTION",
                 "last_commit": "2023-12-17T17:20:01Z",
+                "open_issues": 2,
                 "owner": "BottegaIT",
                 "repo": "ddd-leaven-v2",
-                "stars": 881
+                "stars": 881,
+                "topics": []
               },
               "first_seen": "2026-08-29T01:54:50.757Z"
             },
@@ -987,12 +1676,27 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Event Sourcing and CQRS in practice.",
+                "homepage": null,
                 "id": 93197679,
                 "language": "Java",
+                "license": "MIT",
                 "last_commit": "2026-08-27T07:02:18Z",
+                "open_issues": 8,
                 "owner": "andreschaffer",
                 "repo": "event-sourcing-cqrs-examples",
-                "stars": 598
+                "stars": 598,
+                "topics": [
+                  "cqrs",
+                  "cqrs-es",
+                  "ddd",
+                  "domain-driven-design",
+                  "event-sourcing",
+                  "event-store",
+                  "events",
+                  "hexagonal-architecture",
+                  "java"
+                ]
               },
               "first_seen": "2026-08-29T01:54:50.757Z"
             },
@@ -1003,12 +1707,24 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Sample ES/CQRS application",
+                "homepage": null,
                 "id": 62087001,
                 "language": "Java",
+                "license": null,
                 "last_commit": "2018-05-22T22:15:14Z",
+                "open_issues": 1,
                 "owner": "ddd-by-examples",
                 "repo": "event-source-cqrs-sample",
-                "stars": 474
+                "stars": 474,
+                "topics": [
+                  "cqrs",
+                  "domain-driven-design",
+                  "event-driven",
+                  "event-sourcing",
+                  "hexagonal-architecture",
+                  "springboot"
+                ]
               },
               "first_seen": "2026-08-29T01:54:50.757Z"
             },
@@ -1019,12 +1735,23 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "The project demonstrates how you can develop applications with Jakarta EE using widely adopted architectural best practices like Domain-Driven Design (DDD).",
+                "homepage": "https://eclipse-ee4j.github.io/cargotracker/",
                 "id": 208272383,
                 "language": "JavaScript",
+                "license": "MIT",
                 "last_commit": "2026-08-02T20:47:56Z",
+                "open_issues": 5,
                 "owner": "eclipse-ee4j",
                 "repo": "cargotracker",
-                "stars": 390
+                "stars": 390,
+                "topics": [
+                  "ddd",
+                  "domain-driven-design",
+                  "jakartaee",
+                  "java",
+                  "javaee"
+                ]
               },
               "first_seen": "2026-08-29T01:54:50.757Z"
             },
@@ -1035,12 +1762,28 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "EventStorming workshop, this is a hands-on workshop. Contains such topics: DDD, Event storming, Specification by example. Including the AWS product : Serverless Lambda , DynamoDB, Fargate, CloudWatch.",
+                "homepage": null,
                 "id": 132241610,
                 "language": "Java",
+                "license": "NOASSERTION",
                 "last_commit": "2025-12-19T22:45:35Z",
+                "open_issues": 6,
                 "owner": "humank",
                 "repo": "ddd-practitioners-ref",
-                "stars": 321
+                "stars": 321,
+                "topics": [
+                  "aws",
+                  "container",
+                  "ddd",
+                  "ecs",
+                  "eventbridge",
+                  "eventstorming",
+                  "fargate",
+                  "lambda",
+                  "microservices",
+                  "serverless"
+                ]
               },
               "first_seen": "2026-08-29T01:54:50.757Z"
             },
@@ -1051,12 +1794,22 @@
               "children": [],
               "repo_info": {
                 "archived": true,
+                "description": "A sample DDD/CQRS project using KOTLIN :beer:",
+                "homepage": null,
                 "id": 133300494,
                 "language": "Kotlin",
+                "license": null,
                 "last_commit": "2020-08-06T17:19:47Z",
+                "open_issues": 1,
                 "owner": "Creditas",
                 "repo": "kotlin-ddd-sample",
-                "stars": 306
+                "stars": 306,
+                "topics": [
+                  "axonframework",
+                  "cqrs",
+                  "ddd",
+                  "kotlin"
+                ]
               },
               "first_seen": "2026-08-29T01:54:50.757Z"
             },
@@ -1067,12 +1820,20 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Examples of implementation CQRS with Event Sourcing - evolutionary approach",
+                "homepage": null,
                 "id": 165799262,
                 "language": "Java",
+                "license": null,
                 "last_commit": "2024-10-17T16:22:54Z",
+                "open_issues": 3,
                 "owner": "asc-lab",
                 "repo": "java-cqrs-intro",
-                "stars": 216
+                "stars": 216,
+                "topics": [
+                  "cqrs",
+                  "java-11"
+                ]
               },
               "first_seen": "2026-08-29T01:54:50.757Z"
             },
@@ -1083,12 +1844,21 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A simplified (in memory) example of Event Sourcing implementation for banking domain. ",
+                "homepage": null,
                 "id": 86615884,
                 "language": "Java",
+                "license": null,
                 "last_commit": "2017-05-16T12:16:16Z",
+                "open_issues": 4,
                 "owner": "Pragmatists",
                 "repo": "eventsourcing-java-example",
-                "stars": 99
+                "stars": 99,
+                "topics": [
+                  "ddd",
+                  "ddd-sample",
+                  "event-sourcing"
+                ]
               },
               "first_seen": "2026-08-29T01:54:50.757Z"
             },
@@ -1099,12 +1869,25 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Ready to go Domain-Driven Design workshop.",
+                "homepage": null,
                 "id": 89321960,
                 "language": "Java",
+                "license": "Apache-2.0",
                 "last_commit": "2023-02-02T12:17:31Z",
+                "open_issues": 0,
                 "owner": "mkopylec",
                 "repo": "project-manager",
-                "stars": 62
+                "stars": 62,
+                "topics": [
+                  "ddd",
+                  "domain-driven-design",
+                  "hexagonal",
+                  "rest",
+                  "sample",
+                  "spring-boot",
+                  "workshop"
+                ]
               },
               "first_seen": "2026-08-29T01:54:50.757Z"
             },
@@ -1115,12 +1898,17 @@
               "children": [],
               "repo_info": {
                 "archived": true,
+                "description": "Demo project to implement the CQRS and Event Sourcing patterns in Scala-Akka",
+                "homepage": null,
                 "id": 64036994,
                 "language": "JavaScript",
+                "license": "Apache-2.0",
                 "last_commit": "2016-08-17T20:05:27Z",
+                "open_issues": 0,
                 "owner": "mdonkers",
                 "repo": "akka-cqrs-es-demo",
-                "stars": 56
+                "stars": 56,
+                "topics": []
               },
               "first_seen": "2026-08-29T01:54:50.757Z"
             },
@@ -1131,12 +1919,38 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Open-source iGaming/casino engine in Kotlin/Ktor — aggregator integrations (Pragmatic Play, OneGameHub, Pateplay), betting lifecycle, freespins, gRPC API. Hexagonal + DDD + CQRS, RabbitMQ event-driven. Apache 2.0.",
+                "homepage": "https://1638.cloud/",
                 "id": 1094544202,
                 "language": "Kotlin",
+                "license": "Apache-2.0",
                 "last_commit": "2026-08-28T13:35:58Z",
+                "open_issues": 0,
                 "owner": "nekzabirov",
                 "repo": "IGaming-Game-Engine",
-                "stars": 23
+                "stars": 23,
+                "topics": [
+                  "casino",
+                  "casino-games",
+                  "casino-gaming-platforms",
+                  "cqrs",
+                  "domain-driven-design",
+                  "event-driven",
+                  "gambling",
+                  "grpc",
+                  "hexagonal-architecture",
+                  "igaming",
+                  "igaming-software",
+                  "kotlin",
+                  "ktor",
+                  "microservice",
+                  "onegamehub",
+                  "pateplay",
+                  "pragmatic-play",
+                  "rabbitmq",
+                  "slots",
+                  "turnkey-casino-solutions"
+                ]
               },
               "first_seen": "2026-08-29T01:54:50.757Z"
             },
@@ -1147,12 +1961,30 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Just a simple implementation of DDD + clean architecture pattern. It also contains the exaplanation about the concepts that supports this implementation.",
+                "homepage": null,
                 "id": 359984551,
                 "language": "Java",
+                "license": null,
                 "last_commit": "2021-04-26T23:06:49Z",
+                "open_issues": 0,
                 "owner": "felipexw",
                 "repo": "clean-arch-ddd-intro",
-                "stars": 23
+                "stars": 23,
+                "topics": [
+                  "clean-architecture",
+                  "clean-code",
+                  "ddd",
+                  "ddd-architecture",
+                  "ddd-example",
+                  "ddd-patterns",
+                  "ddd-sample",
+                  "domain-driven-design",
+                  "hexagonal-architecture",
+                  "java",
+                  "micronaut",
+                  "micronaut-java-application"
+                ]
               },
               "first_seen": "2026-08-29T01:54:50.757Z"
             }
@@ -1170,12 +2002,27 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Symfony 7 DDD ES CQRS backend boilerplate.",
+                "homepage": null,
                 "id": 116064483,
                 "language": "PHP",
+                "license": "MIT",
                 "last_commit": "2026-08-09T20:30:44Z",
+                "open_issues": 3,
                 "owner": "jorge07",
                 "repo": "symfony-7-es-cqrs-boilerplate",
-                "stars": 1088
+                "stars": 1088,
+                "topics": [
+                  "backend",
+                  "cqrs",
+                  "cqrs-es",
+                  "ddd",
+                  "docker",
+                  "event-sourcing",
+                  "hacktoberfest",
+                  "symfony",
+                  "symfony-flex"
+                ]
               },
               "first_seen": "2026-08-29T01:54:50.757Z"
             },
@@ -1186,12 +2033,23 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "PHP 7 Version of the cargo sample used in Eric Evans DDD book",
+                "homepage": "http://codeliner.github.io/php-ddd-cargo-sample/",
                 "id": 14567403,
                 "language": "JavaScript",
+                "license": "BSD-3-Clause",
                 "last_commit": "2018-11-06T22:31:30Z",
+                "open_issues": 0,
                 "owner": "codeliner",
                 "repo": "php-ddd-cargo-sample",
-                "stars": 788
+                "stars": 788,
+                "topics": [
+                  "cargo-sample",
+                  "ddd",
+                  "ddd-sample",
+                  "eric-evans-book",
+                  "php"
+                ]
               },
               "first_seen": "2026-08-29T01:54:50.757Z"
             },
@@ -1202,12 +2060,25 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Domain-Driven Design in a PHP project using Symfony",
+                "homepage": null,
                 "id": 65225317,
                 "language": "PHP",
+                "license": null,
                 "last_commit": "2022-02-28T09:57:57Z",
+                "open_issues": 6,
                 "owner": "jorge07",
                 "repo": "ddd-playground",
-                "stars": 593
+                "stars": 593,
+                "topics": [
+                  "ddd",
+                  "docker",
+                  "learning-ddd",
+                  "php",
+                  "php-ddd",
+                  "rest-api",
+                  "symfony"
+                ]
               },
               "first_seen": "2026-08-29T01:54:50.757Z"
             },
@@ -1218,12 +2089,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "DDD CQRS ADR PHP Symfony example",
+                "homepage": null,
                 "id": 267641072,
                 "language": "PHP",
+                "license": "GPL-3.0",
                 "last_commit": "2023-02-01T18:50:28Z",
+                "open_issues": 11,
                 "owner": "ferrius",
                 "repo": "ddd-cqrs-example",
-                "stars": 365
+                "stars": 365,
+                "topics": []
               },
               "first_seen": "2026-08-29T01:54:50.757Z"
             },
@@ -1234,12 +2110,28 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Wishlist, a sample application on Symfony 3 and Vue.js built with DDD in mind",
+                "homepage": null,
                 "id": 98386355,
                 "language": "PHP",
+                "license": "MIT",
                 "last_commit": "2017-08-23T07:39:55Z",
+                "open_issues": 0,
                 "owner": "franzose",
                 "repo": "symfony-ddd-wishlist",
-                "stars": 201
+                "stars": 201,
+                "topics": [
+                  "ddd",
+                  "ddd-architecture",
+                  "ddd-patterns",
+                  "ddd-sample",
+                  "postgresql",
+                  "redis",
+                  "symfony",
+                  "symfony-application",
+                  "symfony3",
+                  "vuejs"
+                ]
               },
               "first_seen": "2026-08-29T01:54:50.757Z"
             },
@@ -1250,12 +2142,25 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Domain-Driven Design shop cart demonstration",
+                "homepage": null,
                 "id": 100982572,
                 "language": "PHP",
+                "license": null,
                 "last_commit": "2023-04-14T09:31:06Z",
+                "open_issues": 0,
                 "owner": "simara-svatopluk",
                 "repo": "cart",
-                "stars": 108
+                "stars": 108,
+                "topics": [
+                  "cart",
+                  "ddd",
+                  "ddd-samples",
+                  "doctrine",
+                  "eshop-cart",
+                  "model",
+                  "tdd"
+                ]
               },
               "first_seen": "2026-08-29T01:54:50.757Z"
             },
@@ -1266,12 +2171,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": null,
+                "homepage": null,
                 "id": 842697257,
                 "language": "PHP",
+                "license": null,
                 "last_commit": "2024-08-14T22:12:41Z",
+                "open_issues": 0,
                 "owner": "janikredpandadev",
                 "repo": "ddd-modulith",
-                "stars": 0
+                "stars": 0,
+                "topics": []
               },
               "first_seen": "2026-08-29T01:54:50.757Z"
             }
@@ -1295,12 +2205,25 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A Modern Testing Framework for Go",
+                "homepage": "http://onsi.github.io/ginkgo/",
                 "id": 12332444,
                 "language": "Go",
+                "license": "MIT",
                 "last_commit": "2026-08-10T22:18:47Z",
+                "open_issues": 125,
                 "owner": "onsi",
                 "repo": "ginkgo",
-                "stars": 9043
+                "stars": 9044,
+                "topics": [
+                  "bdd",
+                  "bdd-framework",
+                  "go",
+                  "golang",
+                  "test",
+                  "test-driven-development",
+                  "testing"
+                ]
               },
               "first_seen": "2026-08-29T01:54:50.757Z"
             },
@@ -1311,12 +2234,23 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Go testing in the browser. Integrates with `go test`. Write behavioral tests in Go.",
+                "homepage": "http://smartystreets.github.io/goconvey/",
                 "id": 12261520,
                 "language": "Go",
+                "license": "NOASSERTION",
                 "last_commit": "2024-07-30T12:11:32Z",
+                "open_issues": 168,
                 "owner": "smartystreets",
                 "repo": "goconvey",
-                "stars": 8405
+                "stars": 8405,
+                "topics": [
+                  "bdd-framework",
+                  "go",
+                  "goconvey",
+                  "tdd-utilities",
+                  "testing-tools"
+                ]
               },
               "first_seen": "2026-08-29T01:54:50.757Z"
             },
@@ -1327,12 +2261,22 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Cucumber for golang",
+                "homepage": null,
                 "id": 37198116,
                 "language": "Go",
+                "license": "MIT",
                 "last_commit": "2026-08-27T04:08:52Z",
+                "open_issues": 92,
                 "owner": "cucumber",
                 "repo": "godog",
-                "stars": 2666
+                "stars": 2666,
+                "topics": [
+                  "functional-testing",
+                  "gherkin",
+                  "golang",
+                  "integration-testing"
+                ]
               },
               "first_seen": "2026-08-29T01:54:50.757Z"
             },
@@ -1343,12 +2287,24 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "BDD framework",
+                "homepage": "https://go-bdd.github.io/gobdd/",
                 "id": 189361046,
                 "language": "Go",
+                "license": "MIT",
                 "last_commit": "2026-06-23T15:43:25Z",
+                "open_issues": 11,
                 "owner": "go-bdd",
                 "repo": "gobdd",
-                "stars": 144
+                "stars": 144,
+                "topics": [
+                  "bdd",
+                  "gherkin",
+                  "go",
+                  "golang",
+                  "hacktoberfest",
+                  "tests"
+                ]
               },
               "first_seen": "2026-08-29T01:54:50.757Z"
             }
@@ -1366,12 +2322,19 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Simple, unambitious mediator implementation in .NET",
+                "homepage": null,
                 "id": 17369361,
                 "language": "C#",
+                "license": "NOASSERTION",
                 "last_commit": "2026-07-02T13:51:06Z",
+                "open_issues": 2,
                 "owner": "LuckyPennySoftware",
                 "repo": "MediatR",
-                "stars": 11858
+                "stars": 11858,
+                "topics": [
+                  "hacktoberfest"
+                ]
               },
               "first_seen": "2026-08-29T01:54:50.757Z"
             },
@@ -1382,12 +2345,26 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Distributed Application Framework for .NET",
+                "homepage": "https://masstransit.io",
                 "id": 778828,
                 "language": "C#",
+                "license": "Apache-2.0",
                 "last_commit": "2026-06-04T18:06:31Z",
+                "open_issues": 1,
                 "owner": "MassTransit",
                 "repo": "MassTransit",
-                "stars": 7798
+                "stars": 7798,
+                "topics": [
+                  "azure-service-bus",
+                  "c-sharp",
+                  "dotnet",
+                  "masstransit",
+                  "messaging",
+                  "nuget",
+                  "rabbitmq",
+                  "sqs"
+                ]
               },
               "first_seen": "2026-08-29T01:54:50.757Z"
             },
@@ -1398,12 +2375,26 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": ".NET Transactional Document DB and Event Store on PostgreSQL",
+                "homepage": "https://martendb.io",
                 "id": 44125268,
                 "language": "C#",
+                "license": "MIT",
                 "last_commit": "2026-08-27T12:37:14Z",
+                "open_issues": 4,
                 "owner": "JasperFx",
                 "repo": "marten",
-                "stars": 3449
+                "stars": 3449,
+                "topics": [
+                  "document-database",
+                  "documentdb",
+                  "dotnet",
+                  "event-sourcing",
+                  "eventsourcing",
+                  "marten",
+                  "plv8",
+                  "postgres"
+                ]
               },
               "first_seen": "2026-08-29T01:54:50.757Z"
             },
@@ -1414,12 +2405,37 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Async/await first CQRS+ES and DDD framework for .NET",
+                "homepage": "https://geteventflow.net",
                 "id": 32411368,
                 "language": "C#",
+                "license": "NOASSERTION",
                 "last_commit": "2026-07-31T10:37:33Z",
+                "open_issues": 13,
                 "owner": "eventflow",
                 "repo": "EventFlow",
-                "stars": 2564
+                "stars": 2564,
+                "topics": [
+                  "async-await",
+                  "c-sharp",
+                  "cqrs",
+                  "cqrs-es",
+                  "ddd",
+                  "domain-driven-design",
+                  "dotnet",
+                  "dotnet-core",
+                  "elasticsearch",
+                  "event-sourcing",
+                  "events",
+                  "eventsourcing",
+                  "eventstore",
+                  "framework",
+                  "netcore",
+                  "netstandard",
+                  "nuget",
+                  "rabbitmq",
+                  "sagas"
+                ]
               },
               "first_seen": "2026-08-29T01:54:50.757Z"
             },
@@ -1430,12 +2446,22 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "The gold standard for async .NET microservices on Azure, AWS and on-prem",
+                "homepage": "https://particular.net/nservicebus/",
                 "id": 1056713,
                 "language": "C#",
+                "license": "NOASSERTION",
                 "last_commit": "2026-08-28T20:51:59Z",
+                "open_issues": 288,
                 "owner": "Particular",
                 "repo": "NServiceBus",
-                "stars": 2168
+                "stars": 2168,
+                "topics": [
+                  "c-sharp",
+                  "distributed-systems",
+                  "messaging",
+                  "nservicebus"
+                ]
               },
               "first_seen": "2026-08-29T01:54:50.757Z"
             },
@@ -1446,12 +2472,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A persistence agnostic Event Store for .NET",
+                "homepage": "http://neventstore.org",
                 "id": 738338,
                 "language": "C#",
+                "license": "MIT",
                 "last_commit": "2026-07-22T17:33:50Z",
+                "open_issues": 24,
                 "owner": "NEventStore",
                 "repo": "NEventStore",
-                "stars": 1615
+                "stars": 1615,
+                "topics": []
               },
               "first_seen": "2026-08-29T01:54:50.757Z"
             },
@@ -1462,12 +2493,23 @@
               "children": [],
               "repo_info": {
                 "archived": true,
+                "description": "An easy-to-use rapid development framework developed on the basis of.NET Core 2.0, following the constraints of domain Driven Design (DDD) specifications, combined with the CQRS architecture to provide the infrastructure for event-driven, event backtracking, responsiveness, and more. Let developers enjoy the true meaning of object-oriented design patterns brought by the aesthetic.",
+                "homepage": "https://shriek-projects.github.io/shriek-fx",
                 "id": 101014359,
                 "language": "C#",
+                "license": "MIT",
                 "last_commit": "2022-12-08T03:43:01Z",
+                "open_issues": 7,
                 "owner": "ElderJames",
                 "repo": "shriek-fx",
-                "stars": 652
+                "stars": 652,
+                "topics": [
+                  "cqrs",
+                  "ddd",
+                  "ddd-cqrs-framework",
+                  "dotnet-core",
+                  "elegant"
+                ]
               },
               "first_seen": "2026-08-29T01:54:50.757Z"
             },
@@ -1478,12 +2520,24 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": ".NET event sourced domain driven design model via NServiceBus and GetEventStore",
+                "homepage": null,
                 "id": 28519536,
                 "language": "C#",
+                "license": "MIT",
                 "last_commit": "2025-05-30T16:14:14Z",
+                "open_issues": 7,
                 "owner": "charlessolar",
                 "repo": "Aggregates.NET",
-                "stars": 441
+                "stars": 441,
+                "topics": [
+                  "cqrs",
+                  "ddd",
+                  "eventsourcing",
+                  "eventstore",
+                  "microservices",
+                  "nservicebus"
+                ]
               },
               "first_seen": "2026-08-29T01:54:50.757Z"
             },
@@ -1494,12 +2548,20 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Event store for Azure Table Storage",
+                "homepage": null,
                 "id": 28932241,
                 "language": "C#",
+                "license": "NOASSERTION",
                 "last_commit": "2026-08-12T05:21:05Z",
+                "open_issues": 17,
                 "owner": "yevhen",
                 "repo": "Streamstone",
-                "stars": 403
+                "stars": 403,
+                "topics": [
+                  "azure",
+                  "event-sourcing"
+                ]
               },
               "first_seen": "2026-08-29T01:54:50.757Z"
             },
@@ -1510,12 +2572,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Lightweight infrastructure for doing eventsourcing using aggregates",
+                "homepage": null,
                 "id": 7773251,
                 "language": "C#",
+                "license": "BSD-3-Clause",
                 "last_commit": "2022-06-22T18:23:37Z",
+                "open_issues": 9,
                 "owner": "yreynhout",
                 "repo": "AggregateSource",
-                "stars": 257
+                "stars": 257,
+                "topics": []
               },
               "first_seen": "2026-08-29T01:54:50.757Z"
             },
@@ -1526,12 +2593,17 @@
               "children": [],
               "repo_info": {
                 "archived": true,
+                "description": ":x: d60 event sourcing + CQRS framework",
+                "homepage": null,
                 "id": 22766961,
                 "language": "C#",
+                "license": "MIT",
                 "last_commit": "2022-06-22T18:31:33Z",
+                "open_issues": 22,
                 "owner": "mookid8000",
                 "repo": "Cirqus",
-                "stars": 230
+                "stars": 230,
+                "topics": []
               },
               "first_seen": "2026-08-29T01:54:50.757Z"
             },
@@ -1542,12 +2614,22 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A set of .NET projection libraries",
+                "homepage": null,
                 "id": 8968639,
                 "language": "C#",
+                "license": "BSD-3-Clause",
                 "last_commit": "2022-12-07T18:37:26Z",
+                "open_issues": 6,
                 "owner": "BitTacklr",
                 "repo": "Projac",
-                "stars": 138
+                "stars": 138,
+                "topics": [
+                  "c-sharp",
+                  "event-sourcing",
+                  "projections",
+                  "sql"
+                ]
               },
               "first_seen": "2026-08-29T01:54:50.757Z"
             },
@@ -1558,12 +2640,26 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Command Query Separation for 🌐ASP.NET Core ⚡AWS Lambda ⚡Azure Functions ⚡Google Cloud Functions",
+                "homepage": null,
                 "id": 66767673,
                 "language": "C#",
+                "license": "MIT",
                 "last_commit": "2026-01-29T21:40:18Z",
+                "open_issues": 2,
                 "owner": "hlaueriksson",
                 "repo": "CommandQuery",
-                "stars": 111
+                "stars": 111,
+                "topics": [
+                  "asp-net-core",
+                  "aws-lambda",
+                  "azure-functions",
+                  "command-query",
+                  "cqs",
+                  "csharp",
+                  "dotnet",
+                  "google-cloud-functions"
+                ]
               },
               "first_seen": "2026-08-29T01:54:50.757Z"
             },
@@ -1574,12 +2670,26 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A lightweight and easy-to-use CQRS + DDD library",
+                "homepage": null,
                 "id": 102511403,
                 "language": "C#",
+                "license": "MIT",
                 "last_commit": "2018-05-29T05:18:06Z",
+                "open_issues": 2,
                 "owner": "XerProjects",
                 "repo": "Xer.Cqrs",
-                "stars": 103
+                "stars": 103,
+                "topics": [
+                  "command",
+                  "command-handler",
+                  "cqrs",
+                  "dotnet-standard",
+                  "event",
+                  "event-handlers",
+                  "query",
+                  "query-handler"
+                ]
               },
               "first_seen": "2026-08-29T01:54:50.757Z"
             },
@@ -1590,12 +2700,17 @@
               "children": [],
               "repo_info": {
                 "archived": true,
+                "description": "A set of libraries for CQRS and Event Sourcing, with a Domain-Driven Design flavor.",
+                "homepage": null,
                 "id": 26377662,
                 "language": "C#",
+                "license": "NOASSERTION",
                 "last_commit": "2017-12-14T04:44:45Z",
+                "open_issues": 16,
                 "owner": "jonsequitur",
                 "repo": "Its.Cqrs",
-                "stars": 75
+                "stars": 75,
+                "topics": []
               },
               "first_seen": "2026-08-29T01:54:50.757Z"
             },
@@ -1606,12 +2721,23 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A set of open-source .NET libraries helping with DDD (domain-driven design) and CQRS (command query responsibility segregation).",
+                "homepage": null,
                 "id": 124407441,
                 "language": "C#",
+                "license": "MIT",
                 "last_commit": "2026-04-08T11:36:46Z",
+                "open_issues": 20,
                 "owner": "xhafan",
                 "repo": "coreddd",
-                "stars": 72
+                "stars": 72,
+                "topics": [
+                  "asp-net",
+                  "asp-net-core",
+                  "cqrs",
+                  "ddd",
+                  "nhibernate"
+                ]
               },
               "first_seen": "2026-08-29T01:54:50.757Z"
             },
@@ -1622,12 +2748,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Making it easier to convert strings to/from .NET types.",
+                "homepage": "https://www.nuget.org/packages/Stringly.Typed/",
                 "id": 70674535,
                 "language": "C#",
+                "license": "MIT",
                 "last_commit": "2018-11-20T20:57:11Z",
+                "open_issues": 4,
                 "owner": "mission202",
                 "repo": "Stringly.Typed",
-                "stars": 48
+                "stars": 48,
+                "topics": []
               },
               "first_seen": "2026-08-29T01:54:50.757Z"
             },
@@ -1638,12 +2769,23 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": ".NET framework for DDD, CQRS and Event Sourcing.",
+                "homepage": "https://lucabriguglia.github.io/Memoria/",
                 "id": 109478725,
                 "language": "C#",
+                "license": "Apache-2.0",
                 "last_commit": "2026-08-25T07:44:22Z",
+                "open_issues": 14,
                 "owner": "lucabriguglia",
                 "repo": "Memoria",
-                "stars": 28
+                "stars": 28,
+                "topics": [
+                  "cqrs",
+                  "ddd",
+                  "dotnet",
+                  "event-sourcing",
+                  "mediator"
+                ]
               },
               "first_seen": "2026-08-29T01:54:50.757Z"
             },
@@ -1654,12 +2796,23 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "CQRS on Windows Azure",
+                "homepage": null,
                 "id": 55247386,
                 "language": "C#",
+                "license": null,
                 "last_commit": "2019-02-20T20:53:43Z",
+                "open_issues": 3,
                 "owner": "MerrionComputing",
                 "repo": "CQRSAzure",
-                "stars": 26
+                "stars": 26,
+                "topics": [
+                  "codegen",
+                  "cqrs-es",
+                  "csharp",
+                  "vb-net",
+                  "windows-azure"
+                ]
               },
               "first_seen": "2026-08-29T01:54:50.757Z"
             },
@@ -1670,12 +2823,23 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "DDD ValueObject implementation helper",
+                "homepage": null,
                 "id": 156066692,
                 "language": "C#",
+                "license": "MIT",
                 "last_commit": "2022-02-05T06:27:00Z",
+                "open_issues": 1,
                 "owner": "sm-g",
                 "repo": "ByValue",
-                "stars": 7
+                "stars": 7,
+                "topics": [
+                  "c-sharp",
+                  "ddd",
+                  "domain-driven-design",
+                  "dotnet",
+                  "netstandard"
+                ]
               },
               "first_seen": "2026-08-29T01:54:50.757Z"
             },
@@ -1686,12 +2850,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A library to facilitate communication between CommandService and QueryService. The Idea is when any event occures in commandService, it should be persisted in QueryService in MongoDb, SqlServer, MySql and PostgreSQL",
+                "homepage": null,
                 "id": 243198413,
                 "language": "C#",
+                "license": null,
                 "last_commit": "2023-03-03T23:26:06Z",
+                "open_issues": 3,
                 "owner": "younos1986",
                 "repo": "Core.EventStore",
-                "stars": 6
+                "stars": 6,
+                "topics": []
               },
               "first_seen": "2026-08-29T01:54:50.757Z"
             },
@@ -1702,12 +2871,32 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Implementations of the repository pattern for .NET to support the domain-driven modeling",
+                "homepage": null,
                 "id": 564494183,
                 "language": "C#",
+                "license": "Apache-2.0",
                 "last_commit": "2026-08-16T16:37:13Z",
+                "open_issues": 19,
                 "owner": "deveel",
                 "repo": "kista",
-                "stars": 3
+                "stars": 3,
+                "topics": [
+                  "clean-architechture",
+                  "csharp",
+                  "data",
+                  "dotnet-core",
+                  "dotnetcore",
+                  "efcore",
+                  "entity",
+                  "entity-framework",
+                  "entity-manager",
+                  "layered-architecture",
+                  "mongodb",
+                  "repository",
+                  "repository-manager",
+                  "repository-pattern"
+                ]
               },
               "first_seen": "2026-08-29T01:54:50.757Z"
             },
@@ -1718,12 +2907,35 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "CQRS and Event Sourcing for .NET — with tamper-evident streams and tenant-aware encryption built in. Integrated mediator, outbox, sagas, projections, and identity across 24 lockstep-versioned NuGet packages. MIT-licensed.",
+                "homepage": "https://docs.stratara.tech/",
                 "id": 1252076814,
                 "language": "C#",
+                "license": "MIT",
                 "last_commit": "2026-08-28T19:53:01Z",
+                "open_issues": 0,
                 "owner": "yesbert",
                 "repo": "Stratara",
-                "stars": 2
+                "stars": 2,
+                "topics": [
+                  "audit-trail",
+                  "cqrs",
+                  "csharp",
+                  "domain-driven-design",
+                  "dotnet",
+                  "encryption",
+                  "event-driven-architecture",
+                  "event-sourcing",
+                  "gdpr",
+                  "mediator",
+                  "multi-tenant",
+                  "nuget",
+                  "outbox-pattern",
+                  "postgresql",
+                  "rabbitmq",
+                  "saga-pattern",
+                  "tamper-evident"
+                ]
               },
               "first_seen": "2026-08-29T01:54:50.757Z"
             }
@@ -1741,12 +2953,25 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Microservice native message and event store for Postgres",
+                "homepage": "http://docs.eventide-project.org/user-guide/message-db/",
                 "id": 226219329,
                 "language": "Shell",
+                "license": "MIT",
                 "last_commit": "2024-04-13T02:28:42Z",
+                "open_issues": 24,
                 "owner": "message-db",
                 "repo": "message-db",
-                "stars": 1652
+                "stars": 1652,
+                "topics": [
+                  "event-driven",
+                  "event-sourcing",
+                  "event-store",
+                  "event-stream",
+                  "message-queue",
+                  "postgres",
+                  "pub-sub"
+                ]
               },
               "first_seen": "2026-08-29T01:54:50.757Z"
             }
@@ -1764,12 +2989,25 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Use Commanded to build Elixir CQRS/ES applications",
+                "homepage": null,
                 "id": 54749959,
                 "language": "Elixir",
+                "license": "MIT",
                 "last_commit": "2026-07-27T16:39:45Z",
+                "open_issues": 13,
                 "owner": "commanded",
                 "repo": "commanded",
-                "stars": 2030
+                "stars": 2030,
+                "topics": [
+                  "commanded",
+                  "cqrs",
+                  "cqrs-es",
+                  "cqrs-framework",
+                  "elixir",
+                  "event-sourcing",
+                  "eventstore"
+                ]
               },
               "first_seen": "2026-08-29T01:54:50.757Z"
             },
@@ -1780,12 +3018,26 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Event store using PostgreSQL for persistence",
+                "homepage": null,
                 "id": 52314174,
                 "language": "Elixir",
+                "license": "MIT",
                 "last_commit": "2026-05-04T19:18:03Z",
+                "open_issues": 28,
                 "owner": "commanded",
                 "repo": "eventstore",
-                "stars": 1162
+                "stars": 1162,
+                "topics": [
+                  "commanded",
+                  "cqrs",
+                  "cqrs-es",
+                  "database",
+                  "elixir",
+                  "event-sourcing",
+                  "eventstore",
+                  "postgresql"
+                ]
               },
               "first_seen": "2026-08-29T01:54:50.757Z"
             },
@@ -1796,12 +3048,24 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": ":surfer: Traceable, extendable and minimalist **event bus** implementation for Elixir with built-in **event store** and **event watcher** based on ETS.",
+                "homepage": "https://hexdocs.pm/event_bus",
                 "id": 98097394,
                 "language": "Elixir",
+                "license": "MIT",
                 "last_commit": "2023-04-10T03:53:28Z",
+                "open_issues": 7,
                 "owner": "otobus",
                 "repo": "event_bus",
-                "stars": 703
+                "stars": 703,
+                "topics": [
+                  "elixir",
+                  "event-sourcing",
+                  "eventbus",
+                  "eventstore",
+                  "instrumentation",
+                  "message-bus"
+                ]
               },
               "first_seen": "2026-08-29T01:54:50.757Z"
             }
@@ -1819,12 +3083,25 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "DDD/Clean Architecture inspired boilerplate for Node web APIs",
+                "homepage": "https://github.com/talyssonoc/node-api-boilerplate/wiki",
                 "id": 84875417,
                 "language": "TypeScript",
+                "license": "MIT",
                 "last_commit": "2023-03-04T04:02:18Z",
+                "open_issues": 18,
                 "owner": "talyssonoc",
                 "repo": "node-api-boilerplate",
-                "stars": 3356
+                "stars": 3356,
+                "topics": [
+                  "boilerplate",
+                  "clean-architecture",
+                  "ddd",
+                  "good-practices",
+                  "hacktoberfest",
+                  "nodejs",
+                  "scalability"
+                ]
               },
               "first_seen": "2026-08-29T01:54:50.757Z"
             },
@@ -1835,12 +3112,24 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "EventStore Implementation in node.js",
+                "homepage": "http://eventstore.js.org/",
                 "id": 2306324,
                 "language": "JavaScript",
+                "license": "MIT",
                 "last_commit": "2022-02-19T07:26:46Z",
+                "open_issues": 25,
                 "owner": "thenativeweb",
                 "repo": "node-eventstore",
-                "stars": 536
+                "stars": 536,
+                "topics": [
+                  "domain-driven-design",
+                  "event-sourcing",
+                  "eventstore",
+                  "eventstream",
+                  "javascript",
+                  "nodejs"
+                ]
               },
               "first_seen": "2026-08-29T01:54:50.757Z"
             },
@@ -1851,12 +3140,38 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Open-source transpiled programming language that helps you write clean code, well-designed systems, and build high-quality software that is testable, auditable and maintainable. Like what you see? Don't forget to star! :star: ^^^",
+                "homepage": "https://bitloops.com/bitloops-language",
                 "id": 522875635,
                 "language": "TypeScript",
+                "license": "GPL-3.0",
                 "last_commit": "2026-07-21T00:22:56Z",
+                "open_issues": 78,
                 "owner": "bitloops",
                 "repo": "bitloops-language",
-                "stars": 357
+                "stars": 357,
+                "topics": [
+                  "bdd",
+                  "bdd-tests",
+                  "behavior-driven-development",
+                  "bitloops",
+                  "bitloops-language",
+                  "clean-architecture",
+                  "contributions-welcome",
+                  "ddd",
+                  "ddd-architecture",
+                  "ddd-example",
+                  "developer-tools",
+                  "domain-driven-design",
+                  "domain-model",
+                  "open-source",
+                  "opensource",
+                  "programming-language",
+                  "test-driven-development",
+                  "transpiler",
+                  "typescript",
+                  "ubiquitous-language"
+                ]
               },
               "first_seen": "2026-08-29T01:54:50.757Z"
             },
@@ -1867,12 +3182,33 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Claude Code plugin for building NestJS bounded contexts with Hexagonal Architecture, DDD, CQRS, and event-driven patterns. 10 skills, 8 agents (Opus + Sonnet), TDD workflow, GSD compatible.",
+                "homepage": "https://github.com/Softtor/nestjs-hexagonal#readme",
                 "id": 1193158321,
                 "language": null,
+                "license": "MIT",
                 "last_commit": "2026-08-10T20:29:44Z",
+                "open_issues": 7,
                 "owner": "Softtor",
                 "repo": "nestjs-hexagonal",
-                "stars": 5
+                "stars": 5,
+                "topics": [
+                  "aggregate-root",
+                  "bounded-context",
+                  "claude-code",
+                  "claude-code-plugin",
+                  "clean-architecture",
+                  "cqrs",
+                  "ddd",
+                  "domain-driven-design",
+                  "event-driven",
+                  "hexagonal-architecture",
+                  "nestjs",
+                  "nestjs-cqrs",
+                  "ports-and-adapters",
+                  "tdd",
+                  "typescript"
+                ]
               },
               "first_seen": "2026-08-29T01:54:50.757Z"
             }
@@ -1890,12 +3226,29 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "轻量级DDD正向/逆向业务建模框架，支撑复杂业务系统的架构演化！",
+                "homepage": "https://github.com/dddplus",
                 "id": 293544469,
                 "language": "Java",
+                "license": "Apache-2.0",
                 "last_commit": "2025-12-19T22:50:35Z",
+                "open_issues": 4,
                 "owner": "funkygao",
                 "repo": "cp-ddd-framework",
-                "stars": 1153
+                "stars": 1153,
+                "topics": [
+                  "architecture",
+                  "clean-architecture",
+                  "ddd",
+                  "ddd-architecture",
+                  "dddplus",
+                  "domain-driven-design",
+                  "enterprise-architecture",
+                  "extension",
+                  "framework",
+                  "modeling",
+                  "reverse-engineering"
+                ]
               },
               "first_seen": "2026-08-29T01:54:50.757Z"
             },
@@ -1906,12 +3259,23 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Akka CQRS/ES framework",
+                "homepage": "http://pawelkaczor.github.io/akka-ddd/",
                 "id": 25454900,
                 "language": "Scala",
+                "license": "MIT",
                 "last_commit": "2025-06-01T15:52:51Z",
+                "open_issues": 5,
                 "owner": "pawelkaczor",
                 "repo": "akka-ddd",
-                "stars": 360
+                "stars": 360,
+                "topics": [
+                  "akka",
+                  "cqrs",
+                  "ddd",
+                  "event-sourcing",
+                  "microservices"
+                ]
               },
               "first_seen": "2026-08-29T01:54:50.757Z"
             },
@@ -1922,12 +3286,37 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Modern Reactive CQRS Architecture Microservice development framework based on DDD and EventSourcing | 基于 DDD & EventSourcing 的现代响应式 CQRS 架构微服务开发框架",
+                "homepage": "https://wow.ahoo.me/",
                 "id": 628167080,
                 "language": "Kotlin",
-                "last_commit": "2026-08-29T01:45:39Z",
+                "license": "Apache-2.0",
+                "last_commit": "2026-08-29T02:21:38Z",
+                "open_issues": 6,
                 "owner": "Ahoo-Wang",
                 "repo": "Wow",
-                "stars": 303
+                "stars": 303,
+                "topics": [
+                  "architecture",
+                  "axon",
+                  "cqrs",
+                  "ddd",
+                  "domain-driven-design",
+                  "elasticsearch",
+                  "event-driven",
+                  "event-sourcing",
+                  "high-performance",
+                  "java",
+                  "kafka",
+                  "kotlin",
+                  "microservice",
+                  "mongodb",
+                  "opentelemetry",
+                  "reactive-programming",
+                  "spring",
+                  "spring-boot",
+                  "webflux"
+                ]
               },
               "first_seen": "2026-08-29T01:54:50.757Z"
             },
@@ -1938,12 +3327,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Event sourced aggregates for Java",
+                "homepage": null,
                 "id": 57394979,
                 "language": "Java",
+                "license": "MIT",
                 "last_commit": "2016-07-26T21:12:52Z",
+                "open_issues": 3,
                 "owner": "yreynhout",
                 "repo": "JESA",
-                "stars": 9
+                "stars": 9,
+                "topics": []
               },
               "first_seen": "2026-08-29T01:54:50.757Z"
             },
@@ -1954,12 +3348,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A lightweight, zero-dependency, expressive Java library for pure input assertions.",
+                "homepage": null,
                 "id": 1149207518,
                 "language": "Java",
+                "license": "Apache-2.0",
                 "last_commit": "2026-07-18T07:00:25Z",
+                "open_issues": 0,
                 "owner": "Sympol",
                 "repo": "pure-assert",
-                "stars": 4
+                "stars": 4,
+                "topics": []
               },
               "first_seen": "2026-08-29T01:54:50.757Z"
             }
@@ -1977,12 +3376,17 @@
               "children": [],
               "repo_info": {
                 "archived": true,
+                "description": "Infrastructure and testing helpers for creating CQRS and event sourced applications.",
+                "homepage": "http://labs.qandidate.com/blog/2014/08/26/broadway-our-cqrs-es-framework-open-sourced/",
                 "id": 23352973,
                 "language": "PHP",
+                "license": "MIT",
                 "last_commit": "2026-08-09T19:20:52Z",
+                "open_issues": 0,
                 "owner": "broadway",
                 "repo": "broadway",
-                "stars": 1509
+                "stars": 1509,
+                "topics": []
               },
               "first_seen": "2026-08-29T01:54:50.757Z"
             },
@@ -1993,12 +3397,20 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Demonstrative Conceptual Implementation: Glossary Code Analysis Tool for PHP",
+                "homepage": null,
                 "id": 676003842,
                 "language": "PHP",
+                "license": "MIT",
                 "last_commit": "2024-04-15T17:01:14Z",
+                "open_issues": 0,
                 "owner": "javanile",
                 "repo": "php-glossary",
-                "stars": 5
+                "stars": 5,
+                "topics": [
+                  "glossary",
+                  "php"
+                ]
               },
               "first_seen": "2026-08-29T01:54:50.757Z"
             }
@@ -2016,12 +3428,28 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A library for event sourcing in Python.",
+                "homepage": "https://eventsourcing.readthedocs.io/",
                 "id": 41365202,
                 "language": "Python",
+                "license": "BSD-3-Clause",
                 "last_commit": "2026-08-23T11:41:46Z",
+                "open_issues": 4,
                 "owner": "pyeventsourcing",
                 "repo": "eventsourcing",
-                "stars": 1684
+                "stars": 1684,
+                "topics": [
+                  "cqrs",
+                  "ddd",
+                  "distributed-systems",
+                  "django",
+                  "domain-driven-design",
+                  "event-sourcing",
+                  "eventsourcing",
+                  "python",
+                  "python3",
+                  "sqlalchemy"
+                ]
               },
               "first_seen": "2026-08-29T01:54:50.757Z"
             },
@@ -2032,12 +3460,29 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Python Domain-Driven Design, Event-Based Systems, CRUD patterns",
+                "homepage": "https://knucklesuganda.github.io/py_assimilator/",
                 "id": 575083066,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2024-12-30T14:04:24Z",
+                "open_issues": 2,
                 "owner": "knucklesuganda",
                 "repo": "py_assimilator",
-                "stars": 216
+                "stars": 216,
+                "topics": [
+                  "architecture",
+                  "ddd",
+                  "domain-driven-design",
+                  "good-practices",
+                  "goodcode",
+                  "module",
+                  "patterns",
+                  "python",
+                  "python3",
+                  "pythonmodule",
+                  "web"
+                ]
               },
               "first_seen": "2026-08-29T01:54:50.757Z"
             }
@@ -2059,12 +3504,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A tool to visualize Domain Stories in your browser",
+            "homepage": "http://domainstorytelling.org",
             "id": 146868268,
             "language": "TypeScript",
+            "license": null,
             "last_commit": "2026-07-23T09:49:29Z",
+            "open_issues": 24,
             "owner": "WPS",
             "repo": "egon.io",
-            "stars": 835
+            "stars": 835,
+            "topics": [
+              "business-process",
+              "collaborative-modeling",
+              "domain-driven-design",
+              "domainstorytelling",
+              "modeling-tool"
+            ]
           },
           "first_seen": "2026-08-29T01:54:50.757Z"
         },
@@ -2075,12 +3531,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Strategic design tools for Domain-Driven Design featuring collaborative modeling and visual communication",
+            "homepage": "https://dddtoolbox.com",
             "id": 887563352,
             "language": "TypeScript",
+            "license": "AGPL-3.0",
             "last_commit": "2026-08-05T17:37:10Z",
+            "open_issues": 8,
             "owner": "poulainpi",
             "repo": "ddd-toolbox",
-            "stars": 387
+            "stars": 387,
+            "topics": [
+              "context-mapping",
+              "ddd",
+              "domain-driven-design",
+              "domain-storytelling",
+              "event-storming"
+            ]
           },
           "first_seen": "2026-08-29T01:54:50.757Z"
         }
@@ -2089,15 +3556,24 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-29T01:54:50.757Z",
+    "last_updated": "2026-08-29T04:12:59.240Z",
     "original_repository_info": {
       "archived": false,
+      "description": "A curated list of Domain-Driven Design (DDD), Command Query Responsibility Segregation (CQRS), Event Sourcing, and Event Storming resources",
+      "homepage": null,
       "id": 67043714,
       "language": null,
+      "license": null,
       "last_commit": "2026-08-26T22:19:46Z",
+      "open_issues": 1,
       "owner": "heynickc",
       "repo": "awesome-ddd",
-      "stars": 12347
+      "stars": 12347,
+      "topics": [
+        "awesome",
+        "awesome-list",
+        "list"
+      ]
     },
     "original_repository_sha": "9dca80e243dbea9378dbe2409f61ae4a9329ad3b",
     "enhanced_repository": "enhansome/enhansome-ddd",

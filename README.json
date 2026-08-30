@@ -122,7 +122,7 @@
             "open_issues": 9,
             "owner": "ddd-crew",
             "repo": "context-mapping",
-            "stars": 1846,
+            "stars": 1847,
             "topics": [
               "domain-driven-design"
             ]
@@ -250,7 +250,7 @@
                 "open_issues": 30,
                 "owner": "ThreeDotsLabs",
                 "repo": "wild-workouts-go-ddd-example",
-                "stars": 6433,
+                "stars": 6434,
                 "topics": [
                   "clean-architecture",
                   "cqrs",
@@ -306,7 +306,7 @@
                 "open_issues": 8,
                 "owner": "sklinkert",
                 "repo": "go-ddd",
-                "stars": 803,
+                "stars": 804,
                 "topics": [
                   "architecture",
                   "clean-architecture",
@@ -494,7 +494,7 @@
                 "open_issues": 68,
                 "owner": "kgrzybek",
                 "repo": "modular-monolith-with-ddd",
-                "stars": 13981,
+                "stars": 13985,
                 "topics": [
                   "architecture",
                   "clean-architecture",
@@ -1585,7 +1585,7 @@
                 "open_issues": 23,
                 "owner": "ddd-by-examples",
                 "repo": "library",
-                "stars": 5850,
+                "stars": 5852,
                 "topics": [
                   "aggregate",
                   "aggregate-root",
@@ -1622,7 +1622,7 @@
                 "open_issues": 33,
                 "owner": "citerus",
                 "repo": "dddsample-core",
-                "stars": 5287,
+                "stars": 5288,
                 "topics": []
               },
               "first_seen": "2026-08-29T01:54:50.757Z"
@@ -1924,7 +1924,7 @@
                 "id": 1094544202,
                 "language": "Kotlin",
                 "license": "Apache-2.0",
-                "last_commit": "2026-08-29T11:23:10Z",
+                "last_commit": "2026-08-30T21:32:33Z",
                 "open_issues": 0,
                 "owner": "nekzabirov",
                 "repo": "IGaming-Game-Engine",
@@ -2267,7 +2267,7 @@
                 "language": "Go",
                 "license": "MIT",
                 "last_commit": "2026-08-27T04:08:52Z",
-                "open_issues": 92,
+                "open_issues": 94,
                 "owner": "cucumber",
                 "repo": "godog",
                 "stars": 2666,
@@ -2331,7 +2331,7 @@
                 "open_issues": 2,
                 "owner": "LuckyPennySoftware",
                 "repo": "MediatR",
-                "stars": 11858,
+                "stars": 11859,
                 "topics": [
                   "hacktoberfest"
                 ]
@@ -2414,7 +2414,7 @@
                 "open_issues": 13,
                 "owner": "eventflow",
                 "repo": "EventFlow",
-                "stars": 2564,
+                "stars": 2565,
                 "topics": [
                   "async-await",
                   "c-sharp",
@@ -2774,8 +2774,8 @@
                 "id": 109478725,
                 "language": "C#",
                 "license": "Apache-2.0",
-                "last_commit": "2026-08-29T17:26:28Z",
-                "open_issues": 14,
+                "last_commit": "2026-08-30T20:23:02Z",
+                "open_issues": 15,
                 "owner": "lucabriguglia",
                 "repo": "Memoria",
                 "stars": 28,
@@ -2912,7 +2912,7 @@
                 "id": 1252076814,
                 "language": "C#",
                 "license": "MIT",
-                "last_commit": "2026-08-28T19:53:01Z",
+                "last_commit": "2026-08-30T19:11:25Z",
                 "open_issues": 0,
                 "owner": "yesbert",
                 "repo": "Stratara",
@@ -3149,7 +3149,7 @@
                 "open_issues": 78,
                 "owner": "bitloops",
                 "repo": "bitloops-language",
-                "stars": 357,
+                "stars": 356,
                 "topics": [
                   "bdd",
                   "bdd-tests",
@@ -3291,8 +3291,8 @@
                 "id": 628167080,
                 "language": "Kotlin",
                 "license": "Apache-2.0",
-                "last_commit": "2026-08-29T14:40:00Z",
-                "open_issues": 10,
+                "last_commit": "2026-08-30T14:15:35Z",
+                "open_issues": 6,
                 "owner": "Ahoo-Wang",
                 "repo": "Wow",
                 "stars": 303,
@@ -3556,7 +3556,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-29T21:12:56.505Z",
+    "last_updated": "2026-08-30T21:33:20.344Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of Domain-Driven Design (DDD), Command Query Responsibility Segregation (CQRS), Event Sourcing, and Event Storming resources",
@@ -3568,7 +3568,7 @@
       "open_issues": 1,
       "owner": "heynickc",
       "repo": "awesome-ddd",
-      "stars": 12347,
+      "stars": 12349,
       "topics": [
         "awesome",
         "awesome-list",

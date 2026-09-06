@@ -19,7 +19,7 @@
             "open_issues": 71,
             "owner": "dotnet-architecture",
             "repo": "eShopOnContainers",
-            "stars": 24322,
+            "stars": 24321,
             "topics": [
               "ddd",
               "ddd-patterns",
@@ -306,7 +306,7 @@
                 "open_issues": 8,
                 "owner": "sklinkert",
                 "repo": "go-ddd",
-                "stars": 806,
+                "stars": 805,
                 "topics": [
                   "architecture",
                   "clean-architecture",
@@ -368,7 +368,7 @@
                 "open_issues": 1,
                 "owner": "takashabe",
                 "repo": "go-ddd-sample",
-                "stars": 291,
+                "stars": 290,
                 "topics": [
                   "clean-architecture",
                   "ddd",
@@ -494,7 +494,7 @@
                 "open_issues": 68,
                 "owner": "kgrzybek",
                 "repo": "modular-monolith-with-ddd",
-                "stars": 14000,
+                "stars": 14001,
                 "topics": [
                   "architecture",
                   "clean-architecture",
@@ -1585,7 +1585,7 @@
                 "open_issues": 23,
                 "owner": "ddd-by-examples",
                 "repo": "library",
-                "stars": 5855,
+                "stars": 5856,
                 "topics": [
                   "aggregate",
                   "aggregate-root",
@@ -1643,7 +1643,7 @@
                 "open_issues": 36,
                 "owner": "VaughnVernon",
                 "repo": "IDDD_Samples",
-                "stars": 3943,
+                "stars": 3944,
                 "topics": []
               },
               "first_seen": "2026-08-29T01:54:50.757Z"
@@ -1958,7 +1958,7 @@
                 "id": 1094544202,
                 "language": "Kotlin",
                 "license": "Apache-2.0",
-                "last_commit": "2026-09-05T19:32:05Z",
+                "last_commit": "2026-09-06T10:12:43Z",
                 "open_issues": 0,
                 "owner": "nekzabirov",
                 "repo": "IGaming-Game-Engine",
@@ -2270,7 +2270,7 @@
                 "open_issues": 92,
                 "owner": "cucumber",
                 "repo": "godog",
-                "stars": 2671,
+                "stars": 2672,
                 "topics": [
                   "functional-testing",
                   "gherkin",
@@ -2354,7 +2354,7 @@
                 "open_issues": 1,
                 "owner": "MassTransit",
                 "repo": "MassTransit",
-                "stars": 7800,
+                "stars": 7799,
                 "topics": [
                   "azure-service-bus",
                   "c-sharp",
@@ -2380,8 +2380,8 @@
                 "id": 44125268,
                 "language": "C#",
                 "license": "MIT",
-                "last_commit": "2026-09-05T18:58:36Z",
-                "open_issues": 10,
+                "last_commit": "2026-09-06T19:20:44Z",
+                "open_issues": 3,
                 "owner": "JasperFx",
                 "repo": "marten",
                 "stars": 3452,
@@ -2451,7 +2451,7 @@
                 "id": 1056713,
                 "language": "C#",
                 "license": "NOASSERTION",
-                "last_commit": "2026-09-05T19:44:03Z",
+                "last_commit": "2026-09-06T16:20:28Z",
                 "open_issues": 288,
                 "owner": "Particular",
                 "repo": "NServiceBus",
@@ -2774,7 +2774,7 @@
                 "id": 109478725,
                 "language": "C#",
                 "license": "Apache-2.0",
-                "last_commit": "2026-09-05T16:46:21Z",
+                "last_commit": "2026-09-06T15:03:40Z",
                 "open_issues": 14,
                 "owner": "lucabriguglia",
                 "repo": "Memoria",
@@ -2912,7 +2912,7 @@
                 "id": 1252076814,
                 "language": "C#",
                 "license": "MIT",
-                "last_commit": "2026-09-05T10:26:38Z",
+                "last_commit": "2026-09-06T15:26:30Z",
                 "open_issues": 0,
                 "owner": "yesbert",
                 "repo": "Stratara",
@@ -3291,8 +3291,8 @@
                 "id": 628167080,
                 "language": "Kotlin",
                 "license": "Apache-2.0",
-                "last_commit": "2026-09-05T14:59:36Z",
-                "open_issues": 6,
+                "last_commit": "2026-09-06T15:13:26Z",
+                "open_issues": 9,
                 "owner": "Ahoo-Wang",
                 "repo": "Wow",
                 "stars": 302,
@@ -3556,7 +3556,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-05T20:42:39.299Z",
+    "last_updated": "2026-09-06T20:49:22.669Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of Domain-Driven Design (DDD), Command Query Responsibility Segregation (CQRS), Event Sourcing, and Event Storming resources",
@@ -3568,7 +3568,7 @@
       "open_issues": 1,
       "owner": "heynickc",
       "repo": "awesome-ddd",
-      "stars": 12357,
+      "stars": 12361,
       "topics": [
         "awesome",
         "awesome-list",

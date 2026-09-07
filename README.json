@@ -250,7 +250,7 @@
                 "open_issues": 30,
                 "owner": "ThreeDotsLabs",
                 "repo": "wild-workouts-go-ddd-example",
-                "stars": 6445,
+                "stars": 6446,
                 "topics": [
                   "clean-architecture",
                   "cqrs",
@@ -494,7 +494,7 @@
                 "open_issues": 68,
                 "owner": "kgrzybek",
                 "repo": "modular-monolith-with-ddd",
-                "stars": 14001,
+                "stars": 14005,
                 "topics": [
                   "architecture",
                   "clean-architecture",
@@ -575,7 +575,7 @@
                 "open_issues": 6,
                 "owner": "EduardoPires",
                 "repo": "EquinoxProject",
-                "stars": 6778,
+                "stars": 6777,
                 "topics": [
                   "architecture",
                   "asp-net-core",
@@ -888,7 +888,7 @@
                 "open_issues": 0,
                 "owner": "itlibrium",
                 "repo": "DDD-starter-dotnet",
-                "stars": 404,
+                "stars": 405,
                 "topics": [
                   "bdd",
                   "ddd",
@@ -1585,7 +1585,7 @@
                 "open_issues": 23,
                 "owner": "ddd-by-examples",
                 "repo": "library",
-                "stars": 5856,
+                "stars": 5855,
                 "topics": [
                   "aggregate",
                   "aggregate-root",
@@ -1643,7 +1643,7 @@
                 "open_issues": 36,
                 "owner": "VaughnVernon",
                 "repo": "IDDD_Samples",
-                "stars": 3944,
+                "stars": 3943,
                 "topics": []
               },
               "first_seen": "2026-08-29T01:54:50.757Z"
@@ -1681,11 +1681,11 @@
                 "id": 93197679,
                 "language": "Java",
                 "license": "MIT",
-                "last_commit": "2026-09-04T07:03:58Z",
+                "last_commit": "2026-09-07T07:04:34Z",
                 "open_issues": 8,
                 "owner": "andreschaffer",
                 "repo": "event-sourcing-cqrs-examples",
-                "stars": 599,
+                "stars": 598,
                 "topics": [
                   "cqrs",
                   "cqrs-es",
@@ -1958,7 +1958,7 @@
                 "id": 1094544202,
                 "language": "Kotlin",
                 "license": "Apache-2.0",
-                "last_commit": "2026-09-06T10:12:43Z",
+                "last_commit": "2026-09-07T21:23:17Z",
                 "open_issues": 0,
                 "owner": "nekzabirov",
                 "repo": "IGaming-Game-Engine",
@@ -2331,7 +2331,7 @@
                 "open_issues": 0,
                 "owner": "LuckyPennySoftware",
                 "repo": "MediatR",
-                "stars": 11857,
+                "stars": 11858,
                 "topics": [
                   "hacktoberfest"
                 ]
@@ -2354,7 +2354,7 @@
                 "open_issues": 1,
                 "owner": "MassTransit",
                 "repo": "MassTransit",
-                "stars": 7799,
+                "stars": 7800,
                 "topics": [
                   "azure-service-bus",
                   "c-sharp",
@@ -2381,7 +2381,7 @@
                 "language": "C#",
                 "license": "MIT",
                 "last_commit": "2026-09-06T19:20:44Z",
-                "open_issues": 3,
+                "open_issues": 5,
                 "owner": "JasperFx",
                 "repo": "marten",
                 "stars": 3452,
@@ -2414,7 +2414,7 @@
                 "open_issues": 13,
                 "owner": "eventflow",
                 "repo": "EventFlow",
-                "stars": 2566,
+                "stars": 2567,
                 "topics": [
                   "async-await",
                   "c-sharp",
@@ -2553,8 +2553,8 @@
                 "id": 28932241,
                 "language": "C#",
                 "license": "NOASSERTION",
-                "last_commit": "2026-09-03T08:05:34Z",
-                "open_issues": 18,
+                "last_commit": "2026-09-06T23:52:50Z",
+                "open_issues": 19,
                 "owner": "yevhen",
                 "repo": "Streamstone",
                 "stars": 403,
@@ -2774,7 +2774,7 @@
                 "id": 109478725,
                 "language": "C#",
                 "license": "Apache-2.0",
-                "last_commit": "2026-09-06T15:03:40Z",
+                "last_commit": "2026-09-07T20:52:42Z",
                 "open_issues": 14,
                 "owner": "lucabriguglia",
                 "repo": "Memoria",
@@ -2876,8 +2876,8 @@
                 "id": 564494183,
                 "language": "C#",
                 "license": "Apache-2.0",
-                "last_commit": "2026-08-16T16:37:13Z",
-                "open_issues": 19,
+                "last_commit": "2026-09-07T07:04:42Z",
+                "open_issues": 20,
                 "owner": "deveel",
                 "repo": "kista",
                 "stars": 3,
@@ -2998,7 +2998,7 @@
                 "open_issues": 12,
                 "owner": "commanded",
                 "repo": "commanded",
-                "stars": 2031,
+                "stars": 2030,
                 "topics": [
                   "commanded",
                   "cqrs",
@@ -3291,8 +3291,8 @@
                 "id": 628167080,
                 "language": "Kotlin",
                 "license": "Apache-2.0",
-                "last_commit": "2026-09-06T15:13:26Z",
-                "open_issues": 9,
+                "last_commit": "2026-09-07T15:37:55Z",
+                "open_issues": 7,
                 "owner": "Ahoo-Wang",
                 "repo": "Wow",
                 "stars": 302,
@@ -3437,7 +3437,7 @@
                 "open_issues": 4,
                 "owner": "pyeventsourcing",
                 "repo": "eventsourcing",
-                "stars": 1684,
+                "stars": 1685,
                 "topics": [
                   "cqrs",
                   "ddd",
@@ -3540,7 +3540,7 @@
             "open_issues": 8,
             "owner": "poulainpi",
             "repo": "ddd-toolbox",
-            "stars": 388,
+            "stars": 389,
             "topics": [
               "context-mapping",
               "ddd",
@@ -3556,7 +3556,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-06T20:49:22.669Z",
+    "last_updated": "2026-09-07T21:46:13.459Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of Domain-Driven Design (DDD), Command Query Responsibility Segregation (CQRS), Event Sourcing, and Event Storming resources",

@@ -19,7 +19,7 @@
             "open_issues": 71,
             "owner": "dotnet-architecture",
             "repo": "eShopOnContainers",
-            "stars": 24315,
+            "stars": 24313,
             "topics": [
               "ddd",
               "ddd-patterns",
@@ -122,7 +122,7 @@
             "open_issues": 9,
             "owner": "ddd-crew",
             "repo": "context-mapping",
-            "stars": 1855,
+            "stars": 1857,
             "topics": [
               "domain-driven-design"
             ]
@@ -250,7 +250,7 @@
                 "open_issues": 30,
                 "owner": "ThreeDotsLabs",
                 "repo": "wild-workouts-go-ddd-example",
-                "stars": 6458,
+                "stars": 6457,
                 "topics": [
                   "clean-architecture",
                   "cqrs",
@@ -306,7 +306,7 @@
                 "open_issues": 10,
                 "owner": "sklinkert",
                 "repo": "go-ddd",
-                "stars": 808,
+                "stars": 807,
                 "topics": [
                   "architecture",
                   "clean-architecture",
@@ -494,7 +494,7 @@
                 "open_issues": 68,
                 "owner": "kgrzybek",
                 "repo": "modular-monolith-with-ddd",
-                "stars": 14022,
+                "stars": 14026,
                 "topics": [
                   "architecture",
                   "clean-architecture",
@@ -1643,7 +1643,7 @@
                 "open_issues": 37,
                 "owner": "VaughnVernon",
                 "repo": "IDDD_Samples",
-                "stars": 3945,
+                "stars": 3946,
                 "topics": []
               },
               "first_seen": "2026-08-29T01:54:50.757Z"
@@ -2201,7 +2201,7 @@
                 "open_issues": 168,
                 "owner": "smartystreets",
                 "repo": "goconvey",
-                "stars": 8406,
+                "stars": 8405,
                 "topics": [
                   "bdd-framework",
                   "go",
@@ -2312,7 +2312,7 @@
                 "open_issues": 1,
                 "owner": "MassTransit",
                 "repo": "MassTransit",
-                "stars": 7802,
+                "stars": 7803,
                 "topics": [
                   "azure-service-bus",
                   "c-sharp",
@@ -2409,8 +2409,8 @@
                 "id": 1056713,
                 "language": "C#",
                 "license": "NOASSERTION",
-                "last_commit": "2026-09-17T14:54:25Z",
-                "open_issues": 291,
+                "last_commit": "2026-09-18T06:01:04Z",
+                "open_issues": 290,
                 "owner": "Particular",
                 "repo": "NServiceBus",
                 "stars": 2170,
@@ -2515,7 +2515,7 @@
                 "open_issues": 22,
                 "owner": "yevhen",
                 "repo": "Streamstone",
-                "stars": 403,
+                "stars": 404,
                 "topics": [
                   "azure",
                   "event-sourcing"
@@ -2732,8 +2732,8 @@
                 "id": 109478725,
                 "language": "C#",
                 "license": "NOASSERTION",
-                "last_commit": "2026-09-17T20:36:07Z",
-                "open_issues": 14,
+                "last_commit": "2026-09-18T17:33:15Z",
+                "open_issues": 12,
                 "owner": "lucabriguglia",
                 "repo": "Memoria",
                 "stars": 28,
@@ -2834,8 +2834,8 @@
                 "id": 1252076814,
                 "language": "C#",
                 "license": "MIT",
-                "last_commit": "2026-09-17T21:22:06Z",
-                "open_issues": 6,
+                "last_commit": "2026-09-18T17:01:04Z",
+                "open_issues": 0,
                 "owner": "yesbert",
                 "repo": "Stratara",
                 "stars": 3,
@@ -3251,7 +3251,7 @@
                 "id": 628167080,
                 "language": "Kotlin",
                 "license": "Apache-2.0",
-                "last_commit": "2026-09-17T09:00:37Z",
+                "last_commit": "2026-09-18T10:43:24Z",
                 "open_issues": 6,
                 "owner": "Ahoo-Wang",
                 "repo": "Wow",
@@ -3516,7 +3516,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-17T21:44:45.632Z",
+    "last_updated": "2026-09-18T21:15:00.183Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of Domain-Driven Design (DDD), Command Query Responsibility Segregation (CQRS), Event Sourcing, and Event Storming resources",
@@ -3528,7 +3528,7 @@
       "open_issues": 1,
       "owner": "heynickc",
       "repo": "awesome-ddd",
-      "stars": 12369,
+      "stars": 12370,
       "topics": [
         "awesome",
         "awesome-list",

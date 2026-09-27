@@ -122,7 +122,7 @@
             "open_issues": 9,
             "owner": "ddd-crew",
             "repo": "context-mapping",
-            "stars": 1860,
+            "stars": 1861,
             "topics": [
               "domain-driven-design"
             ]
@@ -306,7 +306,7 @@
                 "open_issues": 10,
                 "owner": "sklinkert",
                 "repo": "go-ddd",
-                "stars": 811,
+                "stars": 812,
                 "topics": [
                   "architecture",
                   "clean-architecture",
@@ -494,7 +494,7 @@
                 "open_issues": 68,
                 "owner": "kgrzybek",
                 "repo": "modular-monolith-with-ddd",
-                "stars": 14037,
+                "stars": 14038,
                 "topics": [
                   "architecture",
                   "clean-architecture",
@@ -575,7 +575,7 @@
                 "open_issues": 6,
                 "owner": "EduardoPires",
                 "repo": "EquinoxProject",
-                "stars": 6775,
+                "stars": 6776,
                 "topics": [
                   "architecture",
                   "asp-net-core",
@@ -741,7 +741,7 @@
                 "open_issues": 4,
                 "owner": "microsoftarchive",
                 "repo": "cqrs-journey",
-                "stars": 1398,
+                "stars": 1396,
                 "topics": []
               },
               "first_seen": "2026-08-29T01:54:50.757Z"
@@ -1236,7 +1236,7 @@
                 "id": 1261955620,
                 "language": "TypeScript",
                 "license": "MIT",
-                "last_commit": "2026-09-22T17:02:41Z",
+                "last_commit": "2026-09-27T18:25:55Z",
                 "open_issues": 0,
                 "owner": "bravodev-hub",
                 "repo": "appointme",
@@ -1467,7 +1467,7 @@
                 "open_issues": 2,
                 "owner": "bitloops",
                 "repo": "ddd-hexagonal-cqrs-es-eda",
-                "stars": 1446,
+                "stars": 1447,
                 "topics": [
                   "bdd",
                   "cqrs",
@@ -1585,7 +1585,7 @@
                 "open_issues": 18,
                 "owner": "ddd-by-examples",
                 "repo": "library",
-                "stars": 5871,
+                "stars": 5872,
                 "topics": [
                   "aggregate",
                   "aggregate-root",
@@ -1640,7 +1640,7 @@
                 "language": "Java",
                 "license": "NOASSERTION",
                 "last_commit": "2023-09-09T17:02:35Z",
-                "open_issues": 37,
+                "open_issues": 36,
                 "owner": "VaughnVernon",
                 "repo": "IDDD_Samples",
                 "stars": 3946,
@@ -2172,7 +2172,7 @@
                 "open_issues": 124,
                 "owner": "onsi",
                 "repo": "ginkgo",
-                "stars": 9062,
+                "stars": 9061,
                 "topics": [
                   "bdd",
                   "bdd-framework",
@@ -2201,7 +2201,7 @@
                 "open_issues": 168,
                 "owner": "smartystreets",
                 "repo": "goconvey",
-                "stars": 8406,
+                "stars": 8404,
                 "topics": [
                   "bdd-framework",
                   "go",
@@ -2308,8 +2308,8 @@
                 "id": 778828,
                 "language": "C#",
                 "license": "Apache-2.0",
-                "last_commit": "2026-06-04T18:06:31Z",
-                "open_issues": 2,
+                "last_commit": "2026-09-27T16:09:36Z",
+                "open_issues": 1,
                 "owner": "MassTransit",
                 "repo": "MassTransit",
                 "stars": 7802,
@@ -2338,7 +2338,7 @@
                 "id": 44125268,
                 "language": "C#",
                 "license": "MIT",
-                "last_commit": "2026-09-26T17:04:14Z",
+                "last_commit": "2026-09-27T21:30:21Z",
                 "open_issues": 11,
                 "owner": "JasperFx",
                 "repo": "marten",
@@ -2409,8 +2409,8 @@
                 "id": 1056713,
                 "language": "C#",
                 "license": "NOASSERTION",
-                "last_commit": "2026-09-26T05:20:15Z",
-                "open_issues": 290,
+                "last_commit": "2026-09-27T15:26:13Z",
+                "open_issues": 291,
                 "owner": "Particular",
                 "repo": "NServiceBus",
                 "stars": 2171,
@@ -2732,7 +2732,7 @@
                 "id": 109478725,
                 "language": "C#",
                 "license": "Apache-2.0",
-                "last_commit": "2026-09-23T22:54:07Z",
+                "last_commit": "2026-09-27T09:04:13Z",
                 "open_issues": 12,
                 "owner": "lucabriguglia",
                 "repo": "Memoria",
@@ -2834,8 +2834,8 @@
                 "id": 1252076814,
                 "language": "C#",
                 "license": "MIT",
-                "last_commit": "2026-09-26T21:30:39Z",
-                "open_issues": 3,
+                "last_commit": "2026-09-27T14:15:13Z",
+                "open_issues": 0,
                 "owner": "yesbert",
                 "repo": "Stratara",
                 "stars": 3,
@@ -3251,8 +3251,8 @@
                 "id": 628167080,
                 "language": "TypeScript",
                 "license": "Apache-2.0",
-                "last_commit": "2026-09-26T21:32:27Z",
-                "open_issues": 23,
+                "last_commit": "2026-09-27T21:24:25Z",
+                "open_issues": 24,
                 "owner": "Ahoo-Wang",
                 "repo": "Wow",
                 "stars": 304,
@@ -3397,7 +3397,7 @@
                 "open_issues": 4,
                 "owner": "pyeventsourcing",
                 "repo": "eventsourcing",
-                "stars": 1686,
+                "stars": 1687,
                 "topics": [
                   "cqrs",
                   "ddd",
@@ -3516,7 +3516,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-26T21:33:56.930Z",
+    "last_updated": "2026-09-27T21:36:37.977Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of Domain-Driven Design (DDD), Command Query Responsibility Segregation (CQRS), Event Sourcing, and Event Storming resources",

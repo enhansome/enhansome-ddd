@@ -250,7 +250,7 @@
                 "open_issues": 30,
                 "owner": "ThreeDotsLabs",
                 "repo": "wild-workouts-go-ddd-example",
-                "stars": 6463,
+                "stars": 6464,
                 "topics": [
                   "clean-architecture",
                   "cqrs",
@@ -285,7 +285,7 @@
                 "open_issues": 15,
                 "owner": "marcusolsson",
                 "repo": "goddd",
-                "stars": 2449,
+                "stars": 2450,
                 "topics": []
               },
               "first_seen": "2026-08-29T01:54:50.757Z"
@@ -306,7 +306,7 @@
                 "open_issues": 10,
                 "owner": "sklinkert",
                 "repo": "go-ddd",
-                "stars": 812,
+                "stars": 813,
                 "topics": [
                   "architecture",
                   "clean-architecture",
@@ -617,7 +617,7 @@
                 "open_issues": 25,
                 "owner": "oskardudycz",
                 "repo": "EventSourcing.NetCore",
-                "stars": 3685,
+                "stars": 3687,
                 "topics": [
                   "cqrs",
                   "dotnet-core",
@@ -647,7 +647,7 @@
                 "open_issues": 13,
                 "owner": "kgrzybek",
                 "repo": "sample-dotnet-core-cqrs-api",
-                "stars": 3062,
+                "stars": 3061,
                 "topics": [
                   "clean-architecture",
                   "clean-code",
@@ -1434,7 +1434,7 @@
                 "open_issues": 0,
                 "owner": "andorp",
                 "repo": "order-taking",
-                "stars": 145,
+                "stars": 146,
                 "topics": [
                   "ddd",
                   "depedent-types",
@@ -1467,7 +1467,7 @@
                 "open_issues": 1,
                 "owner": "bitloops",
                 "repo": "ddd-hexagonal-cqrs-es-eda",
-                "stars": 1448,
+                "stars": 1449,
                 "topics": [
                   "bdd",
                   "cqrs",
@@ -1622,7 +1622,7 @@
                 "open_issues": 33,
                 "owner": "citerus",
                 "repo": "dddsample-core",
-                "stars": 5296,
+                "stars": 5295,
                 "topics": []
               },
               "first_seen": "2026-08-29T01:54:50.757Z"
@@ -1681,7 +1681,7 @@
                 "id": 93197679,
                 "language": "Java",
                 "license": "MIT",
-                "last_commit": "2026-09-28T07:04:00Z",
+                "last_commit": "2026-09-30T07:04:08Z",
                 "open_issues": 8,
                 "owner": "andreschaffer",
                 "repo": "event-sourcing-cqrs-examples",
@@ -1744,7 +1744,7 @@
                 "open_issues": 5,
                 "owner": "eclipse-ee4j",
                 "repo": "cargotracker",
-                "stars": 395,
+                "stars": 396,
                 "topics": [
                   "ddd",
                   "domain-driven-design",
@@ -2201,7 +2201,7 @@
                 "open_issues": 169,
                 "owner": "smartystreets",
                 "repo": "goconvey",
-                "stars": 8404,
+                "stars": 8403,
                 "topics": [
                   "bdd-framework",
                   "go",
@@ -2308,11 +2308,11 @@
                 "id": 778828,
                 "language": "C#",
                 "license": "Apache-2.0",
-                "last_commit": "2026-09-27T16:09:36Z",
+                "last_commit": "2026-09-30T15:22:56Z",
                 "open_issues": 1,
                 "owner": "MassTransit",
                 "repo": "MassTransit",
-                "stars": 7802,
+                "stars": 7803,
                 "topics": [
                   "azure-service-bus",
                   "c-sharp",
@@ -2338,11 +2338,11 @@
                 "id": 44125268,
                 "language": "C#",
                 "license": "MIT",
-                "last_commit": "2026-09-29T21:29:19Z",
-                "open_issues": 12,
+                "last_commit": "2026-09-30T16:44:29Z",
+                "open_issues": 9,
                 "owner": "JasperFx",
                 "repo": "marten",
-                "stars": 3460,
+                "stars": 3458,
                 "topics": [
                   "document-database",
                   "documentdb",
@@ -2372,7 +2372,7 @@
                 "open_issues": 13,
                 "owner": "eventflow",
                 "repo": "EventFlow",
-                "stars": 2567,
+                "stars": 2566,
                 "topics": [
                   "async-await",
                   "c-sharp",
@@ -2409,7 +2409,7 @@
                 "id": 1056713,
                 "language": "C#",
                 "license": "NOASSERTION",
-                "last_commit": "2026-09-29T12:33:52Z",
+                "last_commit": "2026-09-30T12:38:45Z",
                 "open_issues": 290,
                 "owner": "Particular",
                 "repo": "NServiceBus",
@@ -2955,10 +2955,10 @@
                 "language": "Elixir",
                 "license": "MIT",
                 "last_commit": "2026-07-27T16:39:45Z",
-                "open_issues": 15,
+                "open_issues": 16,
                 "owner": "commanded",
                 "repo": "commanded",
-                "stars": 2031,
+                "stars": 2033,
                 "topics": [
                   "commanded",
                   "cqrs",
@@ -3052,7 +3052,7 @@
                 "open_issues": 18,
                 "owner": "talyssonoc",
                 "repo": "node-api-boilerplate",
-                "stars": 3357,
+                "stars": 3356,
                 "topics": [
                   "boilerplate",
                   "clean-architecture",
@@ -3251,8 +3251,8 @@
                 "id": 628167080,
                 "language": "TypeScript",
                 "license": "Apache-2.0",
-                "last_commit": "2026-09-29T21:41:05Z",
-                "open_issues": 15,
+                "last_commit": "2026-09-30T08:47:11Z",
+                "open_issues": 20,
                 "owner": "Ahoo-Wang",
                 "repo": "Wow",
                 "stars": 304,
@@ -3397,7 +3397,7 @@
                 "open_issues": 4,
                 "owner": "pyeventsourcing",
                 "repo": "eventsourcing",
-                "stars": 1687,
+                "stars": 1686,
                 "topics": [
                   "cqrs",
                   "ddd",
@@ -3516,7 +3516,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-29T22:36:00.855Z",
+    "last_updated": "2026-09-30T22:37:38.314Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of Domain-Driven Design (DDD), Command Query Responsibility Segregation (CQRS), Event Sourcing, and Event Storming resources",

@@ -134,8 +134,8 @@ The term was coined by Eric Evans in his book of the same title.
 ## Community Resources
 
 * [Awesome Event Storming](https://github.com/mariuszgil/awesome-eventstorming) ⭐ 2,402 | 🐛 6 | 📅 2024-10-23 - awesome list that focuses only on Event Storming.
-* [Context Mapping by ddd-crew](https://github.com/ddd-crew/context-mapping) ⭐ 1,862 | 🐛 9 | 📅 2026-08-23 - 	Context Mapping Cheatsheet and Starter Kit by ddd-crew.
-* [Domain-Driven Design in dynamic languages GitHub](https://github.com/valignatev/ddd-dynamic) ⭐ 1,399 | 🐛 3 | 📅 2023-06-08 - GitHub's profile of Domain-Driven Design in dynamic languages.
+* [Context Mapping by ddd-crew](https://github.com/ddd-crew/context-mapping) ⭐ 1,863 | 🐛 9 | 📅 2026-08-23 - 	Context Mapping Cheatsheet and Starter Kit by ddd-crew.
+* [Domain-Driven Design in dynamic languages GitHub](https://github.com/valignatev/ddd-dynamic) ⭐ 1,400 | 🐛 3 | 📅 2023-06-08 - GitHub's profile of Domain-Driven Design in dynamic languages.
 * [Awesome Domain Storytelling](https://github.com/hofstef/awesome-domain-storytelling) ⚠️ Archived - awesome list that focuses only on Domain Storytelling.
 * [Advanced Topics in Event Sourcing / CQRS / DDD](https://github.com/sebastianharko/adv-es-cqrs-ddd) ⭐ 109 | 🐛 0 | 📅 2020-04-23 - Advanced Topics in Event Sourcing / CQRS / DDD list compiled and maintaned by @[sebastianharko](https://github.com/sebastianharko).
 * [DDD/CQRS/ES Discord](https://github.com/ddd-cqrs-es/community) ⭐ 82 | 🐛 2 | 📅 2022-11-28 - A Discord (old Slack) team for those who want to chat about Domain-Driven Design, CQRS, Event Sourcing and sometimes random things. Main channel is language and framework agnostic.
@@ -229,7 +229,7 @@ The term was coined by Eric Evans in his book of the same title.
 * [ContosoUniversityCore](https://github.com/jbogard/ContosoUniversityCore) ⭐ 584 | 🐛 7 | 🌐 JavaScript | 📅 2017-12-05 - ContosoUniversity on ASP.NET Core with Full .NET Framework.
 * [Companion Code for Microsoft .NET Architecting Applications for the Enterprise](https://github.com/mastreeno/Merp) ⭐ 503 | 🐛 10 | 🌐 C# | 📅 2023-06-16 - An event based Micro ERP.
 * [DDD-starter-dotnet](https://github.com/itlibrium/DDD-starter-dotnet) ⭐ 405 | 🐛 0 | 🌐 C# | 📅 2025-09-12 - Sample implementation and comparison of various approaches to building DDD applications. Useful as a baseline to quickly start a DDD .net project.
-* [Better code with DDD building blocks](https://github.com/asc-lab/better-code-with-ddd) ⭐ 321 | 🐛 0 | 🌐 C# | 📅 2026-04-30 - solution presents usage of DDD tactical patterns to achieve better readability and expressiveness of the code. Applying DDD patterns together with ubiquitous language closes the gap between language spoken by experts and the team and language used in the code.
+* [Better code with DDD building blocks](https://github.com/asc-lab/better-code-with-ddd) ⭐ 320 | 🐛 0 | 🌐 C# | 📅 2026-04-30 - solution presents usage of DDD tactical patterns to achieve better readability and expressiveness of the code. Applying DDD patterns together with ubiquitous language closes the gap between language spoken by experts and the team and language used in the code.
 * [eShopOnContainersDDD](https://github.com/volak/eShopOnContainersDDD) ⭐ 319 | 🐛 30 | 🌐 C# | 📅 2023-03-04 - eShop fullstack example featuring catalog, basket, checkout, and order bounded contexts
 * [TodoMVC-DDD-CQRS-EventSourcing](https://github.com/volak/TodoMVC-DDD-CQRS-EventSourcing) ⭐ 257 | 🐛 2 | 🌐 C# | 📅 2023-01-08 - Implementation of basic Todo app via tastejs/todomvc in C#/Typescript with eventsourcing, cqrs, and domain driven design
 * [EventFlow.Example](https://github.com/OKTAYKIR/EventFlow.Example) ⭐ 204 | 🐛 2 | 🌐 C# | 📅 2023-03-03 - DDD, CQRS, and Event-Sourcing example and contains following technology stack: [EventFlow](https://github.com/eventflow/EventFlow) ⭐ 2,566 | 🐛 13 | 🌐 C# | 📅 2026-07-31, [EventStore](https://eventstore.com), [RabbitMQ](https://www.rabbitmq.com), [MongoDB](https://www.mongodb.com), [PostgreSQL](https://www.postgresql.org), [Docker](https://www.docker.com)
@@ -260,7 +260,7 @@ The term was coined by Eric Evans in his book of the same title.
 
 ### JavaScript / TypeScript
 
-* [Over-engineered ToDo app](https://github.com/bitloops/ddd-hexagonal-cqrs-es-eda) ⭐ 1,449 | 🐛 1 | 🌐 TypeScript | 📅 2026-09-28 - Complete working example of using Domain Driven Design (DDD), Hexagonal Architecture, CQRS, Event Sourcing (ES), Event Driven Architecture (EDA), Behaviour Driven Development (BDD) using TypeScript and NestJS generated using the [Bitloops Language (BL)](https://github.com/bitloops/bitloops-language) ⭐ 356 | 🐛 78 | 🌐 TypeScript | 📅 2026-09-28.
+* [Over-engineered ToDo app](https://github.com/bitloops/ddd-hexagonal-cqrs-es-eda) ⭐ 1,449 | 🐛 1 | 🌐 TypeScript | 📅 2026-09-28 - Complete working example of using Domain Driven Design (DDD), Hexagonal Architecture, CQRS, Event Sourcing (ES), Event Driven Architecture (EDA), Behaviour Driven Development (BDD) using TypeScript and NestJS generated using the [Bitloops Language (BL)](https://github.com/bitloops/bitloops-language) ⭐ 356 | 🐛 78 | 🌐 TypeScript | 📅 2026-10-01.
 * [Booster framework examples](https://github.com/boostercloud/booster/tree/master/docs/examples) ⭐ 447 | 🐛 285 | 🌐 TypeScript | 📅 2026-06-16 Example applications built with Booster Framework.
 * [`txob`](https://github.com/osbytes/txob) ⭐ 4 | 🐛 3 | 🌐 TypeScript | 📅 2026-07-26 - Transactional outbox event processor with Postgres and MongoDB native plugins — at-least-once delivery, near-realtime wakeup signals, graceful shutdown, and horizontal scalability.
 * [wolkenkit Sample Applications](https://docs.wolkenkit.io/latest/media/sample-applications/wolkenkit-boards/) - A collection of DDD sample applications, such as TodoMVC, a geocaching app, collaborative boards etc.
@@ -281,7 +281,7 @@ The term was coined by Eric Evans in his book of the same title.
 * [DDD Workshop - Project Manager](https://github.com/mkopylec/project-manager) ⭐ 61 | 🐛 0 | 🌐 Java | 📅 2023-02-02 - "Do It Yourself" DDD workshop and a sample DDD application at the same time. Based on a project managing domain.
 * [Akka CQRS ES Demo](https://github.com/mdonkers/akka-cqrs-es-demo) ⚠️ Archived - Demo project to implement the CQRS and Event Sourcing patterns in Scala-Akka.
 * <https://github.com/felipexw/clean-arch-ddd-intro> ⭐ 23 | 🐛 0 | 🌐 Java | 📅 2021-04-26 - Simple DDD + Clean Architecture using Micronaut.
-* [Casino Engine](https://github.com/nekzabirov/IGaming-Game-Engine) - Production iGaming/casino engine in Kotlin/Ktor demonstrating Hexagonal Architecture with DDD and CQRS. Aggregates raise domain events, repository ports live in the domain layer, command and query handlers are wired through a Koin-discovered registry, and domain events are published to RabbitMQ after the write transaction commits. Apache 2.0.
+* [Casino Engine](https://github.com/nekzabirov/IGaming-Game-Engine) ⭐ 22 | 🐛 0 | 🌐 Kotlin | 📅 2026-09-08 - Production iGaming/casino engine in Kotlin/Ktor demonstrating Hexagonal Architecture with DDD and CQRS. Aggregates raise domain events, repository ports live in the domain layer, command and query handlers are wired through a Koin-discovered registry, and domain events are published to RabbitMQ after the write transaction commits. Apache 2.0.
 
 ### PHP
 
@@ -304,11 +304,11 @@ The term was coined by Eric Evans in his book of the same title.
 
 ### .NET
 
-* [MediatR](https://github.com/jbogard/MediatR) ⭐ 11,860 | 🐛 3 | 🌐 C# | 📅 2026-07-02 - Supports request/response, commands, queries, notifications and events, synchronous and async with intelligent dispatching via C# generic variance.
+* [MediatR](https://github.com/jbogard/MediatR) ⭐ 11,861 | 🐛 3 | 🌐 C# | 📅 2026-07-02 - Supports request/response, commands, queries, notifications and events, synchronous and async with intelligent dispatching via C# generic variance.
 * [MassTransit](https://github.com/MassTransit/MassTransit) ⭐ 7,803 | 🐛 1 | 🌐 C# | 📅 2026-09-30 - Distributed Application Framework for .NET.
-* [Marten](https://github.com/JasperFx/marten) ⭐ 3,458 | 🐛 9 | 🌐 C# | 📅 2026-09-30 - Postgresql as a Document Database and Event Store for .Net Applications.
+* [Marten](https://github.com/JasperFx/marten) ⭐ 3,458 | 🐛 13 | 🌐 C# | 📅 2026-10-01 - Postgresql as a Document Database and Event Store for .Net Applications.
 * [EventFlow](https://github.com/eventflow/EventFlow) ⭐ 2,566 | 🐛 13 | 🌐 C# | 📅 2026-07-31 - Async/await first CQRS+ES and DDD framework for .NET <http://geteventflow.net/>.
-* [NServiceBus](https://github.com/Particular/NServiceBus) ⭐ 2,171 | 🐛 290 | 🌐 C# | 📅 2026-09-30 - Service bus for .NET.
+* [NServiceBus](https://github.com/Particular/NServiceBus) ⭐ 2,171 | 🐛 291 | 🌐 C# | 📅 2026-10-01 - Service bus for .NET.
 * [NEventStore](https://github.com/NEventStore/NEventStore) ⭐ 1,615 | 🐛 24 | 🌐 C# | 📅 2026-07-22 - A persistence library used to abstract different storage implementations when using event sourcing as storage mechanism.
 * [shriek-fx](https://github.com/ElderJames/shriek-fx) ⚠️ Archived - An simple,elegant and useful Domain-Driven Design and CQRS framework developed using .NET Core 2.0.
 * [Aggregates.NET](https://github.com/volak/Aggregates.NET) ⭐ 442 | 🐛 7 | 🌐 C# | 📅 2025-05-30 - .NET event sourced domain driven design model via NServicebus and GetEventStore.
@@ -355,7 +355,7 @@ The term was coined by Eric Evans in his book of the same title.
 
 * [Node API Boilerplate](https://github.com/talyssonoc/node-api-boilerplate) ⭐ 3,356 | 🐛 18 | 🌐 TypeScript | 📅 2023-03-04 - NodeJS web API boilerplate for DDD and Clean Architecture applications.
 * [cqrs.js](http://cqrs.js.org) - CQRS implementations in node.js.  Includes [node-eventstore](https://github.com/adrai/node-eventstore) ⭐ 536 | 🐛 19 | 🌐 JavaScript | 📅 2026-09-04, [node-cqrs-domain](https://github.com/adrai/node-cqrs-domain), [node-eventdenormalizer](https://github.com/adrai/node-cqrs-eventdenormalizer), [node-cqrs-saga](https://github.com/adrai/node-cqrs-saga).
-* [Bitloops Language (BL)](https://github.com/bitloops/bitloops-language) ⭐ 356 | 🐛 78 | 🌐 TypeScript | 📅 2026-09-28 - Open-source, 4th-generation, transpiled programming language that helps you write clean code, well-designed systems, and build high-quality software that is testable, auditable and maintainable using DDD and Hexagonal Architecture.
+* [Bitloops Language (BL)](https://github.com/bitloops/bitloops-language) ⭐ 356 | 🐛 78 | 🌐 TypeScript | 📅 2026-10-01 - Open-source, 4th-generation, transpiled programming language that helps you write clean code, well-designed systems, and build high-quality software that is testable, auditable and maintainable using DDD and Hexagonal Architecture.
 * [nestjs-hexagonal](https://github.com/Softtor/nestjs-hexagonal) ⭐ 5 | 🐛 9 | 🌐 TypeScript | 📅 2026-09-23 - Claude Code plugin for building NestJS bounded contexts with Hexagonal Architecture, DDD, CQRS, and event-driven patterns.
 * [wolkenkit](https://www.wolkenkit.io/) - A CQRS, DDD, and event-sourcing framework for JavaScript and Node.js.
 * [Booster](https://www.booster.cloud/) - A CQRS, DDD and event-sourcing open-source framework that leverages all the infrastructure and uses high-level abstractions and conventions. It help users build advanved even-driven applications letting them focus on business logic exclusively.
@@ -364,7 +364,7 @@ The term was coined by Eric Evans in his book of the same title.
 
 * [DDDplus framework](https://github.com/funkygao/cp-ddd-framework) ⭐ 1,154 | 🐛 4 | 🌐 Java | 📅 2025-12-19 - A lightweight flexible development framework for complex business architecture based on DDD.
 * [akka-ddd](https://github.com/pawelkaczor/akka-ddd) ⭐ 360 | 🐛 5 | 🌐 Scala | 📅 2025-06-01 - Reusable artifacts for building applications on top of the Akka platform following CQRS/DDDD-based approach.
-* [Ahoo-Wang/Wow](https://github.com/Ahoo-Wang/Wow) ⭐ 304 | 🐛 20 | 🌐 TypeScript | 📅 2026-09-30 - A Modern Reactive CQRS Architecture Microservice development framework based on DDD and EventSourcing.
+* [Ahoo-Wang/Wow](https://github.com/Ahoo-Wang/Wow) ⭐ 304 | 🐛 20 | 🌐 TypeScript | 📅 2026-10-01 - A Modern Reactive CQRS Architecture Microservice development framework based on DDD and EventSourcing.
 * [JESA](https://github.com/yreynhout/JESA) ⭐ 9 | 🐛 3 | 🌐 Java | 📅 2016-07-26 -  Event sourced aggregates for Java.
 * [Pure Assert](https://github.com/sympol/pure-assert) ⭐ 4 | 🐛 0 | 🌐 Java | 📅 2026-07-18 - A lightweight, zero-dependency Java library for expressive pure input assertions and domain invariants.
 * [Apache Isis](https://isis.apache.org/index.html) - Apache Isis is a framework for rapidly developing domain-driven apps in Java.
@@ -382,7 +382,7 @@ The term was coined by Eric Evans in his book of the same title.
 
 ### Python
 
-* [Eventsoucing in Python](https://github.com/johnbywater/eventsourcing) ⭐ 1,686 | 🐛 4 | 🌐 Python | 📅 2026-08-23 - Mature, stable Python library for event sourcing and DDD. Supports wide variety of databases, different kinds of orderings of domain events, application level encryption, snapshotting, optimistic concurrency control, and process events. Applications, and entire systems of applications, can be defined independently of infrastructure, and run in different ways (single threaded, multi-threaded, clocked, stepping, multi-process, actor model) and with different infrastructure.
+* [Eventsoucing in Python](https://github.com/johnbywater/eventsourcing) ⭐ 1,687 | 🐛 4 | 🌐 Python | 📅 2026-08-23 - Mature, stable Python library for event sourcing and DDD. Supports wide variety of databases, different kinds of orderings of domain events, application level encryption, snapshotting, optimistic concurrency control, and process events. Applications, and entire systems of applications, can be defined independently of infrastructure, and run in different ways (single threaded, multi-threaded, clocked, stepping, multi-process, actor model) and with different infrastructure.
 * [PyAssimilator](https://github.com/knucklesuganda/py_assimilator/) ⭐ 216 | 🐛 2 | 🌐 Python | 📅 2024-12-30 - Quickly create DDD Python patterns, Event-Based Systems, CRUD applications. Set of Python patterns for database access that support SQLAlchemy, MongoDB, Redis, or Pure Python. PyAssimilator allows you to write code without dependencies, meaning you can switch SQL to NoSQL without changing a single file in your system.
 * [dry-python](https://github.com/dry-python) - A set of libraries for pluggable business logic components.
 
@@ -455,4 +455,4 @@ To the extent possible under law, [Nick Chamberlain](https://buildplease.com) ha
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-30._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-01._

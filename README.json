@@ -122,7 +122,7 @@
             "open_issues": 9,
             "owner": "ddd-crew",
             "repo": "context-mapping",
-            "stars": 1862,
+            "stars": 1863,
             "topics": [
               "domain-driven-design"
             ]
@@ -145,7 +145,7 @@
             "open_issues": 3,
             "owner": "valignatev",
             "repo": "ddd-dynamic",
-            "stars": 1399,
+            "stars": 1400,
             "topics": [
               "architecture",
               "cleanarchitecture",
@@ -917,7 +917,7 @@
                 "open_issues": 0,
                 "owner": "asc-lab",
                 "repo": "better-code-with-ddd",
-                "stars": 321,
+                "stars": 320,
                 "topics": []
               },
               "first_seen": "2026-08-29T01:54:50.757Z"
@@ -1945,6 +1945,48 @@
                 ]
               },
               "first_seen": "2026-08-29T01:54:50.757Z"
+            },
+            {
+              "node_type": "item",
+              "title": "Casino Engine",
+              "description": "Production iGaming/casino engine in Kotlin/Ktor demonstrating Hexagonal Architecture with DDD and CQRS. Aggregates raise domain events, repository ports live in the domain layer, command and query handlers are wired through a Koin-discovered registry, and domain events are published to RabbitMQ after the write transaction commits. Apache 2.0.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": "Open-source iGaming/casino engine in Kotlin/Ktor — aggregator integrations (Pragmatic Play, OneGameHub, Pateplay), betting lifecycle, freespins, gRPC API. Hexagonal + DDD + CQRS, RabbitMQ event-driven. Apache 2.0.",
+                "homepage": "https://1638.cloud/",
+                "id": 1094544202,
+                "language": "Kotlin",
+                "license": "Apache-2.0",
+                "last_commit": "2026-09-08T15:20:17Z",
+                "open_issues": 0,
+                "owner": "nekzabirov",
+                "repo": "IGaming-Game-Engine",
+                "stars": 22,
+                "topics": [
+                  "casino",
+                  "casino-games",
+                  "casino-gaming-platforms",
+                  "cqrs",
+                  "domain-driven-design",
+                  "event-driven",
+                  "gambling",
+                  "grpc",
+                  "hexagonal-architecture",
+                  "igaming",
+                  "igaming-software",
+                  "kotlin",
+                  "ktor",
+                  "microservice",
+                  "onegamehub",
+                  "pateplay",
+                  "pragmatic-play",
+                  "rabbitmq",
+                  "slots",
+                  "turnkey-casino-solutions"
+                ]
+              },
+              "first_seen": "2026-10-01T22:54:04.252Z"
             }
           ],
           "description": null,
@@ -2289,7 +2331,7 @@
                 "open_issues": 3,
                 "owner": "LuckyPennySoftware",
                 "repo": "MediatR",
-                "stars": 11860,
+                "stars": 11861,
                 "topics": [
                   "hacktoberfest"
                 ]
@@ -2338,8 +2380,8 @@
                 "id": 44125268,
                 "language": "C#",
                 "license": "MIT",
-                "last_commit": "2026-09-30T16:44:29Z",
-                "open_issues": 9,
+                "last_commit": "2026-10-01T22:27:29Z",
+                "open_issues": 13,
                 "owner": "JasperFx",
                 "repo": "marten",
                 "stars": 3458,
@@ -2409,8 +2451,8 @@
                 "id": 1056713,
                 "language": "C#",
                 "license": "NOASSERTION",
-                "last_commit": "2026-09-30T12:38:45Z",
-                "open_issues": 290,
+                "last_commit": "2026-10-01T20:19:45Z",
+                "open_issues": 291,
                 "owner": "Particular",
                 "repo": "NServiceBus",
                 "stars": 2171,
@@ -3105,7 +3147,7 @@
                 "id": 522875635,
                 "language": "TypeScript",
                 "license": "GPL-3.0",
-                "last_commit": "2026-09-28T22:09:13Z",
+                "last_commit": "2026-10-01T00:09:20Z",
                 "open_issues": 78,
                 "owner": "bitloops",
                 "repo": "bitloops-language",
@@ -3251,7 +3293,7 @@
                 "id": 628167080,
                 "language": "TypeScript",
                 "license": "Apache-2.0",
-                "last_commit": "2026-09-30T08:47:11Z",
+                "last_commit": "2026-10-01T22:48:45Z",
                 "open_issues": 20,
                 "owner": "Ahoo-Wang",
                 "repo": "Wow",
@@ -3397,7 +3439,7 @@
                 "open_issues": 4,
                 "owner": "pyeventsourcing",
                 "repo": "eventsourcing",
-                "stars": 1686,
+                "stars": 1687,
                 "topics": [
                   "cqrs",
                   "ddd",
@@ -3516,7 +3558,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-30T22:37:38.314Z",
+    "last_updated": "2026-10-01T22:54:04.252Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of Domain-Driven Design (DDD), Command Query Responsibility Segregation (CQRS), Event Sourcing, and Event Storming resources",

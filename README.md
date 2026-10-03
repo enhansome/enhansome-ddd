@@ -20,7 +20,7 @@ The term was coined by Eric Evans in his book of the same title.
 
 ## Contents
 
-* [Awesome Domain-Driven Design](https://github.com/heynickc/awesome-ddd/) ⭐ 12,379 | 🐛 2 | 📅 2026-08-26
+* [Awesome Domain-Driven Design](https://github.com/heynickc/awesome-ddd/)
   * [Contents](#contents)
   * [Books](#books)
   * [Free eBooks](#free-ebooks)
@@ -205,7 +205,7 @@ The term was coined by Eric Evans in his book of the same title.
 
 * [DDD by Refactoring](https://github.com/ThreeDotsLabs/wild-workouts-go-ddd-example) ⭐ 6,464 | 🐛 29 | 🌐 Go | 📅 2026-08-27 - Complete serverless application to show how to apply DDD, Clean Architecture, and CQRS by practical refactoring of a Go project. A full blog series about it can be found at <https://threedots.tech/>.
 * [Citerus DDD Sample App GO Port](https://github.com/marcusolsson/goddd) ⚠️ Archived - This is an attempt to port the [DDD Sample App](https://github.com/citerus/dddsample-core) ⭐ 5,293 | 🐛 33 | 🌐 Java | 📅 2025-06-02 to idiomatic Go. It can be run in a dockerized mode for previewing the application.
-* [Go DDD Template](https://github.com/sklinkert/go-ddd) ⭐ 813 | 🐛 10 | 🌐 Go | 📅 2026-09-14 - Production-grade DDD and CQRS template with value objects, race-safe idempotent commands, domain events with a transactional outbox, and a tutorial series teaching DDD from zero.
+* [Go DDD Template](https://github.com/sklinkert/go-ddd) ⭐ 814 | 🐛 10 | 🌐 Go | 📅 2026-09-14 - Production-grade DDD and CQRS template with value objects, race-safe idempotent commands, domain events with a transactional outbox, and a tutorial series teaching DDD from zero.
 * [DDD Food App](https://github.com/victorsteven/food-app-server) ⭐ 675 | 🐛 0 | 🌐 Go | 📅 2021-12-05 - Sample DDD application implementing the 4 layers (Domain, Infrastructure, Application and Interface) and considering two domain patterns. There's a blog article written for it [here](https://dev.to/stevensunflash/using-domain-driven-design-ddd-in-golang-3ee5).
 * [DDD Sample in GO](https://github.com/takashabe/go-ddd-sample) ⭐ 290 | 🐛 1 | 🌐 Go | 📅 2019-08-25 - Just another sample application implementing the four layers of DDD.
 * [Evolutive CRUD API](https://github.com/friendsofgo/gopherapi) ⭐ 80 | 🐛 1 | 🌐 Go | 📅 2026-01-02 - API implementation with full CRUD using a SOLID, Hexagonal Architecture. There is a series of blog post written for it at <https://blog.friendsofgo.tech/>.
@@ -304,9 +304,9 @@ The term was coined by Eric Evans in his book of the same title.
 
 ### .NET
 
-* [MediatR](https://github.com/jbogard/MediatR) ⭐ 11,858 | 🐛 3 | 🌐 C# | 📅 2026-07-02 - Supports request/response, commands, queries, notifications and events, synchronous and async with intelligent dispatching via C# generic variance.
+* [MediatR](https://github.com/jbogard/MediatR) ⭐ 11,857 | 🐛 3 | 🌐 C# | 📅 2026-07-02 - Supports request/response, commands, queries, notifications and events, synchronous and async with intelligent dispatching via C# generic variance.
 * [MassTransit](https://github.com/MassTransit/MassTransit) ⭐ 7,801 | 🐛 3 | 🌐 C# | 📅 2026-09-30 - Distributed Application Framework for .NET.
-* [Marten](https://github.com/JasperFx/marten) ⭐ 3,458 | 🐛 15 | 🌐 C# | 📅 2026-10-02 - Postgresql as a Document Database and Event Store for .Net Applications.
+* [Marten](https://github.com/JasperFx/marten) ⭐ 3,457 | 🐛 15 | 🌐 C# | 📅 2026-10-02 - Postgresql as a Document Database and Event Store for .Net Applications.
 * [EventFlow](https://github.com/eventflow/EventFlow) ⭐ 2,566 | 🐛 13 | 🌐 C# | 📅 2026-07-31 - Async/await first CQRS+ES and DDD framework for .NET <http://geteventflow.net/>.
 * [NServiceBus](https://github.com/Particular/NServiceBus) ⭐ 2,171 | 🐛 291 | 🌐 C# | 📅 2026-10-02 - Service bus for .NET.
 * [NEventStore](https://github.com/NEventStore/NEventStore) ⭐ 1,614 | 🐛 24 | 🌐 C# | 📅 2026-07-22 - A persistence library used to abstract different storage implementations when using event sourcing as storage mechanism.
@@ -364,7 +364,7 @@ The term was coined by Eric Evans in his book of the same title.
 
 * [DDDplus framework](https://github.com/funkygao/cp-ddd-framework) ⭐ 1,154 | 🐛 4 | 🌐 Java | 📅 2025-12-19 - A lightweight flexible development framework for complex business architecture based on DDD.
 * [akka-ddd](https://github.com/pawelkaczor/akka-ddd) ⭐ 360 | 🐛 5 | 🌐 Scala | 📅 2025-06-01 - Reusable artifacts for building applications on top of the Akka platform following CQRS/DDDD-based approach.
-* [Ahoo-Wang/Wow](https://github.com/Ahoo-Wang/Wow) ⭐ 304 | 🐛 23 | 🌐 TypeScript | 📅 2026-10-02 - A Modern Reactive CQRS Architecture Microservice development framework based on DDD and EventSourcing.
+* [Ahoo-Wang/Wow](https://github.com/Ahoo-Wang/Wow) ⭐ 304 | 🐛 20 | 🌐 TypeScript | 📅 2026-10-03 - A Modern Reactive CQRS Architecture Microservice development framework based on DDD and EventSourcing.
 * [JESA](https://github.com/yreynhout/JESA) ⭐ 9 | 🐛 3 | 🌐 Java | 📅 2016-07-26 -  Event sourced aggregates for Java.
 * [Pure Assert](https://github.com/sympol/pure-assert) ⭐ 4 | 🐛 0 | 🌐 Java | 📅 2026-07-18 - A lightweight, zero-dependency Java library for expressive pure input assertions and domain invariants.
 * [Apache Isis](https://isis.apache.org/index.html) - Apache Isis is a framework for rapidly developing domain-driven apps in Java.
@@ -455,4 +455,4 @@ To the extent possible under law, [Nick Chamberlain](https://buildplease.com) ha
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-02._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-03._

@@ -306,7 +306,7 @@
                 "open_issues": 10,
                 "owner": "sklinkert",
                 "repo": "go-ddd",
-                "stars": 813,
+                "stars": 814,
                 "topics": [
                   "architecture",
                   "clean-architecture",
@@ -1308,7 +1308,7 @@
             {
               "node_type": "item",
               "title": "Photostock CQRS-DDD Example",
-              "description": null,
+              "description": "mr0zek/Photostock",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -2331,7 +2331,7 @@
                 "open_issues": 3,
                 "owner": "LuckyPennySoftware",
                 "repo": "MediatR",
-                "stars": 11858,
+                "stars": 11857,
                 "topics": [
                   "hacktoberfest"
                 ]
@@ -2384,7 +2384,7 @@
                 "open_issues": 15,
                 "owner": "JasperFx",
                 "repo": "marten",
-                "stars": 3458,
+                "stars": 3457,
                 "topics": [
                   "document-database",
                   "documentdb",
@@ -3293,8 +3293,8 @@
                 "id": 628167080,
                 "language": "TypeScript",
                 "license": "Apache-2.0",
-                "last_commit": "2026-10-02T15:01:52Z",
-                "open_issues": 23,
+                "last_commit": "2026-10-03T04:09:01Z",
+                "open_issues": 20,
                 "owner": "Ahoo-Wang",
                 "repo": "Wow",
                 "stars": 304,
@@ -3558,7 +3558,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-02T22:33:12.372Z",
+    "last_updated": "2026-10-03T04:38:50.519Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of Domain-Driven Design (DDD), Command Query Responsibility Segregation (CQRS), Event Sourcing, and Event Storming resources",
@@ -3570,7 +3570,7 @@
       "open_issues": 2,
       "owner": "heynickc",
       "repo": "awesome-ddd",
-      "stars": 12379,
+      "stars": 12380,
       "topics": [
         "awesome",
         "awesome-list",

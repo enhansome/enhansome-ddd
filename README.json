@@ -19,7 +19,7 @@
             "open_issues": 71,
             "owner": "dotnet-architecture",
             "repo": "eShopOnContainers",
-            "stars": 24305,
+            "stars": 24304,
             "topics": [
               "ddd",
               "ddd-patterns",
@@ -250,7 +250,7 @@
                 "open_issues": 29,
                 "owner": "ThreeDotsLabs",
                 "repo": "wild-workouts-go-ddd-example",
-                "stars": 6465,
+                "stars": 6466,
                 "topics": [
                   "clean-architecture",
                   "cqrs",
@@ -494,7 +494,7 @@
                 "open_issues": 68,
                 "owner": "kgrzybek",
                 "repo": "modular-monolith-with-ddd",
-                "stars": 14042,
+                "stars": 14046,
                 "topics": [
                   "architecture",
                   "clean-architecture",
@@ -575,7 +575,7 @@
                 "open_issues": 6,
                 "owner": "EduardoPires",
                 "repo": "EquinoxProject",
-                "stars": 6775,
+                "stars": 6776,
                 "topics": [
                   "architecture",
                   "asp-net-core",
@@ -709,7 +709,7 @@
                 "open_issues": 0,
                 "owner": "AdaptiveConsulting",
                 "repo": "ReactiveTraderCloud",
-                "stars": 1856,
+                "stars": 1857,
                 "topics": [
                   "credit",
                   "finance",
@@ -1585,7 +1585,7 @@
                 "open_issues": 18,
                 "owner": "ddd-by-examples",
                 "repo": "library",
-                "stars": 5874,
+                "stars": 5873,
                 "topics": [
                   "aggregate",
                   "aggregate-root",
@@ -1622,7 +1622,7 @@
                 "open_issues": 33,
                 "owner": "citerus",
                 "repo": "dddsample-core",
-                "stars": 5293,
+                "stars": 5292,
                 "topics": []
               },
               "first_seen": "2026-08-29T01:54:50.757Z"
@@ -1643,7 +1643,7 @@
                 "open_issues": 36,
                 "owner": "VaughnVernon",
                 "repo": "IDDD_Samples",
-                "stars": 3946,
+                "stars": 3945,
                 "topics": []
               },
               "first_seen": "2026-08-29T01:54:50.757Z"
@@ -2354,7 +2354,7 @@
                 "open_issues": 3,
                 "owner": "MassTransit",
                 "repo": "MassTransit",
-                "stars": 7800,
+                "stars": 7801,
                 "topics": [
                   "azure-service-bus",
                   "c-sharp",
@@ -2380,11 +2380,11 @@
                 "id": 44125268,
                 "language": "C#",
                 "license": "MIT",
-                "last_commit": "2026-10-03T11:37:22Z",
-                "open_issues": 11,
+                "last_commit": "2026-10-04T21:56:13Z",
+                "open_issues": 14,
                 "owner": "JasperFx",
                 "repo": "marten",
-                "stars": 3458,
+                "stars": 3459,
                 "topics": [
                   "document-database",
                   "documentdb",
@@ -2410,7 +2410,7 @@
                 "id": 32411368,
                 "language": "C#",
                 "license": "NOASSERTION",
-                "last_commit": "2026-07-31T10:37:33Z",
+                "last_commit": "2026-10-04T18:33:37Z",
                 "open_issues": 13,
                 "owner": "eventflow",
                 "repo": "EventFlow",
@@ -3000,7 +3000,7 @@
                 "open_issues": 16,
                 "owner": "commanded",
                 "repo": "commanded",
-                "stars": 2033,
+                "stars": 2034,
                 "topics": [
                   "commanded",
                   "cqrs",
@@ -3029,7 +3029,7 @@
                 "open_issues": 28,
                 "owner": "commanded",
                 "repo": "eventstore",
-                "stars": 1165,
+                "stars": 1166,
                 "topics": [
                   "commanded",
                   "cqrs",
@@ -3293,8 +3293,8 @@
                 "id": 628167080,
                 "language": "TypeScript",
                 "license": "Apache-2.0",
-                "last_commit": "2026-10-03T17:01:47Z",
-                "open_issues": 13,
+                "last_commit": "2026-10-04T17:16:09Z",
+                "open_issues": 18,
                 "owner": "Ahoo-Wang",
                 "repo": "Wow",
                 "stars": 304,
@@ -3558,7 +3558,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-03T21:45:15.321Z",
+    "last_updated": "2026-10-04T21:56:13.933Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of Domain-Driven Design (DDD), Command Query Responsibility Segregation (CQRS), Event Sourcing, and Event Storming resources",

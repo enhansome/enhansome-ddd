@@ -19,7 +19,7 @@
             "open_issues": 71,
             "owner": "dotnet-architecture",
             "repo": "eShopOnContainers",
-            "stars": 24298,
+            "stars": 24296,
             "topics": [
               "ddd",
               "ddd-patterns",
@@ -49,7 +49,7 @@
             "open_issues": 20,
             "owner": "dotnet-architecture",
             "repo": "eShopOnWeb",
-            "stars": 10677,
+            "stars": 10676,
             "topics": [
               "architecture",
               "asp-net-core",
@@ -306,7 +306,7 @@
                 "open_issues": 10,
                 "owner": "sklinkert",
                 "repo": "go-ddd",
-                "stars": 813,
+                "stars": 814,
                 "topics": [
                   "architecture",
                   "clean-architecture",
@@ -494,7 +494,7 @@
                 "open_issues": 68,
                 "owner": "kgrzybek",
                 "repo": "modular-monolith-with-ddd",
-                "stars": 14060,
+                "stars": 14062,
                 "topics": [
                   "architecture",
                   "clean-architecture",
@@ -536,7 +536,7 @@
                 "open_issues": 20,
                 "owner": "dotnet-architecture",
                 "repo": "eShopOnWeb",
-                "stars": 10677,
+                "stars": 10676,
                 "topics": [
                   "architecture",
                   "asp-net-core",
@@ -1744,7 +1744,7 @@
                 "open_issues": 5,
                 "owner": "eclipse-ee4j",
                 "repo": "cargotracker",
-                "stars": 395,
+                "stars": 396,
                 "topics": [
                   "ddd",
                   "domain-driven-design",
@@ -2011,7 +2011,7 @@
                 "open_issues": 3,
                 "owner": "jorge07",
                 "repo": "symfony-7-es-cqrs-boilerplate",
-                "stars": 1088,
+                "stars": 1087,
                 "topics": [
                   "backend",
                   "cqrs",
@@ -2270,7 +2270,7 @@
                 "open_issues": 92,
                 "owner": "cucumber",
                 "repo": "godog",
-                "stars": 2679,
+                "stars": 2680,
                 "topics": [
                   "functional-testing",
                   "gherkin",
@@ -2331,7 +2331,7 @@
                 "open_issues": 3,
                 "owner": "LuckyPennySoftware",
                 "repo": "MediatR",
-                "stars": 11856,
+                "stars": 11857,
                 "topics": [
                   "hacktoberfest"
                 ]
@@ -2354,7 +2354,7 @@
                 "open_issues": 1,
                 "owner": "MassTransit",
                 "repo": "MassTransit",
-                "stars": 7802,
+                "stars": 7804,
                 "topics": [
                   "azure-service-bus",
                   "c-sharp",
@@ -2380,8 +2380,8 @@
                 "id": 44125268,
                 "language": "C#",
                 "license": "MIT",
-                "last_commit": "2026-10-08T19:26:47Z",
-                "open_issues": 11,
+                "last_commit": "2026-10-11T21:40:55Z",
+                "open_issues": 13,
                 "owner": "JasperFx",
                 "repo": "marten",
                 "stars": 3465,
@@ -2774,7 +2774,7 @@
                 "id": 109478725,
                 "language": "C#",
                 "license": "Apache-2.0",
-                "last_commit": "2026-10-10T07:24:04Z",
+                "last_commit": "2026-10-11T15:23:12Z",
                 "open_issues": 12,
                 "owner": "lucabriguglia",
                 "repo": "Memoria",
@@ -3293,11 +3293,11 @@
                 "id": 628167080,
                 "language": "TypeScript",
                 "license": "Apache-2.0",
-                "last_commit": "2026-10-10T21:49:15Z",
-                "open_issues": 15,
+                "last_commit": "2026-10-11T21:58:34Z",
+                "open_issues": 12,
                 "owner": "Ahoo-Wang",
                 "repo": "Wow",
-                "stars": 304,
+                "stars": 305,
                 "topics": [
                   "architecture",
                   "axon",
@@ -3439,7 +3439,7 @@
                 "open_issues": 4,
                 "owner": "pyeventsourcing",
                 "repo": "eventsourcing",
-                "stars": 1687,
+                "stars": 1688,
                 "topics": [
                   "cqrs",
                   "ddd",
@@ -3558,7 +3558,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-10T21:59:20.946Z",
+    "last_updated": "2026-10-11T22:27:54.902Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of Domain-Driven Design (DDD), Command Query Responsibility Segregation (CQRS), Event Sourcing, and Event Storming resources",

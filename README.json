@@ -19,7 +19,7 @@
             "open_issues": 71,
             "owner": "dotnet-architecture",
             "repo": "eShopOnContainers",
-            "stars": 24297,
+            "stars": 24295,
             "topics": [
               "ddd",
               "ddd-patterns",
@@ -122,7 +122,7 @@
             "open_issues": 9,
             "owner": "ddd-crew",
             "repo": "context-mapping",
-            "stars": 1867,
+            "stars": 1869,
             "topics": [
               "domain-driven-design"
             ]
@@ -302,11 +302,11 @@
                 "id": 677511480,
                 "language": "Go",
                 "license": "MIT",
-                "last_commit": "2026-10-13T07:27:56Z",
-                "open_issues": 8,
+                "last_commit": "2026-10-14T10:07:51Z",
+                "open_issues": 9,
                 "owner": "sklinkert",
                 "repo": "go-ddd",
-                "stars": 815,
+                "stars": 816,
                 "topics": [
                   "architecture",
                   "clean-architecture",
@@ -494,7 +494,7 @@
                 "open_issues": 68,
                 "owner": "kgrzybek",
                 "repo": "modular-monolith-with-ddd",
-                "stars": 14065,
+                "stars": 14070,
                 "topics": [
                   "architecture",
                   "clean-architecture",
@@ -709,7 +709,7 @@
                 "open_issues": 0,
                 "owner": "AdaptiveConsulting",
                 "repo": "ReactiveTraderCloud",
-                "stars": 1858,
+                "stars": 1857,
                 "topics": [
                   "credit",
                   "finance",
@@ -2331,7 +2331,7 @@
                 "open_issues": 4,
                 "owner": "LuckyPennySoftware",
                 "repo": "MediatR",
-                "stars": 11860,
+                "stars": 11859,
                 "topics": [
                   "hacktoberfest"
                 ]
@@ -2380,8 +2380,8 @@
                 "id": 44125268,
                 "language": "C#",
                 "license": "MIT",
-                "last_commit": "2026-10-13T22:29:44Z",
-                "open_issues": 18,
+                "last_commit": "2026-10-14T21:27:27Z",
+                "open_issues": 19,
                 "owner": "JasperFx",
                 "repo": "marten",
                 "stars": 3465,
@@ -2451,7 +2451,7 @@
                 "id": 1056713,
                 "language": "C#",
                 "license": "NOASSERTION",
-                "last_commit": "2026-10-13T22:22:28Z",
+                "last_commit": "2026-10-14T15:52:08Z",
                 "open_issues": 297,
                 "owner": "Particular",
                 "repo": "NServiceBus",
@@ -2876,7 +2876,7 @@
                 "id": 1252076814,
                 "language": "C#",
                 "license": "MIT",
-                "last_commit": "2026-10-13T17:05:00Z",
+                "last_commit": "2026-10-14T12:31:59Z",
                 "open_issues": 0,
                 "owner": "yesbert",
                 "repo": "Stratara",
@@ -2997,7 +2997,7 @@
                 "language": "Elixir",
                 "license": "MIT",
                 "last_commit": "2026-07-27T16:39:45Z",
-                "open_issues": 15,
+                "open_issues": 16,
                 "owner": "commanded",
                 "repo": "commanded",
                 "stars": 2035,
@@ -3293,11 +3293,11 @@
                 "id": 628167080,
                 "language": "TypeScript",
                 "license": "Apache-2.0",
-                "last_commit": "2026-10-13T23:05:36Z",
-                "open_issues": 23,
+                "last_commit": "2026-10-14T21:44:10Z",
+                "open_issues": 29,
                 "owner": "Ahoo-Wang",
                 "repo": "Wow",
-                "stars": 305,
+                "stars": 304,
                 "topics": [
                   "architecture",
                   "axon",
@@ -3439,7 +3439,7 @@
                 "open_issues": 4,
                 "owner": "pyeventsourcing",
                 "repo": "eventsourcing",
-                "stars": 1689,
+                "stars": 1690,
                 "topics": [
                   "cqrs",
                   "ddd",
@@ -3515,7 +3515,7 @@
             "open_issues": 25,
             "owner": "WPS",
             "repo": "egon.io",
-            "stars": 837,
+            "stars": 838,
             "topics": [
               "business-process",
               "collaborative-modeling",
@@ -3558,7 +3558,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-13T23:07:11.662Z",
+    "last_updated": "2026-10-14T21:56:02.960Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of Domain-Driven Design (DDD), Command Query Responsibility Segregation (CQRS), Event Sourcing, and Event Storming resources",
@@ -3570,7 +3570,7 @@
       "open_issues": 2,
       "owner": "heynickc",
       "repo": "awesome-ddd",
-      "stars": 12385,
+      "stars": 12384,
       "topics": [
         "awesome",
         "awesome-list",

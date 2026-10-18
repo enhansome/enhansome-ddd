@@ -250,7 +250,7 @@
                 "open_issues": 29,
                 "owner": "ThreeDotsLabs",
                 "repo": "wild-workouts-go-ddd-example",
-                "stars": 6478,
+                "stars": 6479,
                 "topics": [
                   "clean-architecture",
                   "cqrs",
@@ -306,7 +306,7 @@
                 "open_issues": 9,
                 "owner": "sklinkert",
                 "repo": "go-ddd",
-                "stars": 817,
+                "stars": 818,
                 "topics": [
                   "architecture",
                   "clean-architecture",
@@ -494,7 +494,7 @@
                 "open_issues": 68,
                 "owner": "kgrzybek",
                 "repo": "modular-monolith-with-ddd",
-                "stars": 14079,
+                "stars": 14080,
                 "topics": [
                   "architecture",
                   "clean-architecture",
@@ -575,7 +575,7 @@
                 "open_issues": 6,
                 "owner": "EduardoPires",
                 "repo": "EquinoxProject",
-                "stars": 6781,
+                "stars": 6782,
                 "topics": [
                   "architecture",
                   "asp-net-core",
@@ -647,7 +647,7 @@
                 "open_issues": 13,
                 "owner": "kgrzybek",
                 "repo": "sample-dotnet-core-cqrs-api",
-                "stars": 3062,
+                "stars": 3061,
                 "topics": [
                   "clean-architecture",
                   "clean-code",
@@ -1643,7 +1643,7 @@
                 "open_issues": 36,
                 "owner": "VaughnVernon",
                 "repo": "IDDD_Samples",
-                "stars": 3947,
+                "stars": 3946,
                 "topics": []
               },
               "first_seen": "2026-08-29T01:54:50.757Z"
@@ -1878,7 +1878,7 @@
                 "open_issues": 0,
                 "owner": "mkopylec",
                 "repo": "project-manager",
-                "stars": 61,
+                "stars": 62,
                 "topics": [
                   "ddd",
                   "domain-driven-design",
@@ -1911,48 +1911,6 @@
                 "topics": []
               },
               "first_seen": "2026-08-29T01:54:50.757Z"
-            },
-            {
-              "node_type": "item",
-              "title": "Casino Engine",
-              "description": "Production iGaming/casino engine in Kotlin/Ktor demonstrating Hexagonal Architecture with DDD and CQRS. Aggregates raise domain events, repository ports live in the domain layer, command and query handlers are wired through a Koin-discovered registry, and domain events are published to RabbitMQ after the write transaction commits. Apache 2.0.",
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "description": "Open-source iGaming/casino engine in Kotlin/Ktor — aggregator integrations (Pragmatic Play, OneGameHub, Pateplay), betting lifecycle, freespins, gRPC API. Hexagonal + DDD + CQRS, RabbitMQ event-driven. Apache 2.0.",
-                "homepage": "https://1638.cloud/",
-                "id": 1094544202,
-                "language": "Kotlin",
-                "license": "Apache-2.0",
-                "last_commit": "2026-09-08T15:20:17Z",
-                "open_issues": 0,
-                "owner": "nekzabirov",
-                "repo": "IGaming-Game-Engine",
-                "stars": 24,
-                "topics": [
-                  "casino",
-                  "casino-games",
-                  "casino-gaming-platforms",
-                  "cqrs",
-                  "domain-driven-design",
-                  "event-driven",
-                  "gambling",
-                  "grpc",
-                  "hexagonal-architecture",
-                  "igaming",
-                  "igaming-software",
-                  "kotlin",
-                  "ktor",
-                  "microservice",
-                  "onegamehub",
-                  "pateplay",
-                  "pragmatic-play",
-                  "rabbitmq",
-                  "slots",
-                  "turnkey-casino-solutions"
-                ]
-              },
-              "first_seen": "2026-10-01T22:54:04.252Z"
             },
             {
               "node_type": "item",
@@ -2214,7 +2172,7 @@
                 "open_issues": 127,
                 "owner": "onsi",
                 "repo": "ginkgo",
-                "stars": 9065,
+                "stars": 9066,
                 "topics": [
                   "bdd",
                   "bdd-framework",
@@ -2243,7 +2201,7 @@
                 "open_issues": 169,
                 "owner": "smartystreets",
                 "repo": "goconvey",
-                "stars": 8398,
+                "stars": 8397,
                 "topics": [
                   "bdd-framework",
                   "go",
@@ -2270,7 +2228,7 @@
                 "open_issues": 92,
                 "owner": "cucumber",
                 "repo": "godog",
-                "stars": 2684,
+                "stars": 2683,
                 "topics": [
                   "functional-testing",
                   "gherkin",
@@ -2331,7 +2289,7 @@
                 "open_issues": 4,
                 "owner": "LuckyPennySoftware",
                 "repo": "MediatR",
-                "stars": 11861,
+                "stars": 11862,
                 "topics": [
                   "hacktoberfest"
                 ]
@@ -2354,7 +2312,7 @@
                 "open_issues": 1,
                 "owner": "MassTransit",
                 "repo": "MassTransit",
-                "stars": 7807,
+                "stars": 7809,
                 "topics": [
                   "azure-service-bus",
                   "c-sharp",
@@ -2380,11 +2338,11 @@
                 "id": 44125268,
                 "language": "C#",
                 "license": "MIT",
-                "last_commit": "2026-10-17T18:26:19Z",
-                "open_issues": 23,
+                "last_commit": "2026-10-18T13:56:15Z",
+                "open_issues": 30,
                 "owner": "JasperFx",
                 "repo": "marten",
-                "stars": 3465,
+                "stars": 3466,
                 "topics": [
                   "document-database",
                   "documentdb",
@@ -2455,7 +2413,7 @@
                 "open_issues": 306,
                 "owner": "Particular",
                 "repo": "NServiceBus",
-                "stars": 2169,
+                "stars": 2170,
                 "topics": [
                   "c-sharp",
                   "distributed-systems",
@@ -3293,8 +3251,8 @@
                 "id": 628167080,
                 "language": "TypeScript",
                 "license": "Apache-2.0",
-                "last_commit": "2026-10-17T13:40:19Z",
-                "open_issues": 34,
+                "last_commit": "2026-10-18T07:46:30Z",
+                "open_issues": 38,
                 "owner": "Ahoo-Wang",
                 "repo": "Wow",
                 "stars": 304,
@@ -3558,7 +3516,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-17T20:57:32.599Z",
+    "last_updated": "2026-10-18T21:02:04.271Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of Domain-Driven Design (DDD), Command Query Responsibility Segregation (CQRS), Event Sourcing, and Event Storming resources",
@@ -3570,7 +3528,7 @@
       "open_issues": 2,
       "owner": "heynickc",
       "repo": "awesome-ddd",
-      "stars": 12386,
+      "stars": 12387,
       "topics": [
         "awesome",
         "awesome-list",

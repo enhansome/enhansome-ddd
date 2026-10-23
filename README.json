@@ -19,7 +19,7 @@
             "open_issues": 71,
             "owner": "dotnet-architecture",
             "repo": "eShopOnContainers",
-            "stars": 24292,
+            "stars": 24291,
             "topics": [
               "ddd",
               "ddd-patterns",
@@ -49,7 +49,7 @@
             "open_issues": 20,
             "owner": "dotnet-architecture",
             "repo": "eShopOnWeb",
-            "stars": 10679,
+            "stars": 10680,
             "topics": [
               "architecture",
               "asp-net-core",
@@ -122,7 +122,7 @@
             "open_issues": 9,
             "owner": "ddd-crew",
             "repo": "context-mapping",
-            "stars": 1872,
+            "stars": 1873,
             "topics": [
               "domain-driven-design"
             ]
@@ -306,7 +306,7 @@
                 "open_issues": 8,
                 "owner": "sklinkert",
                 "repo": "go-ddd",
-                "stars": 820,
+                "stars": 821,
                 "topics": [
                   "architecture",
                   "clean-architecture",
@@ -494,7 +494,7 @@
                 "open_issues": 68,
                 "owner": "kgrzybek",
                 "repo": "modular-monolith-with-ddd",
-                "stars": 14092,
+                "stars": 14089,
                 "topics": [
                   "architecture",
                   "clean-architecture",
@@ -536,7 +536,7 @@
                 "open_issues": 20,
                 "owner": "dotnet-architecture",
                 "repo": "eShopOnWeb",
-                "stars": 10679,
+                "stars": 10680,
                 "topics": [
                   "architecture",
                   "asp-net-core",
@@ -1585,7 +1585,7 @@
                 "open_issues": 18,
                 "owner": "ddd-by-examples",
                 "repo": "library",
-                "stars": 5882,
+                "stars": 5883,
                 "topics": [
                   "aggregate",
                   "aggregate-root",
@@ -1744,7 +1744,7 @@
                 "open_issues": 5,
                 "owner": "eclipse-ee4j",
                 "repo": "cargotracker",
-                "stars": 396,
+                "stars": 395,
                 "topics": [
                   "ddd",
                   "domain-driven-design",
@@ -2000,7 +2000,7 @@
                 "open_issues": 0,
                 "owner": "codeliner",
                 "repo": "php-ddd-cargo-sample",
-                "stars": 787,
+                "stars": 786,
                 "topics": [
                   "cargo-sample",
                   "ddd",
@@ -2172,7 +2172,7 @@
                 "open_issues": 128,
                 "owner": "onsi",
                 "repo": "ginkgo",
-                "stars": 9068,
+                "stars": 9069,
                 "topics": [
                   "bdd",
                   "bdd-framework",
@@ -2224,11 +2224,11 @@
                 "id": 37198116,
                 "language": "Go",
                 "license": "MIT",
-                "last_commit": "2026-10-22T03:58:09Z",
+                "last_commit": "2026-10-23T18:30:46Z",
                 "open_issues": 92,
                 "owner": "cucumber",
                 "repo": "godog",
-                "stars": 2684,
+                "stars": 2685,
                 "topics": [
                   "functional-testing",
                   "gherkin",
@@ -2338,11 +2338,11 @@
                 "id": 44125268,
                 "language": "C#",
                 "license": "MIT",
-                "last_commit": "2026-10-22T19:05:34Z",
-                "open_issues": 38,
+                "last_commit": "2026-10-23T21:06:41Z",
+                "open_issues": 44,
                 "owner": "JasperFx",
                 "repo": "marten",
-                "stars": 3467,
+                "stars": 3466,
                 "topics": [
                   "document-database",
                   "documentdb",
@@ -2409,8 +2409,8 @@
                 "id": 1056713,
                 "language": "C#",
                 "license": "NOASSERTION",
-                "last_commit": "2026-10-22T21:42:25Z",
-                "open_issues": 306,
+                "last_commit": "2026-10-23T20:19:37Z",
+                "open_issues": 303,
                 "owner": "Particular",
                 "repo": "NServiceBus",
                 "stars": 2170,
@@ -2439,7 +2439,7 @@
                 "open_issues": 24,
                 "owner": "NEventStore",
                 "repo": "NEventStore",
-                "stars": 1613,
+                "stars": 1614,
                 "topics": []
               },
               "first_seen": "2026-08-29T01:54:50.757Z"
@@ -2834,7 +2834,7 @@
                 "id": 1252076814,
                 "language": "C#",
                 "license": "MIT",
-                "last_commit": "2026-10-22T14:32:44Z",
+                "last_commit": "2026-10-23T15:56:10Z",
                 "open_issues": 0,
                 "owner": "yesbert",
                 "repo": "Stratara",
@@ -3251,8 +3251,8 @@
                 "id": 628167080,
                 "language": "TypeScript",
                 "license": "Apache-2.0",
-                "last_commit": "2026-10-22T18:24:24Z",
-                "open_issues": 19,
+                "last_commit": "2026-10-23T14:56:02Z",
+                "open_issues": 32,
                 "owner": "Ahoo-Wang",
                 "repo": "Wow",
                 "stars": 304,
@@ -3345,7 +3345,7 @@
                 "open_issues": 0,
                 "owner": "broadway",
                 "repo": "broadway",
-                "stars": 1507,
+                "stars": 1506,
                 "topics": []
               },
               "first_seen": "2026-08-29T01:54:50.757Z"
@@ -3473,7 +3473,7 @@
             "open_issues": 25,
             "owner": "WPS",
             "repo": "egon.io",
-            "stars": 839,
+            "stars": 840,
             "topics": [
               "business-process",
               "collaborative-modeling",
@@ -3516,7 +3516,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-22T21:55:10.343Z",
+    "last_updated": "2026-10-23T21:40:27.444Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of Domain-Driven Design (DDD), Command Query Responsibility Segregation (CQRS), Event Sourcing, and Event Storming resources",
@@ -3528,7 +3528,7 @@
       "open_issues": 3,
       "owner": "heynickc",
       "repo": "awesome-ddd",
-      "stars": 12396,
+      "stars": 12398,
       "topics": [
         "awesome",
         "awesome-list",

@@ -19,7 +19,7 @@
             "open_issues": 71,
             "owner": "dotnet-architecture",
             "repo": "eShopOnContainers",
-            "stars": 24281,
+            "stars": 24279,
             "topics": [
               "ddd",
               "ddd-patterns",
@@ -250,7 +250,7 @@
                 "open_issues": 29,
                 "owner": "ThreeDotsLabs",
                 "repo": "wild-workouts-go-ddd-example",
-                "stars": 6496,
+                "stars": 6500,
                 "topics": [
                   "clean-architecture",
                   "cqrs",
@@ -302,8 +302,8 @@
                 "id": 677511480,
                 "language": "Go",
                 "license": "MIT",
-                "last_commit": "2026-11-09T20:53:22Z",
-                "open_issues": 11,
+                "last_commit": "2026-11-14T20:39:57Z",
+                "open_issues": 9,
                 "owner": "sklinkert",
                 "repo": "go-ddd",
                 "stars": 828,
@@ -709,7 +709,7 @@
                 "open_issues": 0,
                 "owner": "AdaptiveConsulting",
                 "repo": "ReactiveTraderCloud",
-                "stars": 1858,
+                "stars": 1857,
                 "topics": [
                   "credit",
                   "finance",
@@ -1013,7 +1013,7 @@
                 "open_issues": 2,
                 "owner": "OKTAYKIR",
                 "repo": "EventFlow.Example",
-                "stars": 204,
+                "stars": 203,
                 "topics": [
                   "command-handler",
                   "cqrs",
@@ -1296,7 +1296,7 @@
                 "id": 876224750,
                 "language": "C#",
                 "license": "MIT",
-                "last_commit": "2024-11-14T09:24:38Z",
+                "last_commit": "2026-11-14T08:43:55Z",
                 "open_issues": 0,
                 "owner": "andrew-mart",
                 "repo": "LexiQuest-Modular-DDD",
@@ -1338,7 +1338,7 @@
                 "id": 885240243,
                 "language": "C#",
                 "license": null,
-                "last_commit": "2024-11-09T11:45:11Z",
+                "last_commit": "2026-11-14T08:44:00Z",
                 "open_issues": 0,
                 "owner": "andrew-mart",
                 "repo": "Modular.StarterTemplate",
@@ -1463,8 +1463,8 @@
                 "id": 623359273,
                 "language": "TypeScript",
                 "license": "MIT",
-                "last_commit": "2026-10-22T06:58:39Z",
-                "open_issues": 0,
+                "last_commit": "2026-11-14T03:59:21Z",
+                "open_issues": 1,
                 "owner": "bitloops",
                 "repo": "ddd-hexagonal-cqrs-es-eda",
                 "stars": 1452,
@@ -1585,7 +1585,7 @@
                 "open_issues": 18,
                 "owner": "ddd-by-examples",
                 "repo": "library",
-                "stars": 6035,
+                "stars": 6041,
                 "topics": [
                   "aggregate",
                   "aggregate-root",
@@ -1744,7 +1744,7 @@
                 "open_issues": 5,
                 "owner": "eclipse-ee4j",
                 "repo": "cargotracker",
-                "stars": 396,
+                "stars": 397,
                 "topics": [
                   "ddd",
                   "domain-driven-design",
@@ -1969,7 +1969,7 @@
                 "open_issues": 5,
                 "owner": "jorge07",
                 "repo": "symfony-7-es-cqrs-boilerplate",
-                "stars": 1084,
+                "stars": 1083,
                 "topics": [
                   "backend",
                   "cqrs",
@@ -2289,7 +2289,7 @@
                 "open_issues": 0,
                 "owner": "LuckyPennySoftware",
                 "repo": "MediatR",
-                "stars": 11855,
+                "stars": 11853,
                 "topics": [
                   "hacktoberfest"
                 ]
@@ -2338,11 +2338,11 @@
                 "id": 44125268,
                 "language": "C#",
                 "license": "MIT",
-                "last_commit": "2026-11-13T21:19:08Z",
-                "open_issues": 51,
+                "last_commit": "2026-11-14T21:10:17Z",
+                "open_issues": 34,
                 "owner": "JasperFx",
                 "repo": "marten",
-                "stars": 3472,
+                "stars": 3473,
                 "topics": [
                   "document-database",
                   "documentdb",
@@ -2372,7 +2372,7 @@
                 "open_issues": 13,
                 "owner": "eventflow",
                 "repo": "EventFlow",
-                "stars": 2566,
+                "stars": 2567,
                 "topics": [
                   "async-await",
                   "c-sharp",
@@ -2439,7 +2439,7 @@
                 "open_issues": 24,
                 "owner": "NEventStore",
                 "repo": "NEventStore",
-                "stars": 1614,
+                "stars": 1613,
                 "topics": []
               },
               "first_seen": "2026-08-29T01:54:50.757Z"
@@ -3251,11 +3251,11 @@
                 "id": 628167080,
                 "language": "Kotlin",
                 "license": "Apache-2.0",
-                "last_commit": "2026-11-13T23:47:24Z",
-                "open_issues": 12,
+                "last_commit": "2026-11-14T09:02:47Z",
+                "open_issues": 13,
                 "owner": "Ahoo-Wang",
                 "repo": "Wow",
-                "stars": 307,
+                "stars": 306,
                 "topics": [
                   "architecture",
                   "axon",
@@ -3516,7 +3516,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-13T23:51:57.070Z",
+    "last_updated": "2026-11-14T22:44:29.050Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of Domain-Driven Design (DDD), Command Query Responsibility Segregation (CQRS), Event Sourcing, and Event Storming resources",
@@ -3528,7 +3528,7 @@
       "open_issues": 6,
       "owner": "heynickc",
       "repo": "awesome-ddd",
-      "stars": 12421,
+      "stars": 12423,
       "topics": [
         "awesome",
         "awesome-list",

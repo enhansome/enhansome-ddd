@@ -19,7 +19,7 @@
             "open_issues": 71,
             "owner": "dotnet-architecture",
             "repo": "eShopOnContainers",
-            "stars": 24276,
+            "stars": 24275,
             "topics": [
               "ddd",
               "ddd-patterns",
@@ -94,7 +94,7 @@
             "open_issues": 6,
             "owner": "mariuszgil",
             "repo": "awesome-eventstorming",
-            "stars": 2410,
+            "stars": 2411,
             "topics": [
               "articles",
               "eventstorming",
@@ -145,7 +145,7 @@
             "open_issues": 3,
             "owner": "valignatev",
             "repo": "ddd-dynamic",
-            "stars": 1400,
+            "stars": 1399,
             "topics": [
               "architecture",
               "cleanarchitecture",
@@ -250,7 +250,7 @@
                 "open_issues": 29,
                 "owner": "ThreeDotsLabs",
                 "repo": "wild-workouts-go-ddd-example",
-                "stars": 6502,
+                "stars": 6506,
                 "topics": [
                   "clean-architecture",
                   "cqrs",
@@ -302,11 +302,11 @@
                 "id": 677511480,
                 "language": "Go",
                 "license": "MIT",
-                "last_commit": "2026-11-16T20:53:07Z",
-                "open_issues": 11,
+                "last_commit": "2026-11-19T21:14:47Z",
+                "open_issues": 9,
                 "owner": "sklinkert",
                 "repo": "go-ddd",
-                "stars": 830,
+                "stars": 829,
                 "topics": [
                   "architecture",
                   "clean-architecture",
@@ -347,7 +347,7 @@
                 "open_issues": 0,
                 "owner": "victorsteven",
                 "repo": "food-app-server",
-                "stars": 676,
+                "stars": 673,
                 "topics": []
               },
               "first_seen": "2026-08-29T01:54:50.757Z"
@@ -494,7 +494,7 @@
                 "open_issues": 68,
                 "owner": "kgrzybek",
                 "repo": "modular-monolith-with-ddd",
-                "stars": 14145,
+                "stars": 14148,
                 "topics": [
                   "architecture",
                   "clean-architecture",
@@ -575,7 +575,7 @@
                 "open_issues": 6,
                 "owner": "EduardoPires",
                 "repo": "EquinoxProject",
-                "stars": 6787,
+                "stars": 6786,
                 "topics": [
                   "architecture",
                   "asp-net-core",
@@ -617,7 +617,7 @@
                 "open_issues": 24,
                 "owner": "oskardudycz",
                 "repo": "EventSourcing.NetCore",
-                "stars": 3684,
+                "stars": 3683,
                 "topics": [
                   "cqrs",
                   "dotnet-core",
@@ -647,7 +647,7 @@
                 "open_issues": 13,
                 "owner": "kgrzybek",
                 "repo": "sample-dotnet-core-cqrs-api",
-                "stars": 3063,
+                "stars": 3062,
                 "topics": [
                   "clean-architecture",
                   "clean-code",
@@ -709,7 +709,7 @@
                 "open_issues": 0,
                 "owner": "AdaptiveConsulting",
                 "repo": "ReactiveTraderCloud",
-                "stars": 1856,
+                "stars": 1855,
                 "topics": [
                   "credit",
                   "finance",
@@ -762,7 +762,7 @@
                 "open_issues": 8,
                 "owner": "VaughnVernon",
                 "repo": "IDDD_Samples_NET",
-                "stars": 938,
+                "stars": 937,
                 "topics": []
               },
               "first_seen": "2026-08-29T01:54:50.757Z"
@@ -783,7 +783,7 @@
                 "open_issues": 20,
                 "owner": "hamed-shirbandi",
                 "repo": "TaskoMask",
-                "stars": 720,
+                "stars": 718,
                 "topics": [
                   "bdd",
                   "blazor",
@@ -917,7 +917,7 @@
                 "open_issues": 1,
                 "owner": "asc-lab",
                 "repo": "better-code-with-ddd",
-                "stars": 321,
+                "stars": 320,
                 "topics": []
               },
               "first_seen": "2026-08-29T01:54:50.757Z"
@@ -938,7 +938,7 @@
                 "open_issues": 30,
                 "owner": "charlessolar",
                 "repo": "eShopOnContainersDDD",
-                "stars": 319,
+                "stars": 318,
                 "topics": [
                   "backend",
                   "cqrs",
@@ -1467,7 +1467,7 @@
                 "open_issues": 1,
                 "owner": "bitloops",
                 "repo": "ddd-hexagonal-cqrs-es-eda",
-                "stars": 1452,
+                "stars": 1451,
                 "topics": [
                   "bdd",
                   "cqrs",
@@ -1504,7 +1504,7 @@
                 "open_issues": 289,
                 "owner": "boostercloud",
                 "repo": "booster",
-                "stars": 448,
+                "stars": 447,
                 "topics": [
                   "aws",
                   "azure",
@@ -1622,7 +1622,7 @@
                 "open_issues": 33,
                 "owner": "citerus",
                 "repo": "dddsample-core",
-                "stars": 5294,
+                "stars": 5292,
                 "topics": []
               },
               "first_seen": "2026-08-29T01:54:50.757Z"
@@ -1643,7 +1643,7 @@
                 "open_issues": 36,
                 "owner": "VaughnVernon",
                 "repo": "IDDD_Samples",
-                "stars": 3949,
+                "stars": 3948,
                 "topics": []
               },
               "first_seen": "2026-08-29T01:54:50.757Z"
@@ -1685,7 +1685,7 @@
                 "open_issues": 6,
                 "owner": "andreschaffer",
                 "repo": "event-sourcing-cqrs-examples",
-                "stars": 600,
+                "stars": 599,
                 "topics": [
                   "cqrs",
                   "cqrs-es",
@@ -1744,7 +1744,7 @@
                 "open_issues": 5,
                 "owner": "eclipse-ee4j",
                 "repo": "cargotracker",
-                "stars": 397,
+                "stars": 396,
                 "topics": [
                   "ddd",
                   "domain-driven-design",
@@ -2056,7 +2056,7 @@
                 "open_issues": 11,
                 "owner": "ferrius",
                 "repo": "ddd-cqrs-example",
-                "stars": 366,
+                "stars": 364,
                 "topics": []
               },
               "first_seen": "2026-08-29T01:54:50.757Z"
@@ -2077,7 +2077,7 @@
                 "open_issues": 0,
                 "owner": "franzose",
                 "repo": "symfony-ddd-wishlist",
-                "stars": 197,
+                "stars": 198,
                 "topics": [
                   "ddd",
                   "ddd-architecture",
@@ -2172,7 +2172,7 @@
                 "open_issues": 129,
                 "owner": "onsi",
                 "repo": "ginkgo",
-                "stars": 9077,
+                "stars": 9076,
                 "topics": [
                   "bdd",
                   "bdd-framework",
@@ -2201,7 +2201,7 @@
                 "open_issues": 169,
                 "owner": "smartystreets",
                 "repo": "goconvey",
-                "stars": 8397,
+                "stars": 8396,
                 "topics": [
                   "bdd-framework",
                   "go",
@@ -2309,7 +2309,7 @@
                 "language": "C#",
                 "license": "Apache-2.0",
                 "last_commit": "2026-10-21T19:15:39Z",
-                "open_issues": 1,
+                "open_issues": 2,
                 "owner": "MassTransit",
                 "repo": "MassTransit",
                 "stars": 7813,
@@ -2339,10 +2339,10 @@
                 "language": "C#",
                 "license": "MIT",
                 "last_commit": "2026-11-19T00:07:22Z",
-                "open_issues": 16,
+                "open_issues": 20,
                 "owner": "JasperFx",
                 "repo": "marten",
-                "stars": 3472,
+                "stars": 3471,
                 "topics": [
                   "document-database",
                   "documentdb",
@@ -2372,7 +2372,7 @@
                 "open_issues": 13,
                 "owner": "eventflow",
                 "repo": "EventFlow",
-                "stars": 2565,
+                "stars": 2564,
                 "topics": [
                   "async-await",
                   "c-sharp",
@@ -2409,11 +2409,11 @@
                 "id": 1056713,
                 "language": "C#",
                 "license": "NOASSERTION",
-                "last_commit": "2026-11-18T16:35:03Z",
-                "open_issues": 299,
+                "last_commit": "2026-11-19T13:24:27Z",
+                "open_issues": 294,
                 "owner": "Particular",
                 "repo": "NServiceBus",
-                "stars": 2168,
+                "stars": 2167,
                 "topics": [
                   "c-sharp",
                   "distributed-systems",
@@ -2439,7 +2439,7 @@
                 "open_issues": 21,
                 "owner": "NEventStore",
                 "repo": "NEventStore",
-                "stars": 1613,
+                "stars": 1612,
                 "topics": []
               },
               "first_seen": "2026-08-29T01:54:50.757Z"
@@ -2922,7 +2922,7 @@
                 "open_issues": 25,
                 "owner": "message-db",
                 "repo": "message-db",
-                "stars": 1654,
+                "stars": 1653,
                 "topics": [
                   "event-driven",
                   "event-sourcing",
@@ -3017,7 +3017,7 @@
                 "open_issues": 7,
                 "owner": "otobus",
                 "repo": "event_bus",
-                "stars": 704,
+                "stars": 703,
                 "topics": [
                   "elixir",
                   "event-sourcing",
@@ -3081,7 +3081,7 @@
                 "open_issues": 78,
                 "owner": "bitloops",
                 "repo": "bitloops-language",
-                "stars": 353,
+                "stars": 352,
                 "topics": [
                   "bdd",
                   "bdd-tests",
@@ -3195,7 +3195,7 @@
                 "open_issues": 4,
                 "owner": "funkygao",
                 "repo": "cp-ddd-framework",
-                "stars": 1156,
+                "stars": 1155,
                 "topics": [
                   "architecture",
                   "clean-architecture",
@@ -3251,11 +3251,11 @@
                 "id": 628167080,
                 "language": "Kotlin",
                 "license": "Apache-2.0",
-                "last_commit": "2026-11-19T00:07:54Z",
-                "open_issues": 7,
+                "last_commit": "2026-11-19T15:25:47Z",
+                "open_issues": 17,
                 "owner": "Ahoo-Wang",
                 "repo": "Wow",
-                "stars": 306,
+                "stars": 305,
                 "topics": [
                   "architecture",
                   "axon",
@@ -3516,7 +3516,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-19T00:43:35.376Z",
+    "last_updated": "2026-11-20T00:54:57.143Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of Domain-Driven Design (DDD), Command Query Responsibility Segregation (CQRS), Event Sourcing, and Event Storming resources",
@@ -3528,7 +3528,7 @@
       "open_issues": 7,
       "owner": "heynickc",
       "repo": "awesome-ddd",
-      "stars": 12427,
+      "stars": 12428,
       "topics": [
         "awesome",
         "awesome-list",
